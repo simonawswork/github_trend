@@ -11,7 +11,8 @@
 - 📊 每日自動更新 GitHub Trending 前 10 名
 - 🔥 追蹤每個 repo 的累計上榜次數
 - ⭐ 顯示 Stars 數量（透過 GitHub API 即時查詢）
-- 🔍 支援搜尋（名稱 / 描述）
+- 🌏 描述支援繁體中文 / English 切換
+- 🔍 支援搜尋（名稱 / 中英文描述）
 - 📅 記錄首次與最後上榜時間
 - 🗂️ 支援多欄位排序
 
@@ -26,7 +27,8 @@
     {
       "name": "owner/repo",
       "url": "https://github.com/owner/repo",
-      "description": "repo 用途說明",
+      "descriptionZhtw": "repo 用途說明（繁體中文）",
+      "descriptionEn": "repo description (English)",
       "counter": 3,
       "stars": 12345,
       "firstSeen": "2026-06-13",
@@ -40,7 +42,8 @@
 |------|------|
 | `name` | owner/repo 格式 |
 | `url` | GitHub 連結 |
-| `description` | repo 描述 |
+| `descriptionZhtw` | repo 描述（繁體中文） |
+| `descriptionEn` | repo 描述（英文原文） |
 | `counter` | 累計上榜次數 |
 | `stars` | 目前 Star 數 |
 | `firstSeen` | 第一次出現在 trending 的日期 |
@@ -52,10 +55,13 @@
 每天 10:00 (Asia/Taipei)
     ↓
 update_trends.js 爬取 github.com/trending
++ GitHub API 查詢 stars
     ↓
 對比現有 trends.json
-  - 已有 repo → counter+1，更新 stars / description / lastSeen
+  - 已有 repo → counter+1，更新 stars / descriptionEn / lastSeen
   - 新 repo   → 新增，counter=1，設定 firstSeen & lastSeen
+    ↓
+Kira (AI) 將 descriptionZhtw 為空的項目翻譯成繁體中文
     ↓
 git commit & push to main
     ↓
