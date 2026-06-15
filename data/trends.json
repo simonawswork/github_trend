@@ -1,0 +1,113 @@
+{
+  "lastUpdate": "2026-06-15T14:57:20.601Z",
+  "repos": [
+    {
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "description": "Collection of publicly available IPTV channels from all over the world",
+      "counter": 1,
+      "stars": 122544,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "counter": 1,
+      "stars": 8165,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "counter": 1,
+      "stars": 29637,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "description": "Meshery, the cloud native manager",
+      "counter": 1,
+      "stars": 10553,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "counter": 1,
+      "stars": 126789,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "counter": 1,
+      "stars": 352118,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "description": "M3U Playlist for free TV channels",
+      "counter": 1,
+      "stars": 17171,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "description": "Introduction to Autonomous Robots",
+      "counter": 1,
+      "stars": 2989,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "description": "Self-Hosting Guide. Learn all about locally hosting (on premises &amp; private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "counter": 1,
+      "stars": 20689,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "itsfatduck/optimizerDuck",
+      "url": "https://github.com/itsfatduck/optimizerDuck",
+      "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "counter": 1,
+      "stars": 3544,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "counter": 1,
+      "stars": 6025,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "description": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "counter": 1,
+      "stars": 30144,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-15"
+    }
+  ]
+}

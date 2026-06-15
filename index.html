@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub Trending Tracker</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>🔥 GitHub Trending Tracker</h1>
+    <p id="last-update" class="last-update"></p>
+  </header>
+
+  <main>
+    <div class="controls">
+      <input type="text" id="search" placeholder="搜尋 repo 名稱或描述..." />
+      <select id="sort">
+        <option value="lastSeen">最後上榜時間</option>
+        <option value="stars">Stars</option>
+        <option value="counter">上榜次數</option>
+        <option value="firstSeen">首次上榜時間</option>
+      </select>
+    </div>
+
+    <div id="repo-list" class="repo-list"></div>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
