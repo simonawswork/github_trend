@@ -154,3 +154,31 @@ main {
   color: #8b949e;
   font-size: 1rem;
 }
+
+.lang-toggle {
+  display: flex;
+  gap: 4px;
+}
+
+.lang-btn {
+  padding: 8px 16px;
+  background: #161b22;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  color: #8b949e;
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.lang-btn:hover {
+  border-color: #58a6ff;
+  color: #c9d1d9;
+}
+
+.lang-btn.active {
+  background: #1f6feb;
+  border-color: #1f6feb;
+  color: #ffffff;
+  font-weight: 600;
+}

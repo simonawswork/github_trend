@@ -4,8 +4,9 @@
  * update_trends.js
  * 抓取 GitHub Trending 並更新 data/trends.json
  * 邏輯：
- *   - 已存在的 repo → counter+1，更新 stars、description、lastSeen
+ *   - 已存在的 repo → counter+1，更新 stars、descriptionEn、lastSeen
  *   - 新 repo → 加入，counter=1，設定 firstSeen & lastSeen
+ *   - descriptionZhtw 由 cron job (Kira) 負責翻譯填入
  */
 
 const https = require('https');
@@ -80,17 +81,13 @@ function parseTrending(html) {
     const name = rawName;
     const url = `https://github.com/${name}`;
 
-    // description
+    // description (英文原文)
     const descMatch = block.match(/<p[^>]*class="[^"]*col-9[^"]*"[^>]*>([\s\S]*?)<\/p>/);
-    const description = descMatch
-      ? descMatch[1].replace(/<[^>]+>/g, '').trim()
+    const descriptionEn = descMatch
+      ? descMatch[1].replace(/<[^>]+>/g, '').replace(/&amp;/g, '&').replace(/&lt;/g, '<').replace(/&gt;/g, '>').trim()
       : '';
 
-    // stars (total) - 抓 stargazers 連結後面的數字
-    const starsMatch = block.match(/\/stargazers[\s\S]{0,200}?>\s*([\d,]+)\s*</);
-    const stars = starsMatch ? parseInt(starsMatch[1].replace(/,/g, ''), 10) : 0;
-
-    repos.push({ name, url, description, stars });
+    repos.push({ name, url, descriptionEn });
   }
 
   return repos;
@@ -137,13 +134,15 @@ async function main() {
       const old = existingMap.get(r.name);
       old.counter = (old.counter || 1) + 1;
       old.stars = r.stars;
-      old.description = r.description || old.description;
+      old.descriptionEn = r.descriptionEn || old.descriptionEn;
       old.lastSeen = TODAY;
+      // descriptionZhtw 保留現有翻譯，新上榜由 cron job 補譯
     } else {
       existingMap.set(r.name, {
         name: r.name,
         url: r.url,
-        description: r.description,
+        descriptionZhtw: '', // 由 cron job (Kira) 翻譯填入
+        descriptionEn: r.descriptionEn,
         counter: 1,
         stars: r.stars,
         firstSeen: TODAY,

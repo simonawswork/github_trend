@@ -4,7 +4,8 @@
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
-      "description": "收錄來自世界各地公開可用的 IPTV 頻道",
+      "descriptionZhtw": "收錄來自世界各地公開可用的 IPTV 頻道",
+      "descriptionEn": "Collection of publicly available IPTV channels from all over the world",
       "counter": 1,
       "stars": 122544,
       "firstSeen": "2026-06-15",
@@ -13,7 +14,8 @@
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
-      "description": "自架的 Tesla 車輛數據記錄器 🚘",
+      "descriptionZhtw": "自架的 Tesla 車輛數據記錄器 🚘",
+      "descriptionEn": "A self-hosted data logger for your Tesla 🚘",
       "counter": 1,
       "stars": 8165,
       "firstSeen": "2026-06-15",
@@ -22,7 +24,8 @@
     {
       "name": "Panniantong/Agent-Reach",
       "url": "https://github.com/Panniantong/Agent-Reach",
-      "description": "讓 AI Agent 能瀏覽整個網路，透過單一 CLI 讀取和搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書，且無需 API 費用",
+      "descriptionZhtw": "讓 AI Agent 能瀏覽整個網路，透過單一 CLI 讀取和搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書，且無需 API 費用",
+      "descriptionEn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "counter": 1,
       "stars": 29637,
       "firstSeen": "2026-06-15",
@@ -31,7 +34,8 @@
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
-      "description": "Meshery，雲原生基礎設施管理平台",
+      "descriptionZhtw": "Meshery，雲原生基礎設施管理平台",
+      "descriptionEn": "Meshery, the cloud native manager",
       "counter": 1,
       "stars": 10553,
       "firstSeen": "2026-06-15",
@@ -40,7 +44,8 @@
     {
       "name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
-      "description": "《Hello 算法》：動畫圖解、一鍵執行的資料結構與演算法教程，支援繁中、簡中、英文、日文及多種程式語言實作",
+      "descriptionZhtw": "《Hello 算法》：動畫圖解、一鍵執行的資料結構與演算法教程，支援繁中、簡中、英文、日文及多種程式語言實作",
+      "descriptionEn": "Hello Algo: animated, one-click data structures & algorithms tutorial. Supports zh-TW, zh-CN, EN, JA and many languages.",
       "counter": 1,
       "stars": 126789,
       "firstSeen": "2026-06-15",
@@ -49,7 +54,8 @@
     {
       "name": "jwasham/coding-interview-university",
       "url": "https://github.com/jwasham/coding-interview-university",
-      "description": "成為軟體工程師的完整電腦科學自學計畫",
+      "descriptionZhtw": "成為軟體工程師的完整電腦科學自學計畫",
+      "descriptionEn": "A complete computer science study plan to become a software engineer.",
       "counter": 1,
       "stars": 352118,
       "firstSeen": "2026-06-15",
@@ -58,7 +64,8 @@
     {
       "name": "Free-TV/IPTV",
       "url": "https://github.com/Free-TV/IPTV",
-      "description": "免費電視頻道的 M3U 播放清單",
+      "descriptionZhtw": "免費電視頻道的 M3U 播放清單",
+      "descriptionEn": "M3U Playlist for free TV channels",
       "counter": 1,
       "stars": 17171,
       "firstSeen": "2026-06-15",
@@ -67,7 +74,8 @@
     {
       "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
       "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
-      "description": "自主機器人入門教材",
+      "descriptionZhtw": "自主機器人入門教材",
+      "descriptionEn": "Introduction to Autonomous Robots",
       "counter": 1,
       "stars": 2989,
       "firstSeen": "2026-06-15",
@@ -76,7 +84,8 @@
     {
       "name": "mikeroyal/Self-Hosting-Guide",
       "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
-      "description": "自架服務完全指南，涵蓋本地與私有伺服器架設、Cloud、LLMs、WireGuard、自動化、Home Assistant 及網路設定",
+      "descriptionZhtw": "自架服務完全指南，涵蓋本地與私有伺服器架設、Cloud、LLMs、WireGuard、自動化、Home Assistant 及網路設定",
+      "descriptionEn": "Self-Hosting Guide. Learn all about locally hosting and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
       "counter": 1,
       "stars": 20689,
       "firstSeen": "2026-06-15",
@@ -85,7 +94,8 @@
     {
       "name": "itsfatduck/optimizerDuck",
       "url": "https://github.com/itsfatduck/optimizerDuck",
-      "description": "免費開源的 Windows 效能優化工具，兼顧隱私保護與操作簡便性",
+      "descriptionZhtw": "免費開源的 Windows 效能優化工具，兼顧隱私保護與操作簡便性",
+      "descriptionEn": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
       "counter": 1,
       "stars": 3544,
       "firstSeen": "2026-06-15",
@@ -94,7 +104,8 @@
     {
       "name": "NVIDIA/SkillSpector",
       "url": "https://github.com/NVIDIA/SkillSpector",
-      "description": "AI Agent Skills 安全掃描工具，可偵測漏洞、惡意模式與安全風險",
+      "descriptionZhtw": "AI Agent Skills 安全掃描工具，可偵測漏洞、惡意模式與安全風險",
+      "descriptionEn": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "counter": 1,
       "stars": 6025,
       "firstSeen": "2026-06-15",
@@ -103,7 +114,8 @@
     {
       "name": "shiyu-coder/Kronos",
       "url": "https://github.com/shiyu-coder/Kronos",
-      "description": "Kronos：金融市場語言的基礎模型",
+      "descriptionZhtw": "Kronos：金融市場語言的基礎模型",
+      "descriptionEn": "Kronos: A Foundation Model for the Language of Financial Markets",
       "counter": 1,
       "stars": 30144,
       "firstSeen": "2026-06-15",
