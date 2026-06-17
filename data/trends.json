@@ -1,25 +1,25 @@
 {
-  "lastUpdate": "2026-06-16T02:00:14.956Z",
+  "lastUpdate": "2026-06-17T02:00:15.410Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "descriptionZhtw": "收錄來自世界各地公開可用的 IPTV 頻道",
       "descriptionEn": "Collection of publicly available IPTV channels from all over the world",
-      "counter": 2,
-      "stars": 122959,
+      "counter": 4,
+      "stars": 124152,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-17"
     },
     {
       "name": "teslamate-org/teslamate",
       "url": "https://github.com/teslamate-org/teslamate",
       "descriptionZhtw": "自架的 Tesla 車輛數據記錄器 🚘",
       "descriptionEn": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
-      "counter": 2,
-      "stars": 8248,
+      "counter": 4,
+      "stars": 8419,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-17"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -36,10 +36,10 @@
       "url": "https://github.com/meshery/meshery",
       "descriptionZhtw": "Meshery，雲原生基礎設施管理平台",
       "descriptionEn": "Meshery, the cloud native manager",
-      "counter": 2,
-      "stars": 10642,
+      "counter": 4,
+      "stars": 10860,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-17"
     },
     {
       "name": "krahets/hello-algo",
@@ -120,6 +120,76 @@
       "stars": 30292,
       "firstSeen": "2026-06-15",
       "lastSeen": "2026-06-16"
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "descriptionZhtw": "Chrome 和 Firefox 的 JavaScript 自動化 API",
+      "descriptionEn": "JavaScript API for Chrome and Firefox",
+      "counter": 2,
+      "stars": 94906,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "descriptionZhtw": "快速、簡單且可靠的瀏覽器端測試框架",
+      "descriptionEn": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "counter": 2,
+      "stars": 50224,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "descriptionZhtw": "以 Rust 撰寫的跨平台 GUI 工具，透過 ADB 清除非 Root Android 裝置的預裝軟體，提升隱私、安全性與電池續航",
+      "descriptionEn": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "counter": 2,
+      "stars": 7334,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "descriptionZhtw": "VoxCPM2：免 Tokenizer 的多語言 TTS 模型，支援創意聲音設計與高擬真聲音複製",
+      "descriptionEn": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "counter": 2,
+      "stars": 30154,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "descriptionZhtw": "輕量、極速的進程內向量資料庫",
+      "descriptionEn": "A lightweight, lightning-fast, in-process vector database",
+      "counter": 2,
+      "stars": 10492,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "descriptionZhtw": "免費開源的自架 WhatsApp API Gateway",
+      "descriptionEn": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "counter": 2,
+      "stars": 9102,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "descriptionZhtw": "IP 位址會失效，改用 Key 撥號。以 Rust 打造的模組化網路堆疊",
+      "descriptionEn": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "counter": 2,
+      "stars": 9310,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
     }
   ]
 }
