@@ -132,7 +132,10 @@ async function main() {
   for (const r of fetched) {
     if (existingMap.has(r.name)) {
       const old = existingMap.get(r.name);
-      old.counter = (old.counter || 1) + 1;
+      // 冪等保護：同一天重複執行不累加 counter
+      if (old.lastSeen !== TODAY) {
+        old.counter = (old.counter || 1) + 1;
+      }
       old.stars = r.stars;
       old.descriptionEn = r.descriptionEn || old.descriptionEn;
       old.lastSeen = TODAY;
