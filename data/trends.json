@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-17T02:00:15.410Z",
+  "lastUpdate": "2026-06-18T02:00:16.585Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -26,30 +26,30 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "descriptionZhtw": "讓 AI Agent 能瀏覽整個網路，透過單一 CLI 讀取和搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書，且無需 API 費用",
       "descriptionEn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "counter": 2,
-      "stars": 30298,
+      "counter": 3,
+      "stars": 33275,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     {
       "name": "meshery/meshery",
       "url": "https://github.com/meshery/meshery",
       "descriptionZhtw": "Meshery，雲原生基礎設施管理平台",
       "descriptionEn": "Meshery, the cloud native manager",
-      "counter": 4,
-      "stars": 10860,
+      "counter": 5,
+      "stars": 11029,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-17"
+      "lastSeen": "2026-06-18"
     },
     {
       "name": "krahets/hello-algo",
       "url": "https://github.com/krahets/hello-algo",
       "descriptionZhtw": "《Hello 算法》：動畫圖解、一鍵執行的資料結構與演算法教程，支援繁中、簡中、英文、日文及多種程式語言實作",
       "descriptionEn": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
-      "counter": 2,
-      "stars": 126950,
+      "counter": 3,
+      "stars": 127481,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     {
       "name": "jwasham/coding-interview-university",
@@ -146,10 +146,10 @@
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "descriptionZhtw": "以 Rust 撰寫的跨平台 GUI 工具，透過 ADB 清除非 Root Android 裝置的預裝軟體，提升隱私、安全性與電池續航",
       "descriptionEn": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "counter": 2,
-      "stars": 7334,
+      "counter": 3,
+      "stars": 7657,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17"
+      "lastSeen": "2026-06-18"
     },
     {
       "name": "OpenBMB/VoxCPM",
@@ -186,10 +186,110 @@
       "url": "https://github.com/n0-computer/iroh",
       "descriptionZhtw": "IP 位址會失效，改用 Key 撥號。以 Rust 打造的模組化網路堆疊",
       "descriptionEn": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "counter": 2,
-      "stars": 9310,
+      "counter": 3,
+      "stars": 9675,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17"
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "descriptionZhtw": "高效能程式碼智慧 MCP 伺服器，可將程式庫索引為持久知識圖譜，毫秒內完成，支援 158 種語言，查詢延遲低於 1ms，Token 用量減少 99%，單一靜態執行檔，零依賴",
+      "descriptionEn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "counter": 1,
+      "stars": 5409,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "descriptionZhtw": "TimesFM（時間序列基礎模型）：由 Google Research 開發的預訓練時間序列基礎模型，專為時間序列預測設計",
+      "descriptionEn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "counter": 1,
+      "stars": 21931,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "descriptionZhtw": "開源程式碼 AI Agent",
+      "descriptionEn": "open-source coding agent",
+      "counter": 1,
+      "stars": 33918,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "descriptionZhtw": "Penpot：設計與程式碼協作的開源設計工具",
+      "descriptionEn": "Penpot: The open-source design tool for design and code collaboration",
+      "counter": 1,
+      "stars": 50112,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "yairm210/Unciv",
+      "url": "https://github.com/yairm210/Unciv",
+      "descriptionZhtw": "文明帝國 V 的開源 Android／桌面重製版",
+      "descriptionEn": "Open-source Android/Desktop remake of Civ V",
+      "counter": 1,
+      "stars": 10675,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "descriptionZhtw": "開源多模態 AI Agent 技術棧：整合前沿 AI 模型與 Agent 基礎設施",
+      "descriptionEn": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "counter": 1,
+      "stars": 36711,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "descriptionZhtw": "生產級 Rust 原生交易引擎，採用確定性事件驅動架構",
+      "descriptionEn": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "counter": 1,
+      "stars": 23820,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "descriptionZhtw": "全球首個開源 AI 代理影片製作系統，內建 12 條流程、52 個工具、500+ Agent Skills，可將 AI 程式碼助手變身完整影片製作工作室",
+      "descriptionEn": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "counter": 1,
+      "stars": 5362,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "alexzhang13/rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "descriptionZhtw": "遞迴語言模型（RLM）的通用即插即用推論函式庫，支援多種沙盒環境",
+      "descriptionEn": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "counter": 1,
+      "stars": 4937,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "descriptionZhtw": "🔥 開源的 Jira、Linear、Monday、ClickUp 替代方案，現代化專案管理平台，支援任務、Sprint、文件與問題分類管理",
+      "descriptionEn": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "counter": 1,
+      "stars": 51319,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
     }
   ]
 }
