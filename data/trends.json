@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-18T02:00:16.585Z",
+  "lastUpdate": "2026-06-19T02:00:15.358Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -146,10 +146,10 @@
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "descriptionZhtw": "以 Rust 撰寫的跨平台 GUI 工具，透過 ADB 清除非 Root Android 裝置的預裝軟體，提升隱私、安全性與電池續航",
       "descriptionEn": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "counter": 3,
-      "stars": 7657,
+      "counter": 4,
+      "stars": 7928,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-19"
     },
     {
       "name": "OpenBMB/VoxCPM",
@@ -166,10 +166,10 @@
       "url": "https://github.com/alibaba/zvec",
       "descriptionZhtw": "輕量、極速的進程內向量資料庫",
       "descriptionEn": "A lightweight, lightning-fast, in-process vector database",
-      "counter": 2,
-      "stars": 10492,
+      "counter": 3,
+      "stars": 11237,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17"
+      "lastSeen": "2026-06-19"
     },
     {
       "name": "rmyndharis/OpenWA",
@@ -186,30 +186,30 @@
       "url": "https://github.com/n0-computer/iroh",
       "descriptionZhtw": "IP 位址會失效，改用 Key 撥號。以 Rust 打造的模組化網路堆疊",
       "descriptionEn": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
-      "counter": 3,
-      "stars": 9675,
+      "counter": 4,
+      "stars": 10014,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-19"
     },
     {
       "name": "DeusData/codebase-memory-mcp",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "descriptionZhtw": "高效能程式碼智慧 MCP 伺服器，可將程式庫索引為持久知識圖譜，毫秒內完成，支援 158 種語言，查詢延遲低於 1ms，Token 用量減少 99%，單一靜態執行檔，零依賴",
       "descriptionEn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "counter": 1,
-      "stars": 5409,
+      "counter": 2,
+      "stars": 7092,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-19"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "descriptionZhtw": "TimesFM（時間序列基礎模型）：由 Google Research 開發的預訓練時間序列基礎模型，專為時間序列預測設計",
       "descriptionEn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "counter": 1,
-      "stars": 21931,
+      "counter": 2,
+      "stars": 23221,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-19"
     },
     {
       "name": "continuedev/continue",
@@ -286,10 +286,80 @@
       "url": "https://github.com/makeplane/plane",
       "descriptionZhtw": "🔥 開源的 Jira、Linear、Monday、ClickUp 替代方案，現代化專案管理平台，支援任務、Sprint、文件與問題分類管理",
       "descriptionEn": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "counter": 1,
-      "stars": 51319,
+      "counter": 2,
+      "stars": 51851,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "descriptionZhtw": "GLM-5：從氛圍編程到工程化 Agent 開發",
+      "descriptionEn": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "counter": 1,
+      "stars": 4149,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "descriptionZhtw": "透過 LLMs 將非結構化文字轉為結構化知識，支援圖、超圖及時空提取，一行指令搞定",
+      "descriptionEn": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "counter": 1,
+      "stars": 1796,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "descriptionZhtw": "Kilo：一體化 Agentic 工程平台，最受歡迎的開源 AI 編程 Agent，加速開發、交付與迭代",
+      "descriptionEn": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "counter": 1,
+      "stars": 22178,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "descriptionZhtw": "開源跨平台 API 客戶端，支援 GraphQL、REST、WebSockets、SSE 和 gRPC，可使用雲端、本地或 Git 儲存",
+      "descriptionEn": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "counter": 1,
+      "stars": 38692,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "descriptionZhtw": "ASP.NET Core：跨平台 .NET 框架，可在 Windows、Mac 或 Linux 上建構現代雲端 Web 應用程式",
+      "descriptionEn": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "counter": 1,
+      "stars": 38098,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "descriptionZhtw": "精選人工智慧（AI）課程、書籍、影片講座與論文清單",
+      "descriptionEn": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "counter": 1,
+      "stars": 14411,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "descriptionZhtw": "LTX-2 音訊－影片生成模型的官方 Python 推論與 LoRA 訓練套件",
+      "descriptionEn": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "counter": 1,
+      "stars": 7502,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
     }
   ]
 }
