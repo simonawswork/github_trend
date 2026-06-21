@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-20T02:00:15.730Z",
+  "lastUpdate": "2026-06-21T02:00:15.409Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -196,20 +196,20 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "descriptionZhtw": "高效能程式碼智慧 MCP 伺服器，可將程式庫索引為持久知識圖譜，毫秒內完成，支援 158 種語言，查詢延遲低於 1ms，Token 用量減少 99%，單一靜態執行檔，零依賴",
       "descriptionEn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "counter": 3,
-      "stars": 8279,
+      "counter": 4,
+      "stars": 9395,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-20"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "descriptionZhtw": "TimesFM（時間序列基礎模型）：由 Google Research 開發的預訓練時間序列基礎模型，專為時間序列預測設計",
       "descriptionEn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "counter": 3,
-      "stars": 24100,
+      "counter": 4,
+      "stars": 24565,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-20"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "continuedev/continue",
@@ -226,10 +226,10 @@
       "url": "https://github.com/penpot/penpot",
       "descriptionZhtw": "Penpot：設計與程式碼協作的開源設計工具",
       "descriptionEn": "Penpot: The open-source design tool for design and code collaboration",
-      "counter": 2,
-      "stars": 50610,
+      "counter": 3,
+      "stars": 51462,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-20"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "yairm210/Unciv",
@@ -266,10 +266,10 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "descriptionZhtw": "全球首個開源 AI 代理影片製作系統，內建 12 條流程、52 個工具、500+ Agent Skills，可將 AI 程式碼助手變身完整影片製作工作室",
       "descriptionEn": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "counter": 2,
-      "stars": 6317,
+      "counter": 3,
+      "stars": 7099,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-20"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "alexzhang13/rlm",
@@ -316,20 +316,20 @@
       "url": "https://github.com/Kilo-Org/kilocode",
       "descriptionZhtw": "Kilo：一體化 Agentic 工程平台，最受歡迎的開源 AI 編程 Agent，加速開發、交付與迭代",
       "descriptionEn": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
-      "counter": 1,
-      "stars": 22178,
+      "counter": 2,
+      "stars": 23375,
       "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-19"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "Kong/insomnia",
       "url": "https://github.com/Kong/insomnia",
       "descriptionZhtw": "開源跨平台 API 客戶端，支援 GraphQL、REST、WebSockets、SSE 和 gRPC，可使用雲端、本地或 Git 儲存",
       "descriptionEn": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
-      "counter": 2,
-      "stars": 38989,
+      "counter": 3,
+      "stars": 39339,
       "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-20"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "dotnet/aspnetcore",
@@ -346,10 +346,10 @@
       "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
       "descriptionZhtw": "精選人工智慧（AI）課程、書籍、影片講座與論文清單",
       "descriptionEn": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
-      "counter": 1,
-      "stars": 14411,
+      "counter": 2,
+      "stars": 14796,
       "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-19"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "Lightricks/LTX-2",
@@ -366,10 +366,10 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "descriptionZhtw": "專為 AI 打造的 macOS 影片編輯器",
       "descriptionEn": "macOS video editor built for AI",
-      "counter": 1,
-      "stars": 1958,
+      "counter": 2,
+      "stars": 3421,
       "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-20"
+      "lastSeen": "2026-06-21"
     },
     {
       "name": "koala73/worldmonitor",
@@ -400,6 +400,56 @@
       "stars": 1061,
       "firstSeen": "2026-06-20",
       "lastSeen": "2026-06-20"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "descriptionZhtw": "Turso：進程內 SQL 資料庫，相容 SQLite",
+      "descriptionEn": "Turso is an in-process SQL database, compatible with SQLite.",
+      "counter": 1,
+      "stars": 20352,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "descriptionZhtw": "Salesforce 的開源替代方案，專為 AI 設計",
+      "descriptionEn": "The open alternative to Salesforce, designed for AI.",
+      "counter": 1,
+      "stars": 50875,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "descriptionZhtw": "開源 AI 語音工作室，支援聲音複製、語音輸入與創作",
+      "descriptionEn": "The open-source AI voice studio. Clone, dictate, create.",
+      "counter": 1,
+      "stars": 31036,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "pppscn/SmsForwarder",
+      "url": "https://github.com/pppscn/SmsForwarder",
+      "descriptionZhtw": "Android 簡訊轉發器，監控手機簡訊、來電、APP 通知，並依規則轉發至釘釘、企業微信、飛書、Email、Telegram 等平台，支援遠端發送簡訊與查詢資訊",
+      "descriptionEn": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学���与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "counter": 1,
+      "stars": 26497,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "descriptionZhtw": "程式碼 Agent 測試框架",
+      "descriptionEn": "Coding Agent Harness",
+      "counter": 1,
+      "stars": 7404,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
     }
   ]
 }
