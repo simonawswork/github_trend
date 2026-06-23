@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-22T02:00:14.008Z",
+  "lastUpdate": "2026-06-23T02:00:15.011Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -196,10 +196,10 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "descriptionZhtw": "高效能程式碼智慧 MCP 伺服器，可將程式庫索引為持久知識圖譜，毫秒內完成，支援 158 種語言，查詢延遲低於 1ms，Token 用量減少 99%，單一靜態執行檔，零依賴",
       "descriptionEn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "counter": 5,
-      "stars": 10365,
+      "counter": 6,
+      "stars": 11663,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "google-research/timesfm",
@@ -226,10 +226,10 @@
       "url": "https://github.com/penpot/penpot",
       "descriptionZhtw": "Penpot：設計與程式碼協作的開源設計工具",
       "descriptionEn": "Penpot: The open-source design tool for design and code collaboration",
-      "counter": 4,
-      "stars": 52280,
+      "counter": 5,
+      "stars": 52900,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "yairm210/Unciv",
@@ -266,10 +266,10 @@
       "url": "https://github.com/calesthio/OpenMontage",
       "descriptionZhtw": "全球首個開源 AI 代理影片製作系統，內建 12 條流程、52 個工具、500+ Agent Skills，可將 AI 程式碼助手變身完整影片製作工作室",
       "descriptionEn": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
-      "counter": 4,
-      "stars": 8880,
+      "counter": 5,
+      "stars": 12265,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "alexzhang13/rlm",
@@ -366,10 +366,10 @@
       "url": "https://github.com/palmier-io/palmier-pro",
       "descriptionZhtw": "專為 AI 打造的 macOS 影片編輯器",
       "descriptionEn": "macOS video editor built for AI",
-      "counter": 3,
-      "stars": 5283,
+      "counter": 4,
+      "stars": 7458,
       "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "koala73/worldmonitor",
@@ -406,10 +406,10 @@
       "url": "https://github.com/tursodatabase/turso",
       "descriptionZhtw": "Turso：進程內 SQL 資料庫，相容 SQLite",
       "descriptionEn": "Turso is an in-process SQL database, compatible with SQLite.",
-      "counter": 2,
-      "stars": 20838,
+      "counter": 3,
+      "stars": 21510,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "twentyhq/twenty",
@@ -426,10 +426,10 @@
       "url": "https://github.com/jamiepine/voicebox",
       "descriptionZhtw": "開源 AI 語音工作室，支援聲音複製、語音輸入與創作",
       "descriptionEn": "The open-source AI voice studio. Clone, dictate, create.",
-      "counter": 1,
-      "stars": 31036,
+      "counter": 2,
+      "stars": 32316,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-06-21"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "pppscn/SmsForwarder",
@@ -456,20 +456,20 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "descriptionZhtw": "LLM 驅動的多市場股票智慧分析系統：多源行情、即時新聞、決策儀表板與自動推播，支援零成本定時執行",
       "descriptionEn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "counter": 1,
-      "stars": 44559,
+      "counter": 2,
+      "stars": 45893,
       "firstSeen": "2026-06-22",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
       "descriptionZhtw": "開源長時程 SuperAgent 框架，可自主研究、撰寫程式碼與內容創作。借助沙盒、記憶體、工具、技能、子 Agent 與訊息閘道，可處理需耗時數分鐘至數小時的各層級任務",
       "descriptionEn": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "counter": 1,
-      "stars": 72614,
+      "counter": 2,
+      "stars": 73304,
       "firstSeen": "2026-06-22",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-06-23"
     },
     {
       "name": "mikumifa/biliTickerBuy",
@@ -500,6 +500,46 @@
       "stars": 54033,
       "firstSeen": "2026-06-22",
       "lastSeen": "2026-06-22"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "descriptionZhtw": "使用 Garry Tan 的 Claude Code 精確設定：23 個工具，分別扮演 CEO、設計師、工程主管、發版管理員、文件工程師和 QA 角色",
+      "descriptionEn": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "counter": 1,
+      "stars": 113196,
+      "firstSeen": "2026-06-23",
+      "lastSeen": "2026-06-23"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "descriptionZhtw": "撰寫 HTML，渲染成影片，專為 AI Agent 打造",
+      "descriptionEn": "Write HTML. Render video. Built for agents.",
+      "counter": 1,
+      "stars": 30051,
+      "firstSeen": "2026-06-23",
+      "lastSeen": "2026-06-23"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "descriptionZhtw": "大規模搜尋、爬取與互動的網頁 API 🔥",
+      "descriptionEn": "The API to search, scrape, and interact with the web at scale. 🔥",
+      "counter": 1,
+      "stars": 137354,
+      "firstSeen": "2026-06-23",
+      "lastSeen": "2026-06-23"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "descriptionZhtw": "使用 AI Coding Agent，一行指令複製任意網站",
+      "descriptionEn": "Clone any website with one command using AI coding agents",
+      "counter": 1,
+      "stars": 17797,
+      "firstSeen": "2026-06-23",
+      "lastSeen": "2026-06-23"
     }
   ]
 }
