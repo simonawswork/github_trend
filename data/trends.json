@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-24T02:00:16.508Z",
+  "lastUpdate": "2026-06-25T02:00:12.829Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -456,10 +456,10 @@
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "descriptionZhtw": "LLM 驅動的多市場股票智慧分析系統：多源行情、即時新聞、決策儀表板與自動推播，支援零成本定時執行",
       "descriptionEn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "counter": 3,
-      "stars": 47128,
+      "counter": 4,
+      "stars": 48589,
       "firstSeen": "2026-06-22",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
     },
     {
       "name": "bytedance/deer-flow",
@@ -536,10 +536,10 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "descriptionZhtw": "使用 AI Coding Agent，一行指令複製任意網站",
       "descriptionEn": "Clone any website with one command using AI coding agents",
-      "counter": 2,
-      "stars": 18593,
+      "counter": 3,
+      "stars": 19368,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -566,20 +566,100 @@
       "url": "https://github.com/revfactory/harness",
       "descriptionZhtw": "元技能框架：設計特定領域的 Agent 團隊、定義專屬 Agent 並生成所需技能",
       "descriptionEn": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "counter": 1,
-      "stars": 7452,
+      "counter": 2,
+      "stars": 7760,
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
     },
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "descriptionZhtw": "與你一同成長的 AI Agent",
       "descriptionEn": "The agent that grows with you",
-      "counter": 1,
-      "stars": 200997,
+      "counter": 2,
+      "stars": 202111,
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "descriptionZhtw": "在 Mac 上使用輕量級虛擬機器建立和執行 Linux 容器的工具，以 Swift 編寫，針對 Apple Silicon 優化",
+      "descriptionEn": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "counter": 1,
+      "stars": 42287,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "descriptionZhtw": "用於評估與評分履歷的 AI Agent",
+      "descriptionEn": "AI agent to evaluate and score resumes.",
+      "counter": 1,
+      "stars": 2229,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "descriptionZhtw": "Flutter 讓你輕鬆快速地為行動裝置及更多平台打造精美應用程式",
+      "descriptionEn": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "counter": 1,
+      "stars": 177354,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "url": "https://github.com/andreknieriem/headunit-revived",
+      "descriptionZhtw": "顯示 Android Auto 的車載主機應用程式",
+      "descriptionEn": "Headunit App for displaying Android Auto",
+      "counter": 1,
+      "stars": 1431,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "descriptionZhtw": "Orca 是用於管理平行 Agent 群組的 ADE，可用自有訂閱執行任何程式碼 Agent，支援桌面與行動裝置",
+      "descriptionEn": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
+      "counter": 1,
+      "stars": 6833,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "descriptionZhtw": "向程式碼 Agent 描述視覺識別的格式規範，DESIGN.md 讓 Agent 持久且結構化地理解設計系統",
+      "descriptionEn": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "counter": 1,
+      "stars": 17394,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "descriptionZhtw": "用於解除對 Discord 和 YouTube 封鎖的工具（zapret 封鎖規避方案）",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 30029,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "descriptionZhtw": "git push 零失誤輔助工具",
+      "descriptionEn": "git push no-mistakes",
+      "counter": 1,
+      "stars": 2187,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
     }
   ]
 }
