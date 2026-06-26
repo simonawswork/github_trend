@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-25T02:00:12.829Z",
+  "lastUpdate": "2026-06-26T02:00:11.570Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -66,10 +66,10 @@
       "url": "https://github.com/Free-TV/IPTV",
       "descriptionZhtw": "免費電視頻道的 M3U 播放清單",
       "descriptionEn": "M3U Playlist for free TV channels",
-      "counter": 2,
-      "stars": 17306,
+      "counter": 3,
+      "stars": 18228,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-26"
     },
     {
       "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
@@ -506,10 +506,10 @@
       "url": "https://github.com/garrytan/gstack",
       "descriptionZhtw": "使用 Garry Tan 的 Claude Code 精確設定：23 個工具，分別扮演 CEO、設計師、工程主管、發版管理員、文件工程師和 QA 角色",
       "descriptionEn": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "counter": 2,
-      "stars": 114125,
+      "counter": 3,
+      "stars": 115849,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-26"
     },
     {
       "name": "heygen-com/hyperframes",
@@ -536,10 +536,10 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "descriptionZhtw": "使用 AI Coding Agent，一行指令複製任意網站",
       "descriptionEn": "Clone any website with one command using AI coding agents",
-      "counter": 3,
-      "stars": 19368,
+      "counter": 4,
+      "stars": 20489,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-26"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -556,10 +556,10 @@
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "descriptionZhtw": "從氛圍編程到 Agentic 工程 — 實踐讓 Claude 更完美",
       "descriptionEn": "from vibe coding to agentic engineering - practice makes claude perfect",
-      "counter": 1,
-      "stars": 59504,
+      "counter": 2,
+      "stars": 60619,
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-26"
     },
     {
       "name": "revfactory/harness",
@@ -586,10 +586,10 @@
       "url": "https://github.com/apple/container",
       "descriptionZhtw": "在 Mac 上使用輕量級虛擬機器建立和執行 Linux 容器的工具，以 Swift 編寫，針對 Apple Silicon 優化",
       "descriptionEn": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "counter": 1,
-      "stars": 42287,
+      "counter": 2,
+      "stars": 43237,
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-26"
     },
     {
       "name": "interviewstreet/hiring-agent",
@@ -636,10 +636,10 @@
       "url": "https://github.com/google-labs-code/design.md",
       "descriptionZhtw": "向程式碼 Agent 描述視覺識別的格式規範，DESIGN.md 讓 Agent 持久且結構化地理解設計系統",
       "descriptionEn": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "counter": 1,
-      "stars": 17394,
+      "counter": 2,
+      "stars": 19350,
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-26"
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
@@ -660,6 +660,76 @@
       "stars": 2187,
       "firstSeen": "2026-06-25",
       "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "descriptionZhtw": "AI 時代的伯克希爾：基於 Claude Code 的價值投資研究框架，融合巴菲特、芒格、段永平、李錄四大師方法論，搭配多 Agent 並行研究",
+      "descriptionEn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "counter": 1,
+      "stars": 1980,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "descriptionZhtw": "自架旅遊行程規劃工具，支援即時協作、互動地圖、PWA、SSO、預算管理與打包清單",
+      "descriptionEn": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "counter": 1,
+      "stars": 6733,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "descriptionZhtw": "Semrush 與 Ahrefs 的開源替代方案",
+      "descriptionEn": "Open source alternative to Semrush and Ahrefs",
+      "counter": 1,
+      "stars": 2552,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "descriptionZhtw": "AWS 官方支援的 MCP 伺服器、技能與插件，協助 AI Agent 在 AWS 上開發",
+      "descriptionEn": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "counter": 1,
+      "stars": 1147,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "descriptionZhtw": "JavaScript 頁面內 GUI Agent，透過自然語言控制網頁介面",
+      "descriptionEn": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "counter": 1,
+      "stars": 19863,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "descriptionZhtw": "CasaOS：簡單易用、優雅的開源個人雲端系統",
+      "descriptionEn": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "counter": 1,
+      "stars": 34856,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "descriptionZhtw": "將 PDF、Office 等複雜文件轉換為 LLM 就緒的 Markdown/JSON，用於 Agentic 工作流程",
+      "descriptionEn": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "counter": 1,
+      "stars": 69627,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
     }
   ]
 }
