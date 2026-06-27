@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-26T02:00:11.570Z",
+  "lastUpdate": "2026-06-27T02:00:13.545Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -26,10 +26,10 @@
       "url": "https://github.com/Panniantong/Agent-Reach",
       "descriptionZhtw": "讓 AI Agent 能瀏覽整個網路，透過單一 CLI 讀取和搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書，且無需 API 費用",
       "descriptionEn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
-      "counter": 3,
-      "stars": 33275,
+      "counter": 4,
+      "stars": 42395,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "meshery/meshery",
@@ -506,10 +506,10 @@
       "url": "https://github.com/garrytan/gstack",
       "descriptionZhtw": "使用 Garry Tan 的 Claude Code 精確設定：23 個工具，分別扮演 CEO、設計師、工程主管、發版管理員、文件工程師和 QA 角色",
       "descriptionEn": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "counter": 3,
-      "stars": 115849,
+      "counter": 4,
+      "stars": 116652,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "heygen-com/hyperframes",
@@ -536,10 +536,10 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "descriptionZhtw": "使用 AI Coding Agent，一行指令複製任意網站",
       "descriptionEn": "Clone any website with one command using AI coding agents",
-      "counter": 4,
-      "stars": 20489,
+      "counter": 5,
+      "stars": 21390,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -636,10 +636,10 @@
       "url": "https://github.com/google-labs-code/design.md",
       "descriptionZhtw": "向程式碼 Agent 描述視覺識別的格式規範，DESIGN.md 讓 Agent 持久且結構化地理解設計系統",
       "descriptionEn": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "counter": 2,
-      "stars": 19350,
+      "counter": 3,
+      "stars": 21317,
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
@@ -656,30 +656,30 @@
       "url": "https://github.com/kunchenguid/no-mistakes",
       "descriptionZhtw": "git push 零失誤輔助工具",
       "descriptionEn": "git push no-mistakes",
-      "counter": 1,
-      "stars": 2187,
+      "counter": 2,
+      "stars": 3446,
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-25"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "descriptionZhtw": "AI 時代的伯克希爾：基於 Claude Code 的價值投資研究框架，融合巴菲特、芒格、段永平、李錄四大師方法論，搭配多 Agent 並行研究",
       "descriptionEn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "counter": 1,
-      "stars": 1980,
+      "counter": 2,
+      "stars": 3147,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "mauriceboe/TREK",
       "url": "https://github.com/mauriceboe/TREK",
       "descriptionZhtw": "自架旅遊行程規劃工具，支援即時協作、互動地圖、PWA、SSO、預算管理與打包清單",
       "descriptionEn": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "counter": 1,
-      "stars": 6733,
+      "counter": 2,
+      "stars": 7683,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "every-app/open-seo",
@@ -696,10 +696,10 @@
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "descriptionZhtw": "AWS 官方支援的 MCP 伺服器、技能與插件，協助 AI Agent 在 AWS 上開發",
       "descriptionEn": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
-      "counter": 1,
-      "stars": 1147,
+      "counter": 2,
+      "stars": 1364,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "alibaba/page-agent",
@@ -716,20 +716,60 @@
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "descriptionZhtw": "CasaOS：簡單易用、優雅的開源個人雲端系統",
       "descriptionEn": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "counter": 1,
-      "stars": 34856,
+      "counter": 2,
+      "stars": 35397,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
     },
     {
       "name": "opendatalab/MinerU",
       "url": "https://github.com/opendatalab/MinerU",
       "descriptionZhtw": "將 PDF、Office 等複雜文件轉換為 LLM 就緒的 Markdown/JSON，用於 Agentic 工作流程",
       "descriptionEn": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "counter": 1,
-      "stars": 69627,
+      "counter": 2,
+      "stars": 70453,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "descriptionZhtw": "openpilot 是一套機器人作業系統，目前可為 300+ 款支援車型升級駕駛輔助系統",
+      "descriptionEn": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "counter": 1,
+      "stars": 61800,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "descriptionZhtw": "開源可組合式可觀測性與資料視覺化平台，支援 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多種資料來源的指標、日誌與追蹤視覺化",
+      "descriptionEn": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "counter": 1,
+      "stars": 74920,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "descriptionZhtw": "精選對 DevOps 與基礎設施開發者有用的 SaaS、PaaS、IaaS 免費方案清單",
+      "descriptionEn": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "counter": 1,
+      "stars": 123752,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "descriptionZhtw": "張雪峰的認知操作系統：高考志願、考研、職涯規劃的實戰思維框架，由女媧 Skill 生成",
+      "descriptionEn": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "counter": 1,
+      "stars": 9266,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
     }
   ]
 }
