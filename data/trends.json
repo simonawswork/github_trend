@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-27T02:00:13.545Z",
+  "lastUpdate": "2026-06-28T02:00:11.387Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -506,10 +506,10 @@
       "url": "https://github.com/garrytan/gstack",
       "descriptionZhtw": "使用 Garry Tan 的 Claude Code 精確設定：23 個工具，分別扮演 CEO、設計師、工程主管、發版管理員、文件工程師和 QA 角色",
       "descriptionEn": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
-      "counter": 4,
-      "stars": 116652,
+      "counter": 5,
+      "stars": 117271,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "heygen-com/hyperframes",
@@ -536,10 +536,10 @@
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "descriptionZhtw": "使用 AI Coding Agent，一行指令複製任意網站",
       "descriptionEn": "Clone any website with one command using AI coding agents",
-      "counter": 5,
-      "stars": 21390,
+      "counter": 6,
+      "stars": 22151,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "anthropics/claude-plugins-official",
@@ -636,10 +636,10 @@
       "url": "https://github.com/google-labs-code/design.md",
       "descriptionZhtw": "向程式碼 Agent 描述視覺識別的格式規範，DESIGN.md 讓 Agent 持久且結構化地理解設計系統",
       "descriptionEn": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
-      "counter": 3,
-      "stars": 21317,
+      "counter": 4,
+      "stars": 22368,
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "Flowseal/zapret-discord-youtube",
@@ -666,10 +666,10 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "descriptionZhtw": "AI 時代的伯克希爾：基於 Claude Code 的價值投資研究框架，融合巴菲特、芒格、段永平、李錄四大師方法論，搭配多 Agent 並行研究",
       "descriptionEn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "counter": 2,
-      "stars": 3147,
+      "counter": 3,
+      "stars": 4179,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "mauriceboe/TREK",
@@ -686,10 +686,10 @@
       "url": "https://github.com/every-app/open-seo",
       "descriptionZhtw": "Semrush 與 Ahrefs 的開源替代方案",
       "descriptionEn": "Open source alternative to Semrush and Ahrefs",
-      "counter": 1,
-      "stars": 2552,
+      "counter": 2,
+      "stars": 3426,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "aws/agent-toolkit-for-aws",
@@ -716,10 +716,10 @@
       "url": "https://github.com/IceWhaleTech/CasaOS",
       "descriptionZhtw": "CasaOS：簡單易用、優雅的開源個人雲端系統",
       "descriptionEn": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
-      "counter": 2,
-      "stars": 35397,
+      "counter": 3,
+      "stars": 35806,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "opendatalab/MinerU",
@@ -736,10 +736,10 @@
       "url": "https://github.com/commaai/openpilot",
       "descriptionZhtw": "openpilot 是一套機器人作業系統，目前可為 300+ 款支援車型升級駕駛輔助系統",
       "descriptionEn": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "counter": 1,
-      "stars": 61800,
+      "counter": 2,
+      "stars": 62082,
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "grafana/grafana",
@@ -756,10 +756,10 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "descriptionZhtw": "精選對 DevOps 與基礎設施開發者有用的 SaaS、PaaS、IaaS 免費方案清單",
       "descriptionEn": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "counter": 1,
-      "stars": 123752,
+      "counter": 2,
+      "stars": 124191,
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-28"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
@@ -770,6 +770,66 @@
       "stars": 9266,
       "firstSeen": "2026-06-27",
       "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "descriptionZhtw": "Microsoft PowerToys 是一套提升 Windows 生產力與個人化設定的實用工具集",
+      "descriptionEn": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "counter": 1,
+      "stars": 135714,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "descriptionZhtw": "AI 從任意文件生成可編輯的真實 PowerPoint，支援原生形狀與動畫、語音旁白講者備註，以及套用自訂 .pptx 模板",
+      "descriptionEn": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "counter": 1,
+      "stars": 33105,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "descriptionZhtw": "AI 影片平台的開源替代方案，免費 AI 圖片與影片生成工作室，整合 200+ 模型（Flux、Midjourney、Kling、Sora、Veo），無內容過濾，可自架，MIT 授權",
+      "descriptionEn": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "counter": 1,
+      "stars": 21402,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "url": "https://github.com/dbt-labs/dbt-core",
+      "descriptionZhtw": "dbt 讓資料分析師與工程師以軟體工程實踐方式轉換資料，如同開發應用程式般處理資料管線",
+      "descriptionEn": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "counter": 1,
+      "stars": 13227,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "descriptionZhtw": "AI 程式碼助理的規格驅動開發（SDD）框架",
+      "descriptionEn": "Spec-driven development (SDD) for AI coding assistants.",
+      "counter": 1,
+      "stars": 57146,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "descriptionZhtw": "Vibe-Trading：你的個人交易 AI Agent",
+      "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "counter": 1,
+      "stars": 13728,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
     }
   ]
 }
