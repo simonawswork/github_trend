@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-28T02:00:11.387Z",
+  "lastUpdate": "2026-06-29T15:30:58.965Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -196,10 +196,10 @@
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "descriptionZhtw": "高效能程式碼智慧 MCP 伺服器，可將程式庫索引為持久知識圖譜，毫秒內完成，支援 158 種語言，查詢延遲低於 1ms，Token 用量減少 99%，單一靜態執行檔，零依賴",
       "descriptionEn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "counter": 7,
-      "stars": 13016,
+      "counter": 8,
+      "stars": 19789,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-06-29"
     },
     {
       "name": "google-research/timesfm",
@@ -435,7 +435,7 @@
       "name": "pppscn/SmsForwarder",
       "url": "https://github.com/pppscn/SmsForwarder",
       "descriptionZhtw": "Android 簡訊轉發器，監控手機簡訊、來電、APP 通知，並依規則轉發至釘釘、企業微信、飛書、Email、Telegram 等平台，支援遠端發送簡訊與查詢資訊",
-      "descriptionEn": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学���与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "descriptionEn": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
       "counter": 1,
       "stars": 26497,
       "firstSeen": "2026-06-21",
@@ -594,7 +594,7 @@
     {
       "name": "interviewstreet/hiring-agent",
       "url": "https://github.com/interviewstreet/hiring-agent",
-      "descriptionZhtw": "用於評估與評分履歷的 AI Agent",
+      "descriptionZhtw": "用於評估與評分履復的 AI Agent",
       "descriptionEn": "AI agent to evaluate and score resumes.",
       "counter": 1,
       "stars": 2229,
@@ -665,11 +665,11 @@
       "name": "xbtlin/ai-berkshire",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "descriptionZhtw": "AI 時代的伯克希爾：基於 Claude Code 的價值投資研究框架，融合巴菲特、芒格、段永平、李錄四大師方法論，搭配多 Agent 並行研究",
-      "descriptionEn": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "counter": 3,
-      "stars": 4179,
+      "descriptionEn": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "counter": 4,
+      "stars": 6436,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
     },
     {
       "name": "mauriceboe/TREK",
@@ -726,20 +726,20 @@
       "url": "https://github.com/opendatalab/MinerU",
       "descriptionZhtw": "將 PDF、Office 等複雜文件轉換為 LLM 就緒的 Markdown/JSON，用於 Agentic 工作流程",
       "descriptionEn": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
-      "counter": 2,
-      "stars": 70453,
+      "counter": 3,
+      "stars": 71651,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-27"
+      "lastSeen": "2026-06-29"
     },
     {
       "name": "commaai/openpilot",
       "url": "https://github.com/commaai/openpilot",
       "descriptionZhtw": "openpilot 是一套機器人作業系統，目前可為 300+ 款支援車型升級駕駛輔助系統",
       "descriptionEn": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
-      "counter": 2,
-      "stars": 62082,
+      "counter": 3,
+      "stars": 62683,
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
     },
     {
       "name": "grafana/grafana",
@@ -756,10 +756,10 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "descriptionZhtw": "精選對 DevOps 與基礎設施開發者有用的 SaaS、PaaS、IaaS 免費方案清單",
       "descriptionEn": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "counter": 2,
-      "stars": 124191,
+      "counter": 3,
+      "stars": 126503,
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
@@ -826,10 +826,90 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "descriptionZhtw": "Vibe-Trading：你的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 1,
-      "stars": 13728,
+      "counter": 2,
+      "stars": 14900,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "descriptionZhtw": "串流數據 3D 前饋基礎模型，用於重建場景",
+      "descriptionEn": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "counter": 1,
+      "stars": 8253,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "descriptionZhtw": "以圖解與簡單術語解釋複雜系統，協助你準備系統設計面試",
+      "descriptionEn": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "counter": 1,
+      "stars": 84497,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "descriptionZhtw": "開源 AI 黑客工具，用於發現並修復應用程式漏洞",
+      "descriptionEn": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
+      "counter": 1,
+      "stars": 26769,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "descriptionZhtw": "使用程式碼 Agent 編輯影片",
+      "descriptionEn": "Edit videos with coding agents",
+      "counter": 1,
+      "stars": 11688,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "descriptionZhtw": "基於 AI Agent + MCP 工具鏈 + 滲透 Skill 編排，配合大語言模型，實現從自然語言輸入到「資訊收集 → 漏洞發現 → 漏洞利用 → 報告生成」的全自動化流程",
+      "descriptionEn": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自动自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "counter": 1,
+      "stars": 1042,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "descriptionZhtw": "由 18 位 AI 人格（亞里斯多德、費曼、卡尼曼、托瓦茲等）組成的議會，跨多個 LLM 供應商針對你的困難決定進行多輪深思熟慮，只需一個指令：/council",
+      "descriptionEn": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "counter": 1,
+      "stars": 1660,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "descriptionZhtw": "用於管理 Markdown 知識庫的桌面應用程式",
+      "descriptionEn": "Desktop app to manage markdown knowledge bases",
+      "counter": 1,
+      "stars": 17390,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "descriptionZhtw": "基於 TrueCrypt 的強大安全性磁碟加密工具",
+      "descriptionEn": "Disk encryption with strong security based on TrueCrypt",
+      "counter": 1,
+      "stars": 10386,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
     }
   ]
 }
