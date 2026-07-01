@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-06-30T02:00:11.018Z",
+  "lastUpdate": "2026-07-01T02:00:12.370Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -666,10 +666,10 @@
       "url": "https://github.com/xbtlin/ai-berkshire",
       "descriptionZhtw": "AI 時代的伯克希爾：基於 Claude Code 的價值投資研究框架，融合巴菲特、芒格、段永平、李錄四大師方法論，搭配多 Agent 並行研究",
       "descriptionEn": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
-      "counter": 5,
-      "stars": 6684,
+      "counter": 6,
+      "stars": 7537,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-01"
     },
     {
       "name": "mauriceboe/TREK",
@@ -756,10 +756,10 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "descriptionZhtw": "精選對 DevOps 與基礎設施開發者有用的 SaaS、PaaS、IaaS 免費方案清單",
       "descriptionEn": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "counter": 4,
-      "stars": 126757,
+      "counter": 5,
+      "stars": 127342,
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-01"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
@@ -826,20 +826,20 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "descriptionZhtw": "Vibe-Trading：你的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 3,
-      "stars": 15126,
+      "counter": 4,
+      "stars": 15820,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-01"
     },
     {
       "name": "Robbyant/lingbot-map",
       "url": "https://github.com/Robbyant/lingbot-map",
       "descriptionZhtw": "串流數據 3D 前饋基礎模型，用於重建場景",
       "descriptionEn": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "counter": 1,
-      "stars": 8253,
+      "counter": 2,
+      "stars": 8886,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-01"
     },
     {
       "name": "ByteByteGoHq/system-design-101",
@@ -855,21 +855,21 @@
       "name": "usestrix/strix",
       "url": "https://github.com/usestrix/strix",
       "descriptionZhtw": "開源 AI 黑客工具，用於發現並修復應用程式漏洞",
-      "descriptionEn": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
-      "counter": 1,
-      "stars": 26769,
+      "descriptionEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "counter": 2,
+      "stars": 28168,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-01"
     },
     {
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "descriptionZhtw": "使用程式碼 Agent 編輯影片",
       "descriptionEn": "Edit videos with coding agents",
-      "counter": 2,
-      "stars": 11970,
+      "counter": 3,
+      "stars": 12636,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-01"
     },
     {
       "name": "Unclecheng-li/VulnClaw",
@@ -910,6 +910,76 @@
       "stars": 10490,
       "firstSeen": "2026-06-29",
       "lastSeen": "2026-06-30"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
+      "descriptionEn": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
+      "counter": 1,
+      "stars": 6764,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "descriptionZhtw": "常用用戶密碼分析器 (CUPP)：可根據個人化資訊生成密碼字典，用於滲透測試",
+      "descriptionEn": "Common User Passwords Profiler (CUPP)",
+      "counter": 1,
+      "stars": 6111,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "descriptionZhtw": "讓任何程式碼助理變身為在 Google Cloud 上建立、評估與部署 AI Agent 專家的 CLI 工具與技能",
+      "descriptionEn": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "counter": 1,
+      "stars": 4225,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "descriptionZhtw": "提供可重複使用的電腦視覺開發工具，簡化偵測、追蹤與標記流程",
+      "descriptionEn": "We write your reusable computer vision tools. 💜",
+      "counter": 1,
+      "stars": 45927,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "descriptionZhtw": "Instatic 是一款現代化的自架視覺化內容管理系統 (CMS)，一分鐘內即可啟動運行",
+      "descriptionEn": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "counter": 1,
+      "stars": 1556,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "descriptionZhtw": "微軟推出的 AI 入門課程：12 週、24 堂課，適合所有人的 AI 教學",
+      "descriptionEn": "12 Weeks, 24 Lessons, AI for All!",
+      "counter": 1,
+      "stars": 49414,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "descriptionZhtw": "完全可自訂且支援 AI Agent 的開源設計系統",
+      "descriptionEn": "An open source design system that's fully customizable and agent ready",
+      "counter": 1,
+      "stars": 1815,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
     }
   ]
 }
