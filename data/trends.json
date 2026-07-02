@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-01T02:00:12.370Z",
+  "lastUpdate": "2026-07-02T02:00:12.881Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -826,10 +826,10 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "descriptionZhtw": "Vibe-Trading：你的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 4,
-      "stars": 15820,
+      "counter": 5,
+      "stars": 16586,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -856,50 +856,50 @@
       "url": "https://github.com/usestrix/strix",
       "descriptionZhtw": "開源 AI 黑客工具，用於發現並修復應用程式漏洞",
       "descriptionEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "counter": 2,
-      "stars": 28168,
+      "counter": 3,
+      "stars": 29795,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "descriptionZhtw": "使用程式碼 Agent 編輯影片",
       "descriptionEn": "Edit videos with coding agents",
-      "counter": 3,
-      "stars": 12636,
+      "counter": 4,
+      "stars": 13242,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "Unclecheng-li/VulnClaw",
       "url": "https://github.com/Unclecheng-li/VulnClaw",
       "descriptionZhtw": "基於 AI Agent + MCP 工具鏈 + 滲透 Skill 編排，配合大語言模型，實現從自然語言輸入到「資訊收集 → 漏洞發現 → 漏洞利用 → 報告生成」的全自動化流程",
       "descriptionEn": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
-      "counter": 2,
-      "stars": 1166,
+      "counter": 3,
+      "stars": 1589,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "0xNyk/council-of-high-intelligence",
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "descriptionZhtw": "由 18 位 AI 人格（亞里斯多德、費曼、卡尼曼、托瓦茲等）組成的議會，跨多個 LLM 供應商針對你的困難決定進行多輪深思熟慮，只需一個指令：/council",
       "descriptionEn": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
-      "counter": 2,
-      "stars": 1931,
+      "counter": 3,
+      "stars": 2653,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "refactoringhq/tolaria",
       "url": "https://github.com/refactoringhq/tolaria",
       "descriptionZhtw": "用於管理 Markdown 知識庫的桌面應用程式",
       "descriptionEn": "Desktop app to manage markdown knowledge bases",
-      "counter": 2,
-      "stars": 17536,
+      "counter": 3,
+      "stars": 18034,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "veracrypt/VeraCrypt",
@@ -916,20 +916,20 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
       "descriptionEn": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "counter": 1,
-      "stars": 6764,
+      "counter": 2,
+      "stars": 8464,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "Mebus/cupp",
       "url": "https://github.com/Mebus/cupp",
       "descriptionZhtw": "常用用戶密碼分析器 (CUPP)：可根據個人化資訊生成密碼字典，用於滲透測試",
       "descriptionEn": "Common User Passwords Profiler (CUPP)",
-      "counter": 1,
-      "stars": 6111,
+      "counter": 2,
+      "stars": 6251,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "google/agents-cli",
@@ -948,7 +948,7 @@
       "descriptionEn": "We write your reusable computer vision tools. 💜",
       "counter": 1,
       "stars": 45927,
-      "firstSeen": "2026-07-01",
+      "firstSeen": "2027-07-01",
       "lastSeen": "2026-07-01"
     },
     {
@@ -956,30 +956,70 @@
       "url": "https://github.com/CoreBunch/Instatic",
       "descriptionZhtw": "Instatic 是一款現代化的自架視覺化內容管理系統 (CMS)，一分鐘內即可啟動運行",
       "descriptionEn": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
-      "counter": 1,
-      "stars": 1556,
+      "counter": 2,
+      "stars": 2026,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "microsoft/AI-For-Beginners",
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "descriptionZhtw": "微軟推出的 AI 入門課程：12 週、24 堂課，適合所有人的 AI 教學",
       "descriptionEn": "12 Weeks, 24 Lessons, AI for All!",
-      "counter": 1,
-      "stars": 49414,
+      "counter": 2,
+      "stars": 50490,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     {
       "name": "facebook/astryx",
       "url": "https://github.com/facebook/astryx",
       "descriptionZhtw": "完全可自訂且支援 AI Agent 的開源設計系統",
       "descriptionEn": "An open source design system that's fully customizable and agent ready",
-      "counter": 1,
-      "stars": 1815,
+      "counter": 2,
+      "stars": 2693,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "descriptionZhtw": "用於將 PDF 線性化以供 LLM 資料集／訓練使用的工具包",
+      "descriptionEn": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "counter": 1,
+      "stars": 18293,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "togatoga/karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "descriptionZhtw": "適用於 Linux 與 macOS 的日文輸入法系統，採用神經網路假名漢字轉換引擎",
+      "descriptionEn": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "counter": 1,
+      "stars": 588,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "descriptionZhtw": "為 AI Agent 打造的即時、並行、安全且輕量級的沙盒環境",
+      "descriptionEn": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "counter": 1,
+      "stars": 6812,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "descriptionZhtw": "探索如何利用 AI 來獲利與增收",
+      "descriptionEn": "Let's use AI to Earn!",
+      "counter": 1,
+      "stars": 22571,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
     }
   ]
 }
