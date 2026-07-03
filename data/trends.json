@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-02T02:00:12.881Z",
+  "lastUpdate": "2026-07-03T02:00:12.456Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -826,10 +826,10 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "descriptionZhtw": "Vibe-Trading：你的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 5,
-      "stars": 16586,
+      "counter": 6,
+      "stars": 17369,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -856,20 +856,20 @@
       "url": "https://github.com/usestrix/strix",
       "descriptionZhtw": "開源 AI 黑客工具，用於發現並修復應用程式漏洞",
       "descriptionEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "counter": 3,
-      "stars": 29795,
+      "counter": 4,
+      "stars": 32337,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
     },
     {
       "name": "browser-use/video-use",
       "url": "https://github.com/browser-use/video-use",
       "descriptionZhtw": "使用程式碼 Agent 編輯影片",
       "descriptionEn": "Edit videos with coding agents",
-      "counter": 4,
-      "stars": 13242,
+      "counter": 5,
+      "stars": 13829,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
     },
     {
       "name": "Unclecheng-li/VulnClaw",
@@ -916,10 +916,10 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
       "descriptionEn": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "counter": 2,
-      "stars": 8464,
+      "counter": 3,
+      "stars": 9295,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-02"
+      "lastSeen": "2026-07-03"
     },
     {
       "name": "Mebus/cupp",
@@ -1020,6 +1020,86 @@
       "stars": 22571,
       "firstSeen": "2026-07-02",
       "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "descriptionZhtw": "為程式碼 Agent 打造的 Chrome 開發者工具 MCP 伺服器",
+      "descriptionEn": "Chrome DevTools for coding agents",
+      "counter": 1,
+      "stars": 45106,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "descriptionZhtw": "GitHub Actions 的檢出專案動作",
+      "descriptionEn": "Action for checking out a repo",
+      "counter": 1,
+      "stars": 8168,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "descriptionZhtw": "Agent Skills 規範與文件",
+      "descriptionEn": "Specification and documentation for Agent Skills",
+      "counter": 1,
+      "stars": 21634,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "descriptionZhtw": "在 Claude Code 中使用 Codex 進行程式碼審查或任務委派的插件",
+      "descriptionEn": "Use Codex from Claude Code to review code or delegate tasks.",
+      "counter": 1,
+      "stars": 22655,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "descriptionZhtw": "Langflow 是用於構建與部署 AI 驅動 Agent 及工作流程的強大工具",
+      "descriptionEn": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "counter": 1,
+      "stars": 150764,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "descriptionZhtw": "具備強大 GPU 加速功能的 Python 張量與動態神經網路框架",
+      "descriptionEn": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "counter": 1,
+      "stars": 101242,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "descriptionZhtw": "機器學習系統教材",
+      "descriptionEn": "Machine Learning Systems",
+      "counter": 1,
+      "stars": 25615,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "ryanmcdermott/clean-code-javascript",
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "descriptionZhtw": "適用於 JavaScript 的整潔程式碼 (Clean Code) 概念指南",
+      "descriptionEn": "Clean Code concepts adapted for JavaScript",
+      "counter": 1,
+      "stars": 94577,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
     }
   ]
 }
