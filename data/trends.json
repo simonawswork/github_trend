@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-04T02:00:15.664Z",
+  "lastUpdate": "2026-07-05T02:00:13.948Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -159,7 +159,7 @@
       "counter": 2,
       "stars": 30154,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17"
+      "lastSeen": "2026-07-01"
     },
     {
       "name": "alibaba/zvec",
@@ -706,10 +706,10 @@
       "url": "https://github.com/alibaba/page-agent",
       "descriptionZhtw": "JavaScript 頁面內 GUI Agent，透過自然語言控制網頁介面",
       "descriptionEn": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "counter": 1,
-      "stars": 19863,
+      "counter": 2,
+      "stars": 23140,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-26"
+      "lastSeen": "2026-07-05"
     },
     {
       "name": "IceWhaleTech/CasaOS",
@@ -856,10 +856,10 @@
       "url": "https://github.com/usestrix/strix",
       "descriptionZhtw": "開源 AI 黑客工具，用於發現並修復應用程式漏洞",
       "descriptionEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "counter": 5,
-      "stars": 34707,
+      "counter": 6,
+      "stars": 36105,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "name": "browser-use/video-use",
@@ -1026,10 +1026,10 @@
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "descriptionZhtw": "為程式碼 Agent 打造的 Chrome 開發者工具 MCP 伺服器",
       "descriptionEn": "Chrome DevTools for coding agents",
-      "counter": 2,
-      "stars": 45503,
+      "counter": 3,
+      "stars": 45789,
       "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "name": "actions/checkout",
@@ -1046,20 +1046,20 @@
       "url": "https://github.com/agentskills/agentskills",
       "descriptionZhtw": "Agent Skills 規範與文件",
       "descriptionEn": "Specification and documentation for Agent Skills",
-      "counter": 2,
-      "stars": 22010,
+      "counter": 3,
+      "stars": 22352,
       "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "name": "openai/codex-plugin-cc",
       "url": "https://github.com/openai/codex-plugin-cc",
       "descriptionZhtw": "在 Claude Code 中使用 Codex 進行程式碼審查或任務委派的插件",
       "descriptionEn": "Use Codex from Claude Code to review code or delegate tasks.",
-      "counter": 2,
-      "stars": 23246,
+      "counter": 3,
+      "stars": 24498,
       "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "name": "langflow-ai/langflow",
@@ -1086,10 +1086,10 @@
       "url": "https://github.com/harvard-edge/cs249r_book",
       "descriptionZhtw": "機器學習系統教材",
       "descriptionEn": "Machine Learning Systems",
-      "counter": 2,
-      "stars": 26185,
+      "counter": 3,
+      "stars": 26583,
       "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "name": "ryanmcdermott/clean-code-javascript",
@@ -1104,7 +1104,7 @@
     {
       "name": "elastic/elasticsearch",
       "url": "https://github.com/elastic/elasticsearch",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "免費開源、分散式、RESTful 的搜尋引擎",
       "descriptionEn": "Free and Open Source, Distributed, RESTful Search Engine",
       "counter": 1,
       "stars": 77347,
@@ -1114,7 +1114,7 @@
     {
       "name": "ansible/ansible",
       "url": "https://github.com/ansible/ansible",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "極致簡單的 IT 自動化平台，透過 SSH 管理且無需在遠端安裝 Agent，讓應用程式部署與系統維護更輕鬆",
       "descriptionEn": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
       "counter": 1,
       "stars": 69214,
@@ -1124,17 +1124,17 @@
     {
       "name": "rommapp/romm",
       "url": "https://github.com/rommapp/romm",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "美觀、強大且可自架的遊戲 ROM 管理與播放器",
       "descriptionEn": "A beautiful, powerful, self-hosted rom manager and player.",
-      "counter": 1,
-      "stars": 9821,
+      "counter": 2,
+      "stars": 10219,
       "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-05"
     },
     {
       "name": "apache/maven",
       "url": "https://github.com/apache/maven",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "Apache Maven 核心框架",
       "descriptionEn": "Apache Maven core",
       "counter": 1,
       "stars": 5231,
@@ -1144,12 +1144,62 @@
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "Claude Code 是一款終端機原生 Agentic 程式碼助手，可理解程式庫並透過自然語言處理日常任務、解釋程式碼與管理 Git 工作流",
       "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "counter": 1,
       "stars": 135855,
       "firstSeen": "2026-07-04",
       "lastSeen": "2026-07-04"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "descriptionZhtw": "協助 AI 程式碼 Agent 處理 .NET 與 C# 的 Skills 資源庫",
+      "descriptionEn": "Repository for skills to assist AI coding agents with .NET and C#",
+      "counter": 1,
+      "stars": 3815,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "descriptionZhtw": "高效能自架照片與影片管理解決方案",
+      "descriptionEn": "High performance self-hosted photo and video management solution.",
+      "counter": 1,
+      "stars": 105644,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "descriptionZhtw": "專注於絢麗歌詞動畫效果的本地音樂、Navidrome 與第三方網易雲播放器",
+      "descriptionEn": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "counter": 1,
+      "stars": 991,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "descriptionZhtw": "包含 337 個 Claude Code 相關 Skills 與插件，涵蓋工程、行銷、產品、研究等領域，提升多種編程 Agent 的生產力",
+      "descriptionEn": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "counter": 1,
+      "stars": 20174,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "crynta/terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "descriptionZhtw": "輕量級（7MB）終端機優先的 AI 原生開發工作空間",
+      "descriptionEn": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "counter": 1,
+      "stars": 8067,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
     }
   ]
 }
