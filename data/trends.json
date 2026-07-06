@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-05T02:00:13.948Z",
+  "lastUpdate": "2026-07-06T02:00:12.993Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -706,10 +706,10 @@
       "url": "https://github.com/alibaba/page-agent",
       "descriptionZhtw": "JavaScript 頁面內 GUI Agent，透過自然語言控制網頁介面",
       "descriptionEn": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
-      "counter": 2,
-      "stars": 23140,
+      "counter": 3,
+      "stars": 23944,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "IceWhaleTech/CasaOS",
@@ -856,10 +856,10 @@
       "url": "https://github.com/usestrix/strix",
       "descriptionZhtw": "開源 AI 黑客工具，用於發現並修復應用程式漏洞",
       "descriptionEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
-      "counter": 6,
-      "stars": 36105,
+      "counter": 7,
+      "stars": 37177,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "browser-use/video-use",
@@ -976,10 +976,10 @@
       "url": "https://github.com/facebook/astryx",
       "descriptionZhtw": "完全可自訂且支援 AI Agent 的開源設計系統",
       "descriptionEn": "An open source design system that's fully customizable and agent ready",
-      "counter": 3,
-      "stars": 4686,
+      "counter": 4,
+      "stars": 5927,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "allenai/olmocr",
@@ -1056,10 +1056,10 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "descriptionZhtw": "在 Claude Code 中使用 Codex 進行程式碼審查或任務委派的插件",
       "descriptionEn": "Use Codex from Claude Code to review code or delegate tasks.",
-      "counter": 3,
-      "stars": 24498,
+      "counter": 4,
+      "stars": 25523,
       "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "langflow-ai/langflow",
@@ -1086,10 +1086,10 @@
       "url": "https://github.com/harvard-edge/cs249r_book",
       "descriptionZhtw": "機器學習系統教材",
       "descriptionEn": "Machine Learning Systems",
-      "counter": 3,
-      "stars": 26583,
+      "counter": 4,
+      "stars": 26862,
       "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "ryanmcdermott/clean-code-javascript",
@@ -1126,10 +1126,10 @@
       "url": "https://github.com/rommapp/romm",
       "descriptionZhtw": "美觀、強大且可自架的遊戲 ROM 管理與播放器",
       "descriptionEn": "A beautiful, powerful, self-hosted rom manager and player.",
-      "counter": 2,
-      "stars": 10219,
+      "counter": 3,
+      "stars": 10562,
       "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "apache/maven",
@@ -1146,30 +1146,30 @@
       "url": "https://github.com/anthropics/claude-code",
       "descriptionZhtw": "Claude Code 是一款終端機原生 Agentic 程式碼助手，可理解程式庫並透過自然語言處理日常任務、解釋程式碼與管理 Git 工作流",
       "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "counter": 1,
-      "stars": 135855,
+      "counter": 2,
+      "stars": 136318,
       "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "dotnet/skills",
       "url": "https://github.com/dotnet/skills",
       "descriptionZhtw": "協助 AI 程式碼 Agent 處理 .NET 與 C# 的 Skills 資源庫",
       "descriptionEn": "Repository for skills to assist AI coding agents with .NET and C#",
-      "counter": 1,
-      "stars": 3815,
+      "counter": 2,
+      "stars": 4051,
       "firstSeen": "2026-07-05",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "immich-app/immich",
       "url": "https://github.com/immich-app/immich",
       "descriptionZhtw": "高效能自架照片與影片管理解決方案",
       "descriptionEn": "High performance self-hosted photo and video management solution.",
-      "counter": 1,
-      "stars": 105644,
+      "counter": 2,
+      "stars": 106136,
       "firstSeen": "2026-07-05",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "chthollyphile/folia-major",
@@ -1186,10 +1186,10 @@
       "url": "https://github.com/alirezarezvani/claude-skills",
       "descriptionZhtw": "包含 337 個 Claude Code 相關 Skills 與插件，涵蓋工程、行銷、產品、研究等領域，提升多種編程 Agent 的生產力",
       "descriptionEn": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "counter": 1,
-      "stars": 20174,
+      "counter": 2,
+      "stars": 20604,
       "firstSeen": "2026-07-05",
-      "lastSeen": "2026-07-05"
+      "lastSeen": "2026-07-06"
     },
     {
       "name": "crynta/terax-ai",
@@ -1200,6 +1200,26 @@
       "stars": 8067,
       "firstSeen": "2026-07-05",
       "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "ruvnet/RuView",
+      "url": "https://github.com/ruvnet/RuView",
+      "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴影像影像影像。 ",
+      "descriptionEn": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "counter": 1,
+      "stars": 76741,
+      "firstSeen": "2026-07-06",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "descriptionZhtw": "Gas Town：多 Agent 協作工作空間管理器",
+      "descriptionEn": "Gas Town - multi-agent workspace manager",
+      "counter": 1,
+      "stars": 16398,
+      "firstSeen": "2026-07-06",
+      "lastSeen": "2026-07-06"
     }
   ]
 }
