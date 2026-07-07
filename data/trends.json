@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-06T02:00:12.993Z",
+  "lastUpdate": "2026-07-07T02:00:13.136Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -166,10 +166,10 @@
       "url": "https://github.com/alibaba/zvec",
       "descriptionZhtw": "輕量、極速的進程內向量資料庫",
       "descriptionEn": "A lightweight, lightning-fast, in-process vector database",
-      "counter": 3,
-      "stars": 11237,
+      "counter": 4,
+      "stars": 13535,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-19"
+      "lastSeen": "2026-07-07"
     },
     {
       "name": "rmyndharis/OpenWA",
@@ -526,10 +526,10 @@
       "url": "https://github.com/firecrawl/firecrawl",
       "descriptionZhtw": "大規模搜尋、爬取與互動的網頁 API 🔥",
       "descriptionEn": "The API to search, scrape, and interact with the web at scale. 🔥",
-      "counter": 1,
-      "stars": 137354,
+      "counter": 2,
+      "stars": 146322,
       "firstSeen": "2026-06-23",
-      "lastSeen": "2026-06-23"
+      "lastSeen": "2026-07-07"
     },
     {
       "name": "JCodesMore/ai-website-cloner-template",
@@ -1056,10 +1056,10 @@
       "url": "https://github.com/openai/codex-plugin-cc",
       "descriptionZhtw": "在 Claude Code 中使用 Codex 進行程式碼審查或任務委派的插件",
       "descriptionEn": "Use Codex from Claude Code to review code or delegate tasks.",
-      "counter": 4,
-      "stars": 25523,
+      "counter": 5,
+      "stars": 26303,
       "firstSeen": "2026-07-03",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     {
       "name": "langflow-ai/langflow",
@@ -1185,11 +1185,11 @@
       "name": "alirezarezvani/claude-skills",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "descriptionZhtw": "包含 337 個 Claude Code 相關 Skills 與插件，涵蓋工程、行銷、產品、研究等領域，提升多種編程 Agent 的生產力",
-      "descriptionEn": "337 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
-      "counter": 2,
-      "stars": 20604,
+      "descriptionEn": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "counter": 3,
+      "stars": 21184,
       "firstSeen": "2026-07-05",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     {
       "name": "crynta/terax-ai",
@@ -1206,20 +1206,60 @@
       "url": "https://github.com/ruvnet/RuView",
       "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴影像影像影像。 ",
       "descriptionEn": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "counter": 1,
-      "stars": 76741,
+      "counter": 2,
+      "stars": 77555,
       "firstSeen": "2026-07-06",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
     },
     {
       "name": "gastownhall/gastown",
       "url": "https://github.com/gastownhall/gastown",
       "descriptionZhtw": "Gas Town：多 Agent 協作工作空間管理器",
       "descriptionEn": "Gas Town - multi-agent workspace manager",
-      "counter": 1,
-      "stars": 16398,
+      "counter": 2,
+      "stars": 16710,
       "firstSeen": "2026-07-06",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
+      "descriptionEn": "Production-grade engineering skills for AI coding agents.",
+      "counter": 1,
+      "stars": 70889,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "descriptionZhtw": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁研究任何主題，並合成具事實根據的摘要",
+      "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "counter": 1,
+      "stars": 49796,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "descriptionZhtw": "讓 Claude 具備觀看任何影片的能力。透過 /watch 下載、提取影格、轉錄，並將所有內容交給 Claude",
+      "descriptionEn": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "counter": 1,
+      "stars": 4282,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "descriptionZhtw": "可自架的全方位書籤應用程式（連結、筆記與圖片），支援 AI 自動標籤與全文檢索",
+      "descriptionEn": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "counter": 1,
+      "stars": 26917,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
     }
   ]
 }
