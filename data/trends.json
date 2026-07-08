@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-07T02:00:13.136Z",
+  "lastUpdate": "2026-07-08T02:00:09.602Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -167,7 +167,7 @@
       "descriptionZhtw": "輕量、極速的進程內向量資料庫",
       "descriptionEn": "A lightweight, lightning-fast, in-process vector database",
       "counter": 4,
-      "stars": 13535,
+      "stars": 13562,
       "firstSeen": "2026-06-17",
       "lastSeen": "2026-07-07"
     },
@@ -527,7 +527,7 @@
       "descriptionZhtw": "大規模搜尋、爬取與互動的網頁 API 🔥",
       "descriptionEn": "The API to search, scrape, and interact with the web at scale. 🔥",
       "counter": 2,
-      "stars": 146322,
+      "stars": 146385,
       "firstSeen": "2026-06-23",
       "lastSeen": "2026-07-07"
     },
@@ -1006,10 +1006,10 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "descriptionZhtw": "為 AI Agent 打造的即時、並行、安全且輕量級的沙盒環境",
       "descriptionEn": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "counter": 2,
-      "stars": 7181,
+      "counter": 3,
+      "stars": 8491,
       "firstSeen": "2026-07-02",
-      "lastSeen": "2026-07-04"
+      "lastSeen": "2026-07-08"
     },
     {
       "name": "yikart/AiToEarn",
@@ -1057,7 +1057,7 @@
       "descriptionZhtw": "在 Claude Code 中使用 Codex 進行程式碼審查或任務委派的插件",
       "descriptionEn": "Use Codex from Claude Code to review code or delegate tasks.",
       "counter": 5,
-      "stars": 26303,
+      "stars": 26330,
       "firstSeen": "2026-07-03",
       "lastSeen": "2026-07-07"
     },
@@ -1156,10 +1156,10 @@
       "url": "https://github.com/dotnet/skills",
       "descriptionZhtw": "協助 AI 程式碼 Agent 處理 .NET 與 C# 的 Skills 資源庫",
       "descriptionEn": "Repository for skills to assist AI coding agents with .NET and C#",
-      "counter": 2,
-      "stars": 4051,
+      "counter": 3,
+      "stars": 4321,
       "firstSeen": "2026-07-05",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-07-08"
     },
     {
       "name": "immich-app/immich",
@@ -1187,7 +1187,7 @@
       "descriptionZhtw": "包含 337 個 Claude Code 相關 Skills 與插件，涵蓋工程、行銷、產品、研究等領域，提升多種編程 Agent 的生產力",
       "descriptionEn": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
       "counter": 3,
-      "stars": 21184,
+      "stars": 21216,
       "firstSeen": "2026-07-05",
       "lastSeen": "2026-07-07"
     },
@@ -1206,10 +1206,10 @@
       "url": "https://github.com/ruvnet/RuView",
       "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴影像影像影像。 ",
       "descriptionEn": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "counter": 2,
-      "stars": 77555,
+      "counter": 3,
+      "stars": 78533,
       "firstSeen": "2026-07-06",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     {
       "name": "gastownhall/gastown",
@@ -1217,7 +1217,7 @@
       "descriptionZhtw": "Gas Town：多 Agent 協作工作空間管理器",
       "descriptionEn": "Gas Town - multi-agent workspace manager",
       "counter": 2,
-      "stars": 16710,
+      "stars": 16722,
       "firstSeen": "2026-07-06",
       "lastSeen": "2026-07-07"
     },
@@ -1226,10 +1226,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 1,
-      "stars": 70889,
+      "counter": 2,
+      "stars": 72213,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -1237,7 +1237,7 @@
       "descriptionZhtw": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁研究任何主題，並合成具事實根據的摘要",
       "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "counter": 1,
-      "stars": 49796,
+      "stars": 49836,
       "firstSeen": "2026-07-07",
       "lastSeen": "2026-07-07"
     },
@@ -1246,10 +1246,10 @@
       "url": "https://github.com/bradautomates/claude-video",
       "descriptionZhtw": "讓 Claude 具備觀看任何影片的能力。透過 /watch 下載、提取影格、轉錄，並將所有內容交給 Claude",
       "descriptionEn": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "counter": 1,
-      "stars": 4282,
+      "counter": 2,
+      "stars": 5207,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-08"
     },
     {
       "name": "karakeep-app/karakeep",
@@ -1257,9 +1257,39 @@
       "descriptionZhtw": "可自架的全方位書籤應用程式（連結、筆記與圖片），支援 AI 自動標籤與全文檢索",
       "descriptionEn": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
       "counter": 1,
-      "stars": 26917,
+      "stars": 26936,
       "firstSeen": "2026-07-07",
       "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "descriptionZhtw": "基於 Claude Code 的 AI 輔助求職框架。填入個人資料後，讓 Claude 為你評估職缺、客製化履歷、撰寫求職信並協助面試準備",
+      "descriptionEn": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "counter": 1,
+      "stars": 11121,
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "descriptionZhtw": "專為 AI Agent 打造的 Office 套件 CLI 工具。支援 Word、Excel 與 PowerPoint 文件的讀取、編輯與自動化，無需安裝 Office，單一執行檔且完全開源",
+      "descriptionEn": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "counter": 1,
+      "stars": 10080,
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "descriptionZhtw": "輕量級 TTS 模型，可直接在 CPU 上運行，適合嵌入式或行動裝置使用",
+      "descriptionEn": "A TTS that fits in your CPU (and pocket)",
+      "counter": 1,
+      "stars": 6210,
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
     }
   ]
 }
