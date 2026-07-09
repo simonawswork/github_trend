@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-08T02:00:09.602Z",
+  "lastUpdate": "2026-07-09T02:00:12.432Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -166,10 +166,10 @@
       "url": "https://github.com/alibaba/zvec",
       "descriptionZhtw": "輕量、極速的進程內向量資料庫",
       "descriptionEn": "A lightweight, lightning-fast, in-process vector database",
-      "counter": 4,
-      "stars": 13562,
+      "counter": 5,
+      "stars": 14432,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-09"
     },
     {
       "name": "rmyndharis/OpenWA",
@@ -1006,10 +1006,10 @@
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "descriptionZhtw": "為 AI Agent 打造的即時、並行、安全且輕量級的沙盒環境",
       "descriptionEn": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
-      "counter": 3,
-      "stars": 8491,
+      "counter": 4,
+      "stars": 8953,
       "firstSeen": "2026-07-02",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "name": "yikart/AiToEarn",
@@ -1206,10 +1206,10 @@
       "url": "https://github.com/ruvnet/RuView",
       "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴影像影像影像。 ",
       "descriptionEn": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "counter": 3,
-      "stars": 78533,
+      "counter": 4,
+      "stars": 79165,
       "firstSeen": "2026-07-06",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "name": "gastownhall/gastown",
@@ -1226,30 +1226,30 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 2,
-      "stars": 72213,
+      "counter": 3,
+      "stars": 74212,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "name": "mvanhorn/last30days-skill",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "descriptionZhtw": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁研究任何主題，並合成具事實根據的摘要",
       "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "counter": 1,
-      "stars": 49836,
+      "counter": 2,
+      "stars": 50780,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-09"
     },
     {
       "name": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "descriptionZhtw": "讓 Claude 具備觀看任何影片的能力。透過 /watch 下載、提取影格、轉錄，並將所有內容交給 Claude",
       "descriptionEn": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "counter": 2,
-      "stars": 5207,
+      "counter": 3,
+      "stars": 6087,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "name": "karakeep-app/karakeep",
@@ -1276,10 +1276,10 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "descriptionZhtw": "專為 AI Agent 打造的 Office 套件 CLI 工具。支援 Word、Excel 與 PowerPoint 文件的讀取、編輯與自動化，無需安裝 Office，單一執行檔且完全開源",
       "descriptionEn": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "counter": 1,
-      "stars": 10080,
+      "counter": 2,
+      "stars": 11951,
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-09"
     },
     {
       "name": "kyutai-labs/pocket-tts",
@@ -1290,6 +1290,46 @@
       "stars": 6210,
       "firstSeen": "2026-07-08",
       "lastSeen": "2026-07-08"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "descriptionZhtw": "TencentDB Agent Memory 為 AI Agent 提供完全本地的長期記憶，採用四層漸進式管道，零外部 API 依賴",
+      "descriptionEn": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
+      "counter": 1,
+      "stars": 7685,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "descriptionZhtw": "適用於 Node.js 和 TypeScript 的下一代 ORM，支援 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB",
+      "descriptionEn": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "counter": 1,
+      "stars": 46580,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "descriptionZhtw": "Kubernetes 的宣告式持續部署（CD）工具",
+      "descriptionEn": "Declarative Continuous Deployment for Kubernetes",
+      "counter": 1,
+      "stars": 23440,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "descriptionZhtw": "專為 Photoshop 用戶設計的 GIMP 3+ 修補程式，優化介面與快捷鍵",
+      "descriptionEn": "A Patch for GIMP 3+ for Photoshop Users",
+      "counter": 1,
+      "stars": 15055,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
     }
   ]
 }
