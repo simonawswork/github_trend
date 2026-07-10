@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-09T02:00:12.432Z",
+  "lastUpdate": "2026-07-10T02:00:14.195Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -645,7 +645,7 @@
       "name": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "descriptionZhtw": "用於解除對 Discord 和 YouTube 封鎖的工具（zapret 封鎖規避方案）",
-      "descriptionEn": "",
+      "descriptionEn": "用於繞過俄羅斯網路審查並解除對 Discord 和 YouTube 封鎖的工具（基於 zapret）。",
       "counter": 1,
       "stars": 30029,
       "firstSeen": "2026-06-25",
@@ -1144,7 +1144,7 @@
     {
       "name": "anthropics/claude-code",
       "url": "https://github.com/anthropics/claude-code",
-      "descriptionZhtw": "Claude Code 是一款終端機原生 Agentic 程式碼助手，可理解程式庫並透過自然語言處理日常任務、解釋程式碼與管理 Git 工作流",
+      "descriptionZhtw": "Claude Code 是一款終端機原生 Agentic 程式碼助手，可理解程式庫並透過自然語言處理 daily 任務、解釋程式碼與管理 Git 工作流",
       "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "counter": 2,
       "stars": 136318,
@@ -1204,7 +1204,7 @@
     {
       "name": "ruvnet/RuView",
       "url": "https://github.com/ruvnet/RuView",
-      "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴影像影像影像。 ",
+      "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴錄影。",
       "descriptionEn": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "counter": 4,
       "stars": 79165,
@@ -1226,10 +1226,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 3,
-      "stars": 74212,
+      "counter": 4,
+      "stars": 75930,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-10"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -1246,10 +1246,10 @@
       "url": "https://github.com/bradautomates/claude-video",
       "descriptionZhtw": "讓 Claude 具備觀看任何影片的能力。透過 /watch 下載、提取影格、轉錄，並將所有內容交給 Claude",
       "descriptionEn": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "counter": 3,
-      "stars": 6087,
+      "counter": 4,
+      "stars": 6733,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-10"
     },
     {
       "name": "karakeep-app/karakeep",
@@ -1266,30 +1266,30 @@
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "descriptionZhtw": "基於 Claude Code 的 AI 輔助求職框架。填入個人資料後，讓 Claude 為你評估職缺、客製化履歷、撰寫求職信並協助面試準備",
       "descriptionEn": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
-      "counter": 1,
-      "stars": 11121,
+      "counter": 2,
+      "stars": 19153,
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-10"
     },
     {
       "name": "iOfficeAI/OfficeCLI",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "descriptionZhtw": "專為 AI Agent 打造的 Office 套件 CLI 工具。支援 Word、Excel 與 PowerPoint 文件的讀取、編輯與自動化，無需安裝 Office，單一執行檔且完全開源",
       "descriptionEn": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "counter": 2,
-      "stars": 11951,
+      "counter": 3,
+      "stars": 13514,
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-10"
     },
     {
       "name": "kyutai-labs/pocket-tts",
       "url": "https://github.com/kyutai-labs/pocket-tts",
       "descriptionZhtw": "輕量級 TTS 模型，可直接在 CPU 上運行，適合嵌入式或行動裝置使用",
       "descriptionEn": "A TTS that fits in your CPU (and pocket)",
-      "counter": 1,
-      "stars": 6210,
+      "counter": 2,
+      "stars": 7001,
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-10"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
@@ -1306,10 +1306,10 @@
       "url": "https://github.com/prisma/prisma",
       "descriptionZhtw": "適用於 Node.js 和 TypeScript 的下一代 ORM，支援 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB",
       "descriptionEn": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
-      "counter": 1,
-      "stars": 46580,
+      "counter": 2,
+      "stars": 46914,
       "firstSeen": "2026-07-09",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-10"
     },
     {
       "name": "argoproj/argo-cd",
@@ -1330,6 +1330,36 @@
       "stars": 15055,
       "firstSeen": "2026-07-09",
       "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "SmartlyDressedGames/U3-SDK",
+      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "descriptionZhtw": "Unturned 遊戲原始碼，這是一款免費的開放世界殭屍生存沙盒遊戲。",
+      "descriptionEn": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "counter": 1,
+      "stars": 2059,
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "descriptionZhtw": "展示一些有趣且有效的 Claude 使用方法的 Notebook 與範例集錦。",
+      "descriptionEn": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "counter": 1,
+      "stars": 47185,
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "descriptionZhtw": "完全自主的 AI Agent 系統，能夠執行複雜的滲透測試任務。",
+      "descriptionEn": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "counter": 1,
+      "stars": 19436,
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
     }
   ]
 }
