@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-10T02:00:14.195Z",
+  "lastUpdate": "2026-07-11T02:00:13.689Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -1226,10 +1226,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 4,
-      "stars": 75930,
+      "counter": 5,
+      "stars": 76846,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -1276,10 +1276,10 @@
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "descriptionZhtw": "專為 AI Agent 打造的 Office 套件 CLI 工具。支援 Word、Excel 與 PowerPoint 文件的讀取、編輯與自動化，無需安裝 Office，單一執行檔且完全開源",
       "descriptionEn": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
-      "counter": 3,
-      "stars": 13514,
+      "counter": 4,
+      "stars": 14455,
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-11"
     },
     {
       "name": "kyutai-labs/pocket-tts",
@@ -1296,10 +1296,10 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "descriptionZhtw": "TencentDB Agent Memory 為 AI Agent 提供完全本地的長期記憶，採用四層漸進式管道，零外部 API 依賴",
       "descriptionEn": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
-      "counter": 1,
-      "stars": 7685,
+      "counter": 2,
+      "stars": 8251,
       "firstSeen": "2026-07-09",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-11"
     },
     {
       "name": "prisma/prisma",
@@ -1360,6 +1360,136 @@
       "stars": 19436,
       "firstSeen": "2026-07-10",
       "lastSeen": "2026-07-10"
+    },
+    {
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "descriptionZhtw": "極速 JavaScript 執行環境、打包器、測試執行器與套件管理員 — 全部整合在一起",
+      "descriptionEn": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "counter": 1,
+      "stars": 94253,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "descriptionZhtw": "Google 開源的 C++ 通用程式庫集合",
+      "descriptionEn": "Abseil Common Libraries (C++)",
+      "counter": 1,
+      "stars": 17523,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "descriptionZhtw": "C++ 的 YAML 解析與生成器",
+      "descriptionEn": "A YAML parser and emitter in C++",
+      "counter": 1,
+      "stars": 6082,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "descriptionZhtw": "TypeScript 是 JavaScript 的超集，可編譯成純 JavaScript 程式碼",
+      "descriptionEn": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "counter": 1,
+      "stars": 109781,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "descriptionZhtw": "現代化、原生支援 C++ 的單元測試框架，支援 TDD 與 BDD",
+      "descriptionEn": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "counter": 1,
+      "stars": 20616,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "descriptionZhtw": "用於網路與底層 I/O 編程的跨平台 C++ 程式庫",
+      "descriptionEn": "Asio C++ Library",
+      "counter": 1,
+      "stars": 6073,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "descriptionZhtw": "用於配置與監控 Claude Code 的 CLI 工具",
+      "descriptionEn": "CLI tool for configuring and monitoring Claude Code",
+      "counter": 1,
+      "stars": 28778,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "descriptionZhtw": "網格優化程式庫，讓網格更小且渲染更快",
+      "descriptionEn": "Mesh optimization library that makes meshes smaller and faster to render",
+      "counter": 1,
+      "stars": 8028,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "descriptionZhtw": "基於 WireGuard 的最簡易、最安全的虛擬網路連線方式，支援 2FA",
+      "descriptionEn": "The easiest, most secure way to use WireGuard and 2FA.",
+      "counter": 1,
+      "stars": 33665,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "descriptionZhtw": "專為 Stitch MCP 伺服器設計的 Agent Skills 庫，相容於 Claude Code、Cursor 等 Agent",
+      "descriptionEn": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "counter": 1,
+      "stars": 6755,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "descriptionZhtw": "Terraform 讓你安全且可預測地建立、變更與改進基礎設施，將 API 編碼為可定義的配置文件",
+      "descriptionEn": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "counter": 1,
+      "stars": 49175,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "descriptionZhtw": "基於 C++ 實作的高效能、開源、通用遠端程序呼叫 (gRPC) 框架",
+      "descriptionEn": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "counter": 1,
+      "stars": 45139,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "descriptionZhtw": "生產環境適用的 React 框架",
+      "descriptionEn": "The React Framework",
+      "counter": 1,
+      "stars": 140718,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
     }
   ]
 }
