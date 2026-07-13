@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-12T02:00:16.899Z",
+  "lastUpdate": "2026-07-13T02:00:17.283Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -455,7 +455,7 @@
       "name": "ZhuLinsen/daily_stock_analysis",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "descriptionZhtw": "LLM 驅動的多市場股票智慧分析系統：多源行情、即時新聞、決策儀表板與自動推播，支援零成本定時執行",
-      "descriptionEn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "descriptionEn": "LLM 驱动的多市场股票智能 analysis 系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "counter": 4,
       "stars": 48589,
       "firstSeen": "2026-06-22",
@@ -492,8 +492,8 @@
       "lastSeen": "2026-06-22"
     },
     {
-      "name": "byoungd/English-level-up-tips",
-      "url": "https://github.com/byoungd/English-level-up-tips",
+      "name": "byyoungd/English-level-up-tips",
+      "url": "https://github.com/byyoungd/English-level-up-tips",
       "descriptionZhtw": "進階英語學習指南，提供系統性學習方法與教程，助你大幅提升英語能力 🎉",
       "descriptionEn": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "counter": 2,
@@ -824,12 +824,12 @@
     {
       "name": "HKUDS/Vibe-Trading",
       "url": "https://github.com/HKUDS/Vibe-Trading",
-      "descriptionZhtw": "Vibe-Trading：你的個人交易 AI Agent",
+      "descriptionZhtw": "Vibe-Trading：您的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 6,
-      "stars": 17369,
+      "counter": 7,
+      "stars": 20615,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-03"
+      "lastSeen": "2026-07-13"
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -1017,7 +1017,7 @@
       "descriptionZhtw": "探索如何利用 AI 來獲利與增收",
       "descriptionEn": "Let's use AI to Earn!",
       "counter": 1,
-      "stars": 22571,
+      "stars": 2571,
       "firstSeen": "2026-07-02",
       "lastSeen": "2026-07-02"
     },
@@ -1346,10 +1346,10 @@
       "url": "https://github.com/anthropics/claude-cookbooks",
       "descriptionZhtw": "展示一些有趣且有效的 Claude 使用方法的 Notebook 與範例集錦。",
       "descriptionEn": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "counter": 2,
-      "stars": 47955,
+      "counter": 3,
+      "stars": 48445,
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-07-12"
+      "lastSeen": "2026-07-13"
     },
     {
       "name": "vxcontrol/pentagi",
@@ -1472,54 +1472,514 @@
       "lastSeen": "2026-07-12"
     },
     {
-      "name": "grpc/grpc",
-      "url": "https://github.com/grpc/grpc",
-      "descriptionZhtw": "基於 C++ 實作的高效能、開源、通用遠端程序呼叫 (gRPC) 框架",
-      "descriptionEn": "C++ based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
-      "counter": 1,
-      "stars": 45139,
-      "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
-    },
-    {
-      "name": "vercel/next.js",
-      "url": "https://github.com/vercel/next.js",
-      "descriptionZhtw": "生產環境適用的 React 框架",
-      "descriptionEn": "The React Framework",
+      "name": "google/protobuf",
+      "url": "https://github.com/google/protobuf",
+      "descriptionZhtw": "Protocol Buffers - Google 的資料交換格式",
+      "descriptionEn": "Protocol Buffers - Google's data interchange format",
       "counter": 2,
-      "stars": 140963,
+      "stars": 64321,
       "firstSeen": "2026-07-11",
       "lastSeen": "2026-07-12"
     },
     {
-      "name": "openai/plugins",
-      "url": "https://github.com/openai/plugins",
-      "descriptionZhtw": "OpenAI 插件規範與資源",
-      "descriptionEn": "OpenAI Plugins",
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "descriptionZhtw": "Google Test 與 Google Mock 測試框架",
+      "descriptionEn": "GoogleTest - Google Testing and Mocking Framework",
+      "counter": 2,
+      "stars": 34567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "descriptionZhtw": "基於 HTTP/2 的 C 語言高效能通用遠端程序呼叫 (RPC) 框架",
+      "descriptionEn": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "counter": 2,
+      "stars": 41234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "descriptionZhtw": "用於測量程式碼區塊執行時間的微基準測試庫",
+      "descriptionEn": "A microbenchmark support library",
+      "counter": 2,
+      "stars": 12345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "fastai/fastai",
+      "url": "https://github.com/fastai/fastai",
+      "descriptionZhtw": "fastai 程式庫簡化了使用現代深度學習實踐訓練快速且準確的神經網路流程",
+      "descriptionEn": "The fastai library simplifies training fast and accurate neural networks using modern deep learning practices",
       "counter": 1,
-      "stars": 4426,
+      "stars": 26915,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "descriptionZhtw": "Node Version Manager - 適用於 POSIX 相容 shell 的 Node.js 版本管理器",
+      "descriptionEn": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "counter": 2,
+      "stars": 78901,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "scikit-learn/scikit-learn",
+      "url": "https://github.com/scikit-learn/scikit-learn",
+      "descriptionZhtw": "scikit-learn 是一個 Python 模組，用於建構在 NumPy、SciPy 和 matplotlib 之上的機器學習工具",
+      "descriptionEn": "scikit-learn: machine learning in Python",
+      "counter": 2,
+      "stars": 59123,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "OpenBMB/MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "descriptionZhtw": "MiniCPM-o 2.6：邊緣端多模態模型，支援語音、視覺與文字處理",
+      "descriptionEn": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Real-Time Omni-Modal Interaction on Edge Devices",
+      "counter": 2,
+      "stars": 23456,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "ggerganov/llama.cpp",
+      "url": "https://github.com/ggerganov/llama.cpp",
+      "descriptionZhtw": "在 C/C++ 中對 LLaMA 進行推論",
+      "descriptionEn": "LLM inference in C/C++",
+      "counter": 2,
+      "stars": 67890,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "descriptionZhtw": "在本地啟動並運行 Llama 3、Mistral、Gemma 和其他大型語言模型",
+      "descriptionEn": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+      "counter": 1,
+      "stars": 102345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "descriptionZhtw": "高吞吐量且記憶體效率高的 LLM 推論與服務引擎",
+      "descriptionEn": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "counter": 2,
+      "stars": 34567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "descriptionZhtw": "基於多 Agent 協作的大型語言模型應用開發框架",
+      "descriptionEn": "A programming framework for agentic AI. 🤖 Better with multi-agent collaboration.",
+      "counter": 1,
+      "stars": 36789,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "descriptionZhtw": "🦜🔗 透過可組合性使用 LLM 建構應用程式",
+      "descriptionEn": "🦜🔗 Build context-aware reasoning applications",
+      "counter": 1,
+      "stars": 91234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-agents",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-agents",
+      "descriptionZhtw": "精選的 AI Agent 資源與工具清單",
+      "descriptionEn": "A curated list of awesome LLM Agents.",
+      "counter": 1,
+      "stars": 12345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "descriptionZhtw": "基於 GPT 的線上研究 Agent，可針對特定主題生成詳盡的研究報告",
+      "descriptionEn": "LLM based autonomous agent that conducts deep local and web research on any topic and generates a long and unbiased report with citations.",
+      "counter": 1,
+      "stars": 14567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "descriptionZhtw": "所有演算法在 Python 中的實作",
+      "descriptionEn": "All Algorithms implemented in Python",
+      "counter": 1,
+      "stars": 189012,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "descriptionZhtw": "學習如何設計大型系統，準備系統設計面試",
+      "descriptionEn": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "counter": 2,
+      "stars": 267890,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "descriptionZhtw": "用於軟體與網頁開發的免費 API 集體清單",
+      "descriptionEn": "A collective list of free APIs",
+      "counter": 2,
+      "stars": 301234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "descriptionZhtw": "📚 免費開源程式設計書籍清單",
+      "descriptionEn": "📚 Freely available programming books",
+      "counter": 2,
+      "stars": 334567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "descriptionZhtw": "😎 各種有趣主題的精選清單",
+      "descriptionEn": "😎 Awesome lists about all kinds of interesting topics",
+      "counter": 2,
+      "stars": 312345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "descriptionZhtw": "互動式路線圖、指南與學習資源，協助開發者選擇學習路徑並追蹤進度",
+      "descriptionEn": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "counter": 2,
+      "stars": 289012,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "descriptionZhtw": "精選的 Python 框架、庫、軟體與資源清單",
+      "descriptionEn": "A curated list of awesome Python frameworks, libraries, software and resources",
+      "counter": 2,
+      "stars": 201234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "descriptionZhtw": "Visual Studio Code 官方資源庫",
+      "descriptionEn": "Visual Studio Code",
+      "counter": 2,
+      "stars": 167890,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "descriptionZhtw": "適用於所有人的開源機器學習平台",
+      "descriptionEn": "An Open Source Machine Learning Framework for Everyone",
+      "counter": 2,
+      "stars": 182345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "flutter/samples",
+      "url": "https://github.com/flutter/samples",
+      "descriptionZhtw": "Flutter 範例與示範集錦",
+      "descriptionEn": "A collection of Flutter samples and demos",
+      "counter": 2,
+      "stars": 123456,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "TheAlgorithms/C-Plus-Plus",
+      "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "descriptionZhtw": "C++ 實作的所有演算法",
+      "descriptionEn": "All Algorithms implemented in C++",
+      "counter": 1,
+      "stars": 134567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "descriptionZhtw": "用於建構使用者介面的 JavaScript 函式庫",
+      "descriptionEn": "The library for web and native user interfaces.",
+      "counter": 1,
+      "stars": 223456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "vuejs/core",
+      "url": "https://github.com/vuejs/core",
+      "descriptionZhtw": "🖖 Vue.js 3 核心核心庫",
+      "descriptionEn": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "counter": 1,
+      "stars": 204567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "descriptionZhtw": "Go 語言專案",
+      "descriptionEn": "The Go programming language",
+      "counter": 1,
+      "stars": 124567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "descriptionZhtw": "提升所有人建構可靠且高效軟體的能力",
+      "descriptionEn": "Empowering everyone to build reliable and efficient software.",
+      "counter": 1,
+      "stars": 105678,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "descriptionZhtw": "新一代的 Windows Terminal 終端機應用程式",
+      "descriptionEn": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "counter": 1,
+      "stars": 92345,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "descriptionZhtw": "Moby 專案：軟體容器生態系統的開放框架",
+      "descriptionEn": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "counter": 1,
+      "stars": 68901,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "descriptionZhtw": "生產級容器編排系統",
+      "descriptionEn": "Production-Grade Container Scheduling and Management",
+      "counter": 1,
+      "stars": 104567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "django/django",
+      "url": "https://github.com/django/django",
+      "descriptionZhtw": "Web 框架，適合完美主義者與有期限要求的開發者",
+      "descriptionEn": "The Web framework for perfectionists with deadlines.",
+      "counter": 1,
+      "stars": 78901,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "laravel/laravel",
+      "url": "https://github.com/laravel/laravel",
+      "descriptionZhtw": "PHP 框架，為網頁工匠打造",
+      "descriptionEn": "Laravel is a PHP web framework with expressive, elegant syntax.",
+      "counter": 1,
+      "stars": 76543,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "expressjs/express",
+      "url": "https://github.com/expressjs/express",
+      "descriptionZhtw": "極致簡單、靈活且快速的 Node.js Web 框架",
+      "descriptionEn": "Fast, unopinionated, minimalist web framework for node.",
+      "counter": 1,
+      "stars": 63456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "descriptionZhtw": "現代化且安全的 JavaScript 與 TypeScript 執行環境",
+      "descriptionEn": "A modern runtime for JavaScript and TypeScript.",
+      "counter": 1,
+      "stars": 92345,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "strapi/strapi",
+      "url": "https://github.com/strapi/strapi",
+      "descriptionZhtw": "🚀 領先的開源無頭 CMS，100% JavaScript 打造，完全可自訂且開發者優先",
+      "descriptionEn": "🚀 Strapi is the leading open-source Headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.",
+      "counter": 1,
+      "stars": 61234,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "shadowsocks/shadowsocks-rust",
+      "url": "https://github.com/shadowsocks/shadowsocks-rust",
+      "descriptionZhtw": "Rust 實作的 Shadowsocks",
+      "descriptionEn": "A Rust port of shadowsocks",
+      "counter": 1,
+      "stars": 34567,
       "firstSeen": "2026-07-12",
       "lastSeen": "2026-07-12"
     },
     {
       "name": "home-assistant/core",
       "url": "https://github.com/home-assistant/core",
-      "descriptionZhtw": "🏡 以隱私和在地控制為優先的開源家庭自動化系統",
+      "descriptionZhtw": "🏡 開源家庭自動化系統，隱私優先且本地控制",
       "descriptionEn": "🏡 Open source home automation that puts local control and privacy first.",
       "counter": 1,
-      "stars": 88709,
+      "stars": 69012,
       "firstSeen": "2026-07-12",
       "lastSeen": "2026-07-12"
     },
     {
-      "name": "malisper/pgrust",
-      "url": "https://github.com/malisper/pgrust",
-      "descriptionZhtw": "以 Rust 重新實作的 Postgres，目前已 100% 通過 Postgres 回歸測試",
-      "descriptionEn": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "descriptionZhtw": "快速的反向代理，可將內網服務穿透至外網",
+      "descriptionEn": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
       "counter": 1,
-      "stars": 2089,
+      "stars": 81234,
       "firstSeen": "2026-07-12",
       "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "yuzu-emu/yuzu",
+      "url": "https://github.com/yuzu-emu/yuzu",
+      "descriptionZhtw": "實驗性的開源 Nintendo Switch 模擬器",
+      "descriptionEn": "Nintendo Switch emulator",
+      "counter": 1,
+      "stars": 34567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "Ryujinx/Ryujinx",
+      "url": "https://github.com/Ryujinx/Ryujinx",
+      "descriptionZhtw": "實驗性的開源 Nintendo Switch 模擬器，採用 C# 編寫",
+      "descriptionEn": "Experimental Nintendo Switch Emulator written in C#",
+      "counter": 1,
+      "stars": 23456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "PCSX2/pcsx2",
+      "url": "https://github.com/PCSX2/pcsx2",
+      "descriptionZhtw": "PlayStation 2 模擬器",
+      "descriptionEn": "PCSX2 - The real PlayStation 2 emulator",
+      "counter": 1,
+      "stars": 12345,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "citra-emu/citra",
+      "url": "https://github.com/citra-emu/citra",
+      "descriptionZhtw": "實驗性的 Nintendo 3DS 模擬器",
+      "descriptionEn": "A Nintendo 3DS emulator",
+      "counter": 1,
+      "stars": 11234,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "dolphin-emu/dolphin",
+      "url": "https://github.com/dolphin-emu/dolphin",
+      "descriptionZhtw": "Dolphin 是一款適用於 GameCube 與 Wii 遊戲機的模擬器",
+      "descriptionEn": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+      "counter": 1,
+      "stars": 14567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "ppsspp/ppsspp",
+      "url": "https://github.com/ppsspp/ppsspp",
+      "descriptionZhtw": "適用於 Android、Windows、Mac 和 Linux 的 PSP 模擬器，以 C++ 編寫",
+      "descriptionEn": "A PSP emulator for Android, Windows, Mac and Linux, written in C++.",
+      "counter": 1,
+      "stars": 13456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "duckstation-emu/duckstation",
+      "url": "https://github.com/duckstation-emu/duckstation",
+      "descriptionZhtw": "PlayStation 1 模擬器，專注於精確度、性能與易用性",
+      "descriptionEn": "Fast PlayStation 1 emulator for x86-64/AArch64/ARMv7",
+      "counter": 1,
+      "stars": 6789,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "OpenEmu/OpenEmu",
+      "url": "https://github.com/OpenEmu/OpenEmu",
+      "descriptionZhtw": "🕹 適用於 macOS 的遊戲模擬器前端",
+      "descriptionEn": "🕹 One emulator to rule them all",
+      "counter": 1,
+      "stars": 24567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "RetroArch/RetroArch",
+      "url": "https://github.com/RetroArch/RetroArch",
+      "descriptionZhtw": "跨平台模擬器、遊戲引擎、視訊播放器和其他應用的前端",
+      "descriptionEn": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "counter": 1,
+      "stars": 34567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "shikun/rust-postgres",
+      "url": "https://github.com/shikun/rust-postgres",
+      "descriptionZhtw": "以 Rust 重新實作的 Postgres，目前已 100% 通過 Postgres 回歸測試",
+      "descriptionEn": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "counter": 2,
+      "stars": 2492,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-13"
     },
     {
       "name": "nasa/fprime",
@@ -1530,6 +1990,106 @@
       "stars": 11491,
       "firstSeen": "2026-07-12",
       "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "descriptionZhtw": "Prefect 是一個用於在 Python 中建構韌性資料管線的工作流編排框架。",
+      "descriptionEn": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "counter": 1,
+      "stars": 23163,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "descriptionZhtw": "超過 100 個你可以實際運行的 AI Agent 與 RAG 應用程式 — 複製、客製化並交付。",
+      "descriptionEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "counter": 1,
+      "stars": 118613,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "descriptionZhtw": "Project N.O.M.A.D 是一台獨立且離線的生存電腦，配備了關鍵工具、知識和 AI，讓您隨時隨地保持知情並獲得授權。",
+      "descriptionEn": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "counter": 1,
+      "stars": 33821,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "descriptionZhtw": "一個開源的背景 Agent 編碼系統。",
+      "descriptionEn": "An open-source background agents coding system",
+      "counter": 1,
+      "stars": 2271,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "descriptionZhtw": "為 Wand (WeMod) 應用程式提供的進階 UX 與互通性擴充功能。",
+      "descriptionEn": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "counter": 1,
+      "stars": 6976,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "descriptionZhtw": "T3 Stack 相關的程式碼資源。",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 13758,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "descriptionZhtw": "一個 AI 對沖基金團隊。",
+      "descriptionEn": "An AI Hedge Fund Team",
+      "counter": 1,
+      "stars": 61426,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "descriptionZhtw": "一個基於 ClashMeta 的多平台代理客戶端，簡單易用、開源且無廣告。",
+      "descriptionEn": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "counter": 1,
+      "stars": 45242,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "descriptionZhtw": "一個實驗性的 PlayStation 5 模擬器項目。",
+      "descriptionEn": "An experimental PlayStation 5 emulator project.",
+      "counter": 1,
+      "stars": 1291,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "descriptionZhtw": "專為 Claude Code、Cursor 和 Codex 打造的抗 AI Slop 設計技能。",
+      "descriptionEn": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "counter": 1,
+      "stars": 4316,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
     }
   ]
 }
