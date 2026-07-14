@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-13T02:00:17.283Z",
+  "lastUpdate": "2026-07-14T02:00:13.260Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -826,10 +826,10 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "descriptionZhtw": "Vibe-Trading：您的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 7,
-      "stars": 20615,
+      "counter": 8,
+      "stars": 21808,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-14"
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -915,11 +915,11 @@
       "name": "hasaneyldrm/exercises-dataset",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
-      "descriptionEn": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
-      "counter": 3,
-      "stars": 9295,
+      "descriptionEn": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "counter": 4,
+      "stars": 12653,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-03"
+      "lastSeen": "2026-07-14"
     },
     {
       "name": "Mebus/cupp",
@@ -2006,10 +2006,10 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "descriptionZhtw": "超過 100 個你可以實際運行的 AI Agent 與 RAG 應用程式 — 複製、客製化並交付。",
       "descriptionEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "counter": 1,
-      "stars": 118613,
+      "counter": 2,
+      "stars": 119682,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-14"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -2086,10 +2086,40 @@
       "url": "https://github.com/Nutlope/hallmark",
       "descriptionZhtw": "專為 Claude Code、Cursor 和 Codex 打造的抗 AI Slop 設計技能。",
       "descriptionEn": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "counter": 1,
-      "stars": 4316,
+      "counter": 2,
+      "stars": 5197,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-14"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "descriptionZhtw": "自架且個人擁有的 Grok 伴侶，一個裝載 waifu 靈魂的容器，旨在將賽博生命帶入現實世界，目標是達到 Neuro-sama 的高度。支援即時語音聊天、玩 Minecraft 與 Factorio。支援 Web、macOS 與 Windows。",
+      "descriptionEn": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "counter": 1,
+      "stars": 41911,
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "descriptionZhtw": "AI 程式碼助手技能（支援 Claude Code, Codex, Cursor, Gemini CLI 等）。將任何程式碼資料夾、SQL Schema、R/Shell 腳本、文件、論文、圖片或影片轉換為可查詢的知識圖譜。將應用程式碼、資料庫架構與基礎設施整合在同一個圖譜中。",
+      "descriptionEn": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "counter": 1,
+      "stars": 84810,
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    {
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "descriptionZhtw": "協助你開始進行規格驅動開發（Spec-Driven Development）的工具包。",
+      "descriptionEn": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "counter": 1,
+      "stars": 120639,
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
     }
   ]
 }
