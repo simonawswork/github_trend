@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-14T02:00:13.260Z",
+  "lastUpdate": "2026-07-15T02:00:11.509Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -225,11 +225,11 @@
       "name": "penpot/penpot",
       "url": "https://github.com/penpot/penpot",
       "descriptionZhtw": "Penpot：設計與程式碼協作的開源設計工具",
-      "descriptionEn": "Penpot: The open-source design tool for design and code collaboration",
-      "counter": 5,
-      "stars": 52900,
+      "descriptionEn": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "counter": 6,
+      "stars": 56175,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-06-23"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "yairm210/Unciv",
@@ -826,10 +826,10 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "descriptionZhtw": "Vibe-Trading：您的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 8,
-      "stars": 21808,
+      "counter": 9,
+      "stars": 22894,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -916,10 +916,10 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
       "descriptionEn": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "counter": 4,
-      "stars": 12653,
+      "counter": 5,
+      "stars": 13565,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "Mebus/cupp",
@@ -2006,10 +2006,10 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "descriptionZhtw": "超過 100 個你可以實際運行的 AI Agent 與 RAG 應用程式 — 複製、客製化並交付。",
       "descriptionEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "counter": 2,
-      "stars": 119682,
+      "counter": 3,
+      "stars": 120868,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -2056,10 +2056,10 @@
       "url": "https://github.com/virattt/ai-hedge-fund",
       "descriptionZhtw": "一個 AI 對沖基金團隊。",
       "descriptionEn": "An AI Hedge Fund Team",
-      "counter": 1,
-      "stars": 61426,
+      "counter": 2,
+      "stars": 61897,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "chen08209/FlClash",
@@ -2076,20 +2076,20 @@
       "url": "https://github.com/par274/sharpemu",
       "descriptionZhtw": "一個實驗性的 PlayStation 5 模擬器項目。",
       "descriptionEn": "An experimental PlayStation 5 emulator project.",
-      "counter": 1,
-      "stars": 1291,
+      "counter": 2,
+      "stars": 2155,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-13"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "Nutlope/hallmark",
       "url": "https://github.com/Nutlope/hallmark",
       "descriptionZhtw": "專為 Claude Code、Cursor 和 Codex 打造的抗 AI Slop 設計技能。",
       "descriptionEn": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "counter": 2,
-      "stars": 5197,
+      "counter": 3,
+      "stars": 6194,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "moeru-ai/airi",
@@ -2106,10 +2106,10 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "descriptionZhtw": "AI 程式碼助手技能（支援 Claude Code, Codex, Cursor, Gemini CLI 等）。將任何程式碼資料夾、SQL Schema、R/Shell 腳本、文件、論文、圖片或影片轉換為可查詢的知識圖譜。將應用程式碼、資料庫架構與基礎設施整合在同一個圖譜中。",
       "descriptionEn": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "counter": 1,
-      "stars": 84810,
+      "counter": 2,
+      "stars": 86458,
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-15"
     },
     {
       "name": "github/spec-kit",
@@ -2120,6 +2120,26 @@
       "stars": 120639,
       "firstSeen": "2026-07-14",
       "lastSeen": "2026-07-14"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "url": "https://github.com/AIEraDev/Clypra",
+      "descriptionZhtw": "使用 Tauri、React 和 TypeScript 構建的現代化影片編輯器，專注於提供媲美付費版 CapCut 的免費功能。",
+      "descriptionEn": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "counter": 1,
+      "stars": 2648,
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-07-15"
+    },
+    {
+      "name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "descriptionZhtw": "面向 Grok Build、Grok Web 與 Grok Console 的多帳號 API 閘道。",
+      "descriptionEn": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
+      "counter": 1,
+      "stars": 5870,
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-07-15"
     }
   ]
 }
