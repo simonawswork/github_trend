@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-15T02:00:11.509Z",
+  "lastUpdate": "2026-07-16T02:00:14.547Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -826,10 +826,10 @@
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "descriptionZhtw": "Vibe-Trading：您的個人交易 AI Agent",
       "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
-      "counter": 9,
-      "stars": 22894,
+      "counter": 10,
+      "stars": 23739,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-16"
     },
     {
       "name": "Robbyant/lingbot-map",
@@ -916,10 +916,10 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
       "descriptionEn": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "counter": 5,
-      "stars": 13565,
+      "counter": 6,
+      "stars": 14416,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-16"
     },
     {
       "name": "Mebus/cupp",
@@ -2006,10 +2006,10 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "descriptionZhtw": "超過 100 個你可以實際運行的 AI Agent 與 RAG 應用程式 — 複製、客製化並交付。",
       "descriptionEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "counter": 3,
-      "stars": 120868,
+      "counter": 4,
+      "stars": 121949,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-16"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -2086,20 +2086,20 @@
       "url": "https://github.com/Nutlope/hallmark",
       "descriptionZhtw": "專為 Claude Code、Cursor 和 Codex 打造的抗 AI Slop 設計技能。",
       "descriptionEn": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "counter": 3,
-      "stars": 6194,
+      "counter": 4,
+      "stars": 8643,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-16"
     },
     {
       "name": "moeru-ai/airi",
       "url": "https://github.com/moeru-ai/airi",
       "descriptionZhtw": "自架且個人擁有的 Grok 伴侶，一個裝載 waifu 靈魂的容器，旨在將賽博生命帶入現實世界，目標是達到 Neuro-sama 的高度。支援即時語音聊天、玩 Minecraft 與 Factorio。支援 Web、macOS 與 Windows。",
       "descriptionEn": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "counter": 1,
-      "stars": 41911,
+      "counter": 2,
+      "stars": 42533,
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-07-16"
     },
     {
       "name": "Graphify-Labs/graphify",
@@ -2140,6 +2140,36 @@
       "stars": 5870,
       "firstSeen": "2026-07-15",
       "lastSeen": "2026-07-15"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "descriptionZhtw": "適用於低成本模型的程式碼 AI Agent",
+      "descriptionEn": "A coding agent for low-cost models",
+      "counter": 1,
+      "stars": 65516,
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "descriptionZhtw": "DeepTutor：終身個人化家教平台",
+      "descriptionEn": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "counter": 1,
+      "stars": 26310,
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "descriptionZhtw": "GTA 5：加強版實驗性選單",
+      "descriptionEn": "Experimental menu for GTA 5: Enhanced",
+      "counter": 1,
+      "stars": 1429,
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
     }
   ]
 }
