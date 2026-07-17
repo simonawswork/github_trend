@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-16T02:00:14.547Z",
+  "lastUpdate": "2026-07-17T02:00:13.700Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -916,10 +916,10 @@
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
       "descriptionEn": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
-      "counter": 6,
-      "stars": 14416,
+      "counter": 7,
+      "stars": 15055,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-16"
+      "lastSeen": "2026-07-17"
     },
     {
       "name": "Mebus/cupp",
@@ -2006,10 +2006,10 @@
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "descriptionZhtw": "超過 100 個你可以實際運行的 AI Agent 與 RAG 應用程式 — 複製、客製化並交付。",
       "descriptionEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
-      "counter": 4,
-      "stars": 121949,
+      "counter": 5,
+      "stars": 122922,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-16"
+      "lastSeen": "2026-07-17"
     },
     {
       "name": "Crosstalk-Solutions/project-nomad",
@@ -2086,10 +2086,10 @@
       "url": "https://github.com/Nutlope/hallmark",
       "descriptionZhtw": "專為 Claude Code、Cursor 和 Codex 打造的抗 AI Slop 設計技能。",
       "descriptionEn": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "counter": 4,
-      "stars": 8643,
+      "counter": 5,
+      "stars": 10961,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-16"
+      "lastSeen": "2026-07-17"
     },
     {
       "name": "moeru-ai/airi",
@@ -2106,10 +2106,10 @@
       "url": "https://github.com/Graphify-Labs/graphify",
       "descriptionZhtw": "AI 程式碼助手技能（支援 Claude Code, Codex, Cursor, Gemini CLI 等）。將任何程式碼資料夾、SQL Schema、R/Shell 腳本、文件、論文、圖片或影片轉換為可查詢的知識圖譜。將應用程式碼、資料庫架構與基礎設施整合在同一個圖譜中。",
       "descriptionEn": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
-      "counter": 2,
-      "stars": 86458,
+      "counter": 3,
+      "stars": 89121,
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-07-17"
     },
     {
       "name": "github/spec-kit",
@@ -2145,31 +2145,91 @@
       "name": "openinterpreter/openinterpreter",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "descriptionZhtw": "適用於低成本模型的程式碼 AI Agent",
-      "descriptionEn": "A coding agent for low-cost models",
-      "counter": 1,
-      "stars": 65516,
+      "descriptionEn": "A coding agent for open models like Kimi K3",
+      "counter": 2,
+      "stars": 65995,
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-16"
+      "lastSeen": "2026-07-17"
     },
     {
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "descriptionZhtw": "DeepTutor：終身個人化家教平台",
       "descriptionEn": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "counter": 1,
-      "stars": 26310,
+      "counter": 2,
+      "stars": 26889,
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-16"
+      "lastSeen": "2026-07-17"
     },
     {
       "name": "YimMenu/YimMenuV2",
       "url": "https://github.com/YimMenu/YimMenuV2",
       "descriptionZhtw": "GTA 5：加強版實驗性選單",
       "descriptionEn": "Experimental menu for GTA 5: Enhanced",
-      "counter": 1,
-      "stars": 1429,
+      "counter": 2,
+      "stars": 1507,
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-16"
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "descriptionZhtw": "Apache Ossie：旨在標準化跨分析、AI 與 BI 平台交換語義元數據的產業規範，為語義資料提供廠商中立的單一事實來源",
+      "descriptionEn": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "counter": 1,
+      "stars": 916,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "descriptionZhtw": "PostHog：構建自動化產品的領先平台，提供 AI 可觀測性、分析、Session 回放、Feature Flags、實驗、錯誤追蹤與日誌等工具，為 Agent 診斷問題與發布修復提供所需背景",
+      "descriptionEn": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "counter": 1,
+      "stars": 35858,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "descriptionZhtw": "Bonsai 演示專案",
+      "descriptionEn": "Bonsai Demo",
+      "counter": 1,
+      "stars": 1526,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "descriptionZhtw": "GitHub Copilot SDK：用於將 GitHub Copilot Agent 整合至應用程式與服務的多平台 SDK",
+      "descriptionEn": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "counter": 1,
+      "stars": 9649,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "descriptionZhtw": "透過從頭開始重新實作你最喜歡的技術來精通編程（如：自己寫一個 Redis、Git、Docker 等）",
+      "descriptionEn": "Master programming by recreating your favorite technologies from scratch.",
+      "counter": 1,
+      "stars": 526347,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "ossu/computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "descriptionZhtw": "通往免費自學電腦科學教育之路的課程清單",
+      "descriptionEn": "🎓 Path to a free self-taught education in Computer Science!",
+      "counter": 1,
+      "stars": 206543,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
     }
   ]
 }
