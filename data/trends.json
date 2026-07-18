@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-17T08:13:46.097Z",
+  "lastUpdate": "2026-07-18T02:00:11.826Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -2086,10 +2086,10 @@
       "url": "https://github.com/Nutlope/hallmark",
       "descriptionZhtw": "專為 Claude Code、Cursor 和 Codex 打造的抗 AI Slop 設計技能。",
       "descriptionEn": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "counter": 5,
-      "stars": 11407,
+      "counter": 6,
+      "stars": 12069,
       "firstSeen": "2026-07-13",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     {
       "name": "moeru-ai/airi",
@@ -2146,20 +2146,20 @@
       "url": "https://github.com/openinterpreter/openinterpreter",
       "descriptionZhtw": "適用於低成本模型的程式碼 AI Agent",
       "descriptionEn": "A coding agent for open models like Kimi K3",
-      "counter": 2,
-      "stars": 66141,
+      "counter": 3,
+      "stars": 66385,
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     {
       "name": "HKUDS/DeepTutor",
       "url": "https://github.com/HKUDS/DeepTutor",
       "descriptionZhtw": "DeepTutor：終身個人化家教平台",
       "descriptionEn": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "counter": 2,
-      "stars": 27091,
+      "counter": 3,
+      "stars": 27373,
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     {
       "name": "YimMenu/YimMenuV2",
@@ -2186,40 +2186,40 @@
       "url": "https://github.com/PostHog/posthog",
       "descriptionZhtw": "PostHog：構建自動化產品的領先平台，提供 AI 可觀測性、分析、Session 回放、Feature Flags、實驗、錯誤追蹤與日誌等工具，為 Agent 診斷問題與發布修復提供所需背景",
       "descriptionEn": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "counter": 1,
-      "stars": 35984,
+      "counter": 2,
+      "stars": 36203,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "descriptionZhtw": "Bonsai 演示專案",
       "descriptionEn": "Bonsai Demo",
-      "counter": 1,
-      "stars": 1619,
+      "counter": 2,
+      "stars": 1716,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     {
       "name": "github/copilot-sdk",
       "url": "https://github.com/github/copilot-sdk",
       "descriptionZhtw": "GitHub Copilot SDK：用於將 GitHub Copilot Agent 整合至應用程式與服務的多平台 SDK",
       "descriptionEn": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "counter": 1,
-      "stars": 9719,
+      "counter": 2,
+      "stars": 9800,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "descriptionZhtw": "透過從頭開始重新實作你最喜歡的技術來精通編程（如：自己寫一個 Redis、Git、Docker 等）",
       "descriptionEn": "Master programming by recreating your favorite technologies from scratch.",
-      "counter": 1,
-      "stars": 526635,
+      "counter": 2,
+      "stars": 527411,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-18"
     },
     {
       "name": "ossu/computer-science",
@@ -2230,6 +2230,46 @@
       "stars": 206739,
       "firstSeen": "2026-07-17",
       "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "descriptionZhtw": "Anthropic 官方舉辦的 Claude 與 AI 工作坊資源",
+      "descriptionEn": "Workshops and resources for building with Claude and Anthropic tools.",
+      "counter": 1,
+      "stars": 1590,
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "descriptionZhtw": "Google 的數據交換格式，高效且語言無關的序列化機制",
+      "descriptionEn": "Protocol Buffers - Google's data interchange format",
+      "counter": 1,
+      "stars": 71542,
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "descriptionZhtw": "DocuSign 的開源替代方案，提供數位文件的創建、填寫與簽署功能",
+      "descriptionEn": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "counter": 1,
+      "stars": 17858,
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "descriptionZhtw": "基於 TurboQuant 構建的向量索引庫，採用 Rust 编写並提供 Python 綁定",
+      "descriptionEn": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "counter": 1,
+      "stars": 13325,
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
     }
   ]
 }
