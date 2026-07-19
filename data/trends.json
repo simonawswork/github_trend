@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-18T02:00:11.826Z",
+  "lastUpdate": "2026-07-19T02:00:09.875Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -836,10 +836,10 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "descriptionZhtw": "串流數據 3D 前饋基礎模型，用於重建場景",
       "descriptionEn": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "counter": 2,
-      "stars": 8886,
+      "counter": 3,
+      "stars": 12978,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-19"
     },
     {
       "name": "ByteByteGoHq/system-design-101",
@@ -2176,20 +2176,20 @@
       "url": "https://github.com/apache/ossie",
       "descriptionZhtw": "Apache Ossie：旨在標準化跨分析、AI 與 BI 平台交換語義元數據的產業規範，為語義資料提供廠商中立的單一事實來源",
       "descriptionEn": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
-      "counter": 1,
-      "stars": 1059,
+      "counter": 2,
+      "stars": 1281,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-17"
+      "lastSeen": "2026-07-19"
     },
     {
       "name": "PostHog/posthog",
       "url": "https://github.com/PostHog/posthog",
       "descriptionZhtw": "PostHog：構建自動化產品的領先平台，提供 AI 可觀測性、分析、Session 回放、Feature Flags、實驗、錯誤追蹤與日誌等工具，為 Agent 診斷問題與發布修復提供所需背景",
       "descriptionEn": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "counter": 2,
-      "stars": 36203,
+      "counter": 3,
+      "stars": 36608,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-18"
+      "lastSeen": "2026-07-19"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -2216,10 +2216,10 @@
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "descriptionZhtw": "透過從頭開始重新實作你最喜歡的技術來精通編程（如：自己寫一個 Redis、Git、Docker 等）",
       "descriptionEn": "Master programming by recreating your favorite technologies from scratch.",
-      "counter": 2,
-      "stars": 527411,
+      "counter": 3,
+      "stars": 528304,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-18"
+      "lastSeen": "2026-07-19"
     },
     {
       "name": "ossu/computer-science",
@@ -2270,6 +2270,36 @@
       "stars": 13325,
       "firstSeen": "2026-07-18",
       "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "descriptionZhtw": "解脫束縛的 AI 聊天介面",
+      "descriptionEn": "LIBERATED AI CHAT",
+      "counter": 1,
+      "stars": 9520,
+      "firstSeen": "2026-07-19",
+      "lastSeen": "2026-07-19"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "descriptionZhtw": "AI 程式碼 Agent 的首選網站：透過 MCP 進行本地優先的搜尋、抓取、爬蟲與研究。無需 API 金鑰，無需雲端，查詢費用為 $0。公開測試中。",
+      "descriptionEn": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "counter": 1,
+      "stars": 1260,
+      "firstSeen": "2026-07-19",
+      "lastSeen": "2026-07-19"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "descriptionZhtw": "Kimi Code CLI 是你的下一個 CLI Agent。",
+      "descriptionEn": "Kimi Code CLI is your next CLI agent.",
+      "counter": 1,
+      "stars": 9507,
+      "firstSeen": "2026-07-19",
+      "lastSeen": "2026-07-19"
     }
   ]
 }
