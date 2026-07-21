@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2026-07-20T02:00:14.511Z",
+  "lastUpdate": "2026-07-21T02:00:11.690Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
       "url": "https://github.com/iptv-org/iptv",
       "descriptionZhtw": "收錄來自世界各地公開可用的 IPTV 頻道",
       "descriptionEn": "Collection of publicly available IPTV channels from all over the world",
-      "counter": 4,
-      "stars": 124152,
+      "counter": 5,
+      "stars": 0,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-17"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "teslamate-org/teslamate",
@@ -426,10 +426,10 @@
       "url": "https://github.com/jamiepine/voicebox",
       "descriptionZhtw": "開源 AI 語音工作室，支援聲音複製、語音輸入與創作",
       "descriptionEn": "The open-source AI voice studio. Clone, dictate, create.",
-      "counter": 4,
-      "stars": 43396,
+      "counter": 5,
+      "stars": 0,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "pppscn/SmsForwarder",
@@ -445,11 +445,11 @@
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "descriptionZhtw": "程式碼 Agent 測試框架",
-      "descriptionEn": "Coding Agent Harness",
-      "counter": 2,
-      "stars": 8933,
+      "descriptionEn": "The most intelligent agent harness for code",
+      "counter": 3,
+      "stars": 0,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -686,10 +686,10 @@
       "url": "https://github.com/every-app/open-seo",
       "descriptionZhtw": "Semrush 與 Ahrefs 的開源替代方案",
       "descriptionEn": "Open source alternative to Semrush and Ahrefs",
-      "counter": 2,
-      "stars": 3426,
+      "counter": 3,
+      "stars": 0,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "aws/agent-toolkit-for-aws",
@@ -836,10 +836,10 @@
       "url": "https://github.com/Robbyant/lingbot-map",
       "descriptionZhtw": "串流數據 3D 前饋基礎模型，用於重建場景",
       "descriptionEn": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
-      "counter": 3,
-      "stars": 12978,
+      "counter": 4,
+      "stars": 0,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "ByteByteGoHq/system-design-101",
@@ -2286,30 +2286,30 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "descriptionZhtw": "AI 程式碼 Agent 的首選網站：透過 MCP 進行本地優先的搜尋、抓取、爬蟲與研究。無需 API 金鑰，無需雲端，查詢費用為 $0。公開測試中。",
       "descriptionEn": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "counter": 2,
-      "stars": 1872,
+      "counter": 3,
+      "stars": 0,
       "firstSeen": "2026-07-19",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "MoonshotAI/kimi-cli",
       "url": "https://github.com/MoonshotAI/kimi-cli",
       "descriptionZhtw": "Kimi Code CLI 是你的下一個 CLI Agent。",
       "descriptionEn": "Kimi Code CLI is your next CLI agent.",
-      "counter": 2,
-      "stars": 9904,
+      "counter": 3,
+      "stars": 0,
       "firstSeen": "2026-07-19",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "kvcache-ai/ktransformers",
       "url": "https://github.com/kvcache-ai/ktransformers",
       "descriptionZhtw": "靈活的異構 LLM 推論與微調優化框架",
       "descriptionEn": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
-      "counter": 1,
-      "stars": 18394,
+      "counter": 2,
+      "stars": 0,
       "firstSeen": "2026-07-20",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "andrewrabert/jellium-desktop",
@@ -2326,10 +2326,10 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "descriptionZhtw": "整合多個通訊平台、LLM 與插件的 AI Agent 助手及開發框架，可作為 OpenClaw 的替代方案",
       "descriptionEn": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "counter": 1,
-      "stars": 36713,
+      "counter": 2,
+      "stars": 0,
       "firstSeen": "2026-07-20",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-21"
     },
     {
       "name": "Canner/WrenAI",
@@ -2350,6 +2350,56 @@
       "stars": 74191,
       "firstSeen": "2026-07-20",
       "lastSeen": "2026-07-20"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "descriptionZhtw": "以 Python 快速開發 MCP 伺服器與用戶端的方法。",
+      "descriptionEn": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "descriptionZhtw": "自架部署平台",
+      "descriptionEn": "Self-hosted deployment platform",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "descriptionZhtw": "免費開源的本體論（Ontologies）與 Microsoft Fabric IQ 學習網頁應用程式。可探索預建目錄、視覺化設計、匯出為 RDF/XML 並分享互動圖表。完全靜態，無需後端。",
+      "descriptionEn": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "handy-computer/transcribe.cpp",
+      "url": "https://github.com/handy-computer/transcribe.cpp",
+      "descriptionZhtw": "支援 16 種以上模型系列的 ggml 語音轉文字推論工具。",
+      "descriptionEn": "ggml speech-to-text inference for 16+ model families",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "descriptionZhtw": "極低延遲的語音轉文字、意圖識別與文字轉語音，用於構建語音 Agent 與介面。",
+      "descriptionEn": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
     }
   ]
 }
