@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-21T02:00:11.690Z",
+  "lastUpdate": "2026-07-22T02:00:14.126Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -376,10 +376,10 @@
       "url": "https://github.com/koala73/worldmonitor",
       "descriptionZhtw": "即時全球情報儀表板：AI 新聞聚合、地緣政治監控與基礎設施追蹤，整合於統一態勢感知介面",
       "descriptionEn": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "counter": 3,
-      "stars": 59126,
+      "counter": 4,
+      "stars": 65627,
       "firstSeen": "2026-06-20",
-      "lastSeen": "2026-06-24"
+      "lastSeen": "2026-07-22"
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
@@ -446,10 +446,10 @@
       "url": "https://github.com/1jehuang/jcode",
       "descriptionZhtw": "程式碼 Agent 測試框架",
       "descriptionEn": "The most intelligent agent harness for code",
-      "counter": 3,
-      "stars": 0,
+      "counter": 4,
+      "stars": 10346,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -686,10 +686,10 @@
       "url": "https://github.com/every-app/open-seo",
       "descriptionZhtw": "Semrush 與 Ahrefs 的開源替代方案",
       "descriptionEn": "Open source alternative to Semrush and Ahrefs",
-      "counter": 3,
-      "stars": 0,
+      "counter": 4,
+      "stars": 6622,
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "name": "aws/agent-toolkit-for-aws",
@@ -2286,10 +2286,10 @@
       "url": "https://github.com/KnockOutEZ/wigolo",
       "descriptionZhtw": "AI 程式碼 Agent 的首選網站：透過 MCP 進行本地優先的搜尋、抓取、爬蟲與研究。無需 API 金鑰，無需雲端，查詢費用為 $0。公開測試中。",
       "descriptionEn": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
-      "counter": 3,
-      "stars": 0,
+      "counter": 4,
+      "stars": 3168,
       "firstSeen": "2026-07-19",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "name": "MoonshotAI/kimi-cli",
@@ -2326,10 +2326,10 @@
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "descriptionZhtw": "整合多個通訊平台、LLM 與插件的 AI Agent 助手及開發框架，可作為 OpenClaw 的替代方案",
       "descriptionEn": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
-      "counter": 2,
-      "stars": 0,
+      "counter": 3,
+      "stars": 37488,
       "firstSeen": "2026-07-20",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "name": "Canner/WrenAI",
@@ -2366,20 +2366,20 @@
       "url": "https://github.com/oblien/openship",
       "descriptionZhtw": "自架部署平台",
       "descriptionEn": "Self-hosted deployment platform",
-      "counter": 1,
-      "stars": 0,
+      "counter": 2,
+      "stars": 6273,
       "firstSeen": "2026-07-21",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "name": "microsoft/Ontology-Playground",
       "url": "https://github.com/microsoft/Ontology-Playground",
       "descriptionZhtw": "免費開源的本體論（Ontologies）與 Microsoft Fabric IQ 學習網頁應用程式。可探索預建目錄、視覺化設計、匯出為 RDF/XML 並分享互動圖表。完全靜態，無需後端。",
       "descriptionEn": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
-      "counter": 1,
-      "stars": 0,
+      "counter": 2,
+      "stars": 2017,
       "firstSeen": "2026-07-21",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-22"
     },
     {
       "name": "handy-computer/transcribe.cpp",
@@ -2400,6 +2400,86 @@
       "stars": 0,
       "firstSeen": "2026-07-21",
       "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "descriptionZhtw": "《深入理解 AI Agent：設計原理與工程實踐》（李博杰 著）開源主倉庫：全書正文、編譯版 PDF 與按章配套代碼",
+      "descriptionEn": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "counter": 1,
+      "stars": 14762,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "descriptionZhtw": "為你的編程 Agent 提供的 Skill，防止其隱藏答案。輸出格式對 ADHD 友好。",
+      "descriptionEn": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "counter": 1,
+      "stars": 6931,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "descriptionZhtw": "適用於 CAD、機器人與硬體設計的一系列 Agent Skills 集合。",
+      "descriptionEn": "A collection of agent skills for CAD, robotics and hardware design",
+      "counter": 1,
+      "stars": 9173,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "descriptionZhtw": "AI 輔助的 TradingView 圖表分析 — 將 Claude Code 連接到你的 TradingView 桌面版，實現個人工作流自動化。",
+      "descriptionEn": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "counter": 1,
+      "stars": 4856,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "descriptionZhtw": "Hyprland 是一個獨立、高度可定制的動態平鋪 Wayland 合成器，在美觀與性能之間取得平衡。",
+      "descriptionEn": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "counter": 1,
+      "stars": 37050,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "descriptionZhtw": "LangChain 的開源深度研究 Agent 框架，支援多輪研究與報告生成。",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 12247,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "descriptionZhtw": "pi 編程 Agent 的網頁端介面。",
+      "descriptionEn": "Web UI for the pi coding agent",
+      "counter": 1,
+      "stars": 1741,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "descriptionZhtw": "Outlines：讓 LLM 生成結構化輸出的庫，支援正則表達式、JSON Schema 等引導。",
+      "descriptionEn": "Structured Outputs",
+      "counter": 1,
+      "stars": 14856,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
     }
   ]
 }
