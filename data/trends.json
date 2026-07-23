@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-22T02:00:14.126Z",
+  "lastUpdate": "2026-07-23T02:00:12.299Z",
   "repos": [
     {
       "name": "iptv-org/iptv",
@@ -116,10 +116,10 @@
       "url": "https://github.com/shiyu-coder/Kronos",
       "descriptionZhtw": "Kronos：金融市場語言的基礎模型",
       "descriptionEn": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "counter": 2,
-      "stars": 30292,
+      "counter": 3,
+      "stars": 32620,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "puppeteer/puppeteer",
@@ -376,10 +376,10 @@
       "url": "https://github.com/koala73/worldmonitor",
       "descriptionZhtw": "即時全球情報儀表板：AI 新聞聚合、地緣政治監控與基礎設施追蹤，整合於統一態勢感知介面",
       "descriptionEn": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "counter": 4,
-      "stars": 65627,
+      "counter": 5,
+      "stars": 69103,
       "firstSeen": "2026-06-20",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
@@ -426,10 +426,10 @@
       "url": "https://github.com/jamiepine/voicebox",
       "descriptionZhtw": "開源 AI 語音工作室，支援聲音複製、語音輸入與創作",
       "descriptionEn": "The open-source AI voice studio. Clone, dictate, create.",
-      "counter": 5,
-      "stars": 0,
+      "counter": 6,
+      "stars": 45805,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-07-21"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "pppscn/SmsForwarder",
@@ -1206,10 +1206,10 @@
       "url": "https://github.com/ruvnet/RuView",
       "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴錄影。",
       "descriptionEn": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "counter": 4,
-      "stars": 79165,
+      "counter": 5,
+      "stars": 83878,
       "firstSeen": "2026-07-06",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "gastownhall/gastown",
@@ -2366,10 +2366,10 @@
       "url": "https://github.com/oblien/openship",
       "descriptionZhtw": "自架部署平台",
       "descriptionEn": "Self-hosted deployment platform",
-      "counter": 2,
-      "stars": 6273,
+      "counter": 3,
+      "stars": 7333,
       "firstSeen": "2026-07-21",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "microsoft/Ontology-Playground",
@@ -2416,10 +2416,10 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "descriptionZhtw": "為你的編程 Agent 提供的 Skill，防止其隱藏答案。輸出格式對 ADHD 友好。",
       "descriptionEn": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "counter": 1,
-      "stars": 6931,
+      "counter": 2,
+      "stars": 8342,
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "earthtojake/text-to-cad",
@@ -2446,10 +2446,10 @@
       "url": "https://github.com/hyprwm/Hyprland",
       "descriptionZhtw": "Hyprland 是一個獨立、高度可定制的動態平鋪 Wayland 合成器，在美觀與性能之間取得平衡。",
       "descriptionEn": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
-      "counter": 1,
-      "stars": 37050,
+      "counter": 2,
+      "stars": 37302,
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "langchain-ai/open_deep_research",
@@ -2466,20 +2466,40 @@
       "url": "https://github.com/agegr/pi-web",
       "descriptionZhtw": "pi 編程 Agent 的網頁端介面。",
       "descriptionEn": "Web UI for the pi coding agent",
-      "counter": 1,
-      "stars": 1741,
+      "counter": 2,
+      "stars": 2091,
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
     },
     {
       "name": "dottxt-ai/outlines",
       "url": "https://github.com/dottxt-ai/outlines",
       "descriptionZhtw": "Outlines：讓 LLM 生成結構化輸出的庫，支援正則表達式、JSON Schema 等引導。",
       "descriptionEn": "Structured Outputs",
-      "counter": 1,
-      "stars": 14856,
+      "counter": 2,
+      "stars": 15113,
       "firstSeen": "2026-07-22",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "descriptionZhtw": "",
+      "descriptionEn": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "counter": 1,
+      "stars": 68811,
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "descriptionZhtw": "",
+      "descriptionEn": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "counter": 1,
+      "stars": 10815,
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
     }
   ]
 }
