@@ -1,104 +1,104 @@
 {
-  "lastUpdate": "2026-07-27T01:34:12.794Z",
+  "lastUpdate": "2026-07-27T02:00:14.299Z",
   "repos": [
-    {
-      "name": "shiyu-coder/Kronos",
-      "url": "https://github.com/shiyu-coder/Kronos",
-      "descriptionZhtw": "Kronos：金融市場語言的基礎模型",
-      "descriptionEn": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "counter": 7,
-      "stars": 34179,
-      "firstSeen": "2026-06-15",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "koala73/worldmonitor",
-      "url": "https://github.com/koala73/worldmonitor",
-      "descriptionZhtw": "即時全球情報儀表板：AI 新聞聚合、地緣政治監控與基礎設施追蹤，整合於統一態勢感知介面",
-      "descriptionEn": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
-      "counter": 7,
-      "stars": 73318,
-      "firstSeen": "2026-06-20",
-      "lastSeen": "2026-07-25"
-    },
-    {
-      "name": "ruvnet/RuView",
-      "url": "https://github.com/ruvnet/RuView",
-      "descriptionZhtw": "RuView：將普通 WiFi 訊號轉化為即時空間情報、生命徵象監測與存在感測，完全不依賴錄影。",
-      "descriptionEn": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "counter": 7,
-      "stars": 85964,
-      "firstSeen": "2026-07-06",
-      "lastSeen": "2026-07-25"
-    },
     {
       "name": "block/buzz",
       "url": "https://github.com/block/buzz",
-      "descriptionZhtw": "一個蜂巢式思維通訊平台",
+      "descriptionZhtw": "一個蜂巢式思維通訊平台，強調集體智慧與即時協作。",
       "descriptionEn": "A hive mind communication platform",
       "counter": 4,
-      "stars": 13323,
+      "stars": 13354,
       "firstSeen": "2026-07-24",
       "lastSeen": "2026-07-27"
     },
     {
       "name": "citrolabs/ego-lite",
       "url": "https://github.com/citrolabs/ego-lite",
-      "descriptionZhtw": "最適合您和您的 AI 代理同時工作的瀏覽器",
+      "descriptionZhtw": "專為 AI 代理設計的超快瀏覽器，可直接分享登入狀態給 Codex 或 Claude 等 AI 而無需人為介入。",
       "descriptionEn": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "counter": 4,
-      "stars": 4563,
+      "stars": 4614,
       "firstSeen": "2026-07-24",
       "lastSeen": "2026-07-27"
     },
     {
-      "name": "Automattic/harper",
-      "url": "https://github.com/Automattic/harper",
-      "descriptionZhtw": "離線、隱私優先的文法檢查器，由 Rust 驅動，快速且開源",
-      "descriptionEn": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
-      "counter": 3,
-      "stars": 13432,
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-07-26"
-    },
-    {
       "name": "Pumpkin-MC/Pumpkin",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "descriptionZhtw": "讓每個人都能架設快速高效的 Minecraft 伺服器",
+      "descriptionZhtw": "新一代 Minecraft 伺服器核心，致力於提供極致的效能與快速的部署體驗。",
       "descriptionEn": "Empowering everyone to host fast and efficient Minecraft servers.",
       "counter": 3,
-      "stars": 10015,
+      "stars": 10023,
       "firstSeen": "2026-07-25",
       "lastSeen": "2026-07-27"
     },
     {
       "name": "yorukot/superfile",
       "url": "https://github.com/yorukot/superfile",
-      "descriptionZhtw": "華麗且現代化的終端檔案管理器",
+      "descriptionZhtw": "具有精美外觀的現代化終端檔案管理器，極大提升終端操作效率。",
       "descriptionEn": "Pretty fancy and modern terminal file manager",
       "counter": 2,
-      "stars": 20250,
+      "stars": 20266,
       "firstSeen": "2026-07-25",
       "lastSeen": "2026-07-27"
     },
     {
-      "name": "Lordog/dive-into-llms",
-      "url": "https://github.com/Lordog/dive-into-llms",
-      "descriptionZhtw": "《動手學大模型 Dive into LLMs》系列程式實作教學",
-      "descriptionEn": "《动手学大模型Dive into LLMs》系列编程实践教程",
-      "counter": 2,
-      "stars": 45366,
-      "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-26"
-    },
-    {
       "name": "OtterMind/Chat2DB",
       "url": "https://github.com/OtterMind/Chat2DB",
-      "descriptionZhtw": "AI 驅動的資料庫工具與 SQL 客戶端，熱門圖形介面工具，支援 MySQL、Oracle、PostgreSQL、SQL Server、SQLite 等多種資料庫",
+      "descriptionZhtw": "整合 AI 的資料庫 GUI 客戶端，支援多種主流資料庫，顯著簡化 SQL 撰寫與資料庫管理工作。",
       "descriptionEn": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "counter": 3,
-      "stars": 27129,
+      "stars": 27148,
       "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-27"
+    },
+    {
+      "name": "alibaba/open-code-review",
+      "url": "https://github.com/alibaba/open-code-review",
+      "descriptionZhtw": "結合確定性規則與 LLM 代理的開源程式碼審查工具，提供精確的行級評論，已在阿里內部大規模應用。",
+      "descriptionEn": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
+      "counter": 2,
+      "stars": 13885,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-27"
+    },
+    {
+      "name": "anthropics/claude-cookbooks",
+      "url": "https://github.com/anthropics/claude-cookbooks",
+      "descriptionZhtw": "Claude 官方提供的程式開發食譜與範例筆記本，彙集了使用 Claude 的最佳實踐。",
+      "descriptionEn": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "counter": 2,
+      "stars": 50244,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-27"
+    },
+    {
+      "name": "permissionlesstech/bitchat",
+      "url": "https://github.com/permissionlesstech/bitchat",
+      "descriptionZhtw": "基於藍牙 Mesh 網絡的 IRC 風格聊天平台，具備去中心化與匿名通訊特性。",
+      "descriptionEn": "bluetooth mesh chat, IRC vibes",
+      "counter": 2,
+      "stars": 30440,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-27"
+    },
+    {
+      "name": "andrewyng/aisuite",
+      "url": "https://github.com/andrewyng/aisuite",
+      "descriptionZhtw": "由 Andrew Ng 團隊推出的統一 AI 介面庫，能輕鬆串接多個頂級生成式 AI 模型。",
+      "descriptionEn": "Simple, unified interface to multiple Generative AI providers",
+      "counter": 2,
+      "stars": 15411,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-27"
+    },
+    {
+      "name": "pingdotgg/t3code",
+      "url": "https://github.com/pingdotgg/t3code",
+      "descriptionZhtw": "專為 T3 Stack 生態系開發者打造的 AI 編程輔助工具。",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 15069,
+      "firstSeen": "2026-07-27",
       "lastSeen": "2026-07-27"
     },
     {
@@ -107,7 +107,7 @@
       "descriptionZhtw": "開源且免費，經過阿里巴巴大規模實戰檢驗的程式碼審查工具：結合確定性管道與 LLM 代理，提供精確的行級評論，內建經過微調的規則集（包含 NPE、執行緒安全、XSS、SQL 注入檢測），且相容於 OpenAI 與 Anthropic API。",
       "descriptionEn": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
       "counter": 2,
-      "stars": 13848,
+      "stars": 13885,
       "firstSeen": "2026-07-26",
       "lastSeen": "2026-07-27"
     },
@@ -127,7 +127,7 @@
       "descriptionZhtw": "包含一系列筆記本與食譜，展示使用 Claude 的多種有趣且有效的技巧。",
       "descriptionEn": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "counter": 2,
-      "stars": 50234,
+      "stars": 50244,
       "firstSeen": "2026-07-26",
       "lastSeen": "2026-07-27"
     },
@@ -137,7 +137,7 @@
       "descriptionZhtw": "基於藍牙 Mesh 的聊天應用，帶有 IRC 風格。",
       "descriptionEn": "bluetooth mesh chat, IRC vibes",
       "counter": 2,
-      "stars": 30400,
+      "stars": 30440,
       "firstSeen": "2026-07-26",
       "lastSeen": "2026-07-27"
     },
@@ -167,7 +167,7 @@
       "descriptionZhtw": "提供多個生成式 AI 提供商的簡單、統一介面。",
       "descriptionEn": "Simple, unified interface to multiple Generative AI providers",
       "counter": 2,
-      "stars": 15405,
+      "stars": 15411,
       "firstSeen": "2026-07-26",
       "lastSeen": "2026-07-27"
     },
@@ -177,7 +177,7 @@
       "descriptionZhtw": "專為 T3 Stack 設計的 AI 編程工具",
       "descriptionEn": "",
       "counter": 1,
-      "stars": 15056,
+      "stars": 15069,
       "firstSeen": "2026-07-27",
       "lastSeen": "2026-07-27"
     },
@@ -187,7 +187,7 @@
       "descriptionZhtw": "讓你的 AI 框架更擅長設計的設計語言",
       "descriptionEn": "The design language that makes your AI harness better at design.",
       "counter": 1,
-      "stars": 50699,
+      "stars": 50717,
       "firstSeen": "2026-07-27",
       "lastSeen": "2026-07-27"
     },
@@ -197,7 +197,7 @@
       "descriptionZhtw": "基於藍牙 Mesh 的 Android 聊天應用程式，帶有 IRC 風格",
       "descriptionEn": "bluetooth mesh chat, IRC vibes",
       "counter": 1,
-      "stars": 6717,
+      "stars": 6728,
       "firstSeen": "2026-07-27",
       "lastSeen": "2026-07-27"
     },
@@ -207,7 +207,7 @@
       "descriptionZhtw": "Jenkins 自動化伺服器",
       "descriptionEn": "Jenkins automation server",
       "counter": 1,
-      "stars": 25709,
+      "stars": 25713,
       "firstSeen": "2026-07-27",
       "lastSeen": "2026-07-27"
     },
@@ -217,7 +217,7 @@
       "descriptionZhtw": "Amnezia VPN 客戶端（桌面版與行動版）",
       "descriptionEn": "Amnezia VPN Client (Desktop+Mobile)",
       "counter": 1,
-      "stars": 13326,
+      "stars": 13338,
       "firstSeen": "2026-07-27",
       "lastSeen": "2026-07-27"
     },
