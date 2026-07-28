@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-27T02:00:14.299Z",
+  "lastUpdate": "2026-07-28T02:00:11.545Z",
   "repos": [
     {
       "name": "block/buzz",
@@ -36,10 +36,10 @@
       "url": "https://github.com/yorukot/superfile",
       "descriptionZhtw": "具有精美外觀的現代化終端檔案管理器，極大提升終端操作效率。",
       "descriptionEn": "Pretty fancy and modern terminal file manager",
-      "counter": 2,
-      "stars": 20266,
+      "counter": 3,
+      "stars": 20923,
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-27"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "OtterMind/Chat2DB",
@@ -54,72 +54,12 @@
     {
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "descriptionZhtw": "結合確定性規則與 LLM 代理的開源程式碼審查工具，提供精確的行級評論，已在阿里內部大規模應用。",
-      "descriptionEn": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "counter": 2,
-      "stars": 13885,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "descriptionZhtw": "Claude 官方提供的程式開發食譜與範例筆記本，彙集了使用 Claude 的最佳實踐。",
-      "descriptionEn": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
-      "counter": 2,
-      "stars": 50244,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "descriptionZhtw": "基於藍牙 Mesh 網絡的 IRC 風格聊天平台，具備去中心化與匿名通訊特性。",
-      "descriptionEn": "bluetooth mesh chat, IRC vibes",
-      "counter": 2,
-      "stars": 30440,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "descriptionZhtw": "由 Andrew Ng 團隊推出的統一 AI 介面庫，能輕鬆串接多個頂級生成式 AI 模型。",
-      "descriptionEn": "Simple, unified interface to multiple Generative AI providers",
-      "counter": 2,
-      "stars": 15411,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "descriptionZhtw": "專為 T3 Stack 生態系開發者打造的 AI 編程輔助工具。",
-      "descriptionEn": "",
-      "counter": 1,
-      "stars": 15069,
-      "firstSeen": "2026-07-27",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
       "descriptionZhtw": "開源且免費，經過阿里巴巴大規模實戰檢驗的程式碼審查工具：結合確定性管道與 LLM 代理，提供精確的行級評論，內建經過微調的規則集（包含 NPE、執行緒安全、XSS、SQL 注入檢測），且相容於 OpenAI 與 Anthropic API。",
       "descriptionEn": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "counter": 2,
-      "stars": 13885,
+      "counter": 3,
+      "stars": 14875,
       "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "ComposioHQ/awesome-claude-skills",
-      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
-      "descriptionZhtw": "精選 Claude 技能、資源與工具清單，專為自訂 Claude AI 工作流程而設計。",
-      "descriptionEn": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
-      "counter": 1,
-      "stars": 70603,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-26"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "anthropics/claude-cookbooks",
@@ -136,30 +76,10 @@
       "url": "https://github.com/permissionlesstech/bitchat",
       "descriptionZhtw": "基於藍牙 Mesh 的聊天應用，帶有 IRC 風格。",
       "descriptionEn": "bluetooth mesh chat, IRC vibes",
-      "counter": 2,
-      "stars": 30440,
+      "counter": 3,
+      "stars": 32325,
       "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "palmier-io/palmier-pro",
-      "url": "https://github.com/palmier-io/palmier-pro",
-      "descriptionZhtw": "專為 AI 打造的 macOS 影片編輯器。",
-      "descriptionEn": "macOS video editor built for AI",
-      "counter": 1,
-      "stars": 12231,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-26"
-    },
-    {
-      "name": "RyanCodrai/turbovec",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "descriptionZhtw": "基於 TurboQuant 建構的向量索引，使用 Rust 編寫並提供 Python 綁定。",
-      "descriptionEn": "A vector index built on TurboQuant, written in Rust with Python bindings",
-      "counter": 1,
-      "stars": 14297,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-26"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "andrewyng/aisuite",
@@ -182,14 +102,44 @@
       "lastSeen": "2026-07-27"
     },
     {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "descriptionZhtw": "精選 Claude 技能、資源與工具清單，專為自訂 Claude AI 工作流程而設計。",
+      "descriptionEn": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "counter": 1,
+      "stars": 70603,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-26"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "descriptionZhtw": "專為 AI 打造的 macOS 影片編輯器。",
+      "descriptionEn": "macOS video editor built for AI",
+      "counter": 1,
+      "stars": 12231,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-26"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "descriptionZhtw": "基於 TurboQuant 建構的向量索引，使用 Rust 編寫並提供 Python 綁定。",
+      "descriptionEn": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "counter": 1,
+      "stars": 14297,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-26"
+    },
+    {
       "name": "pbakaus/impeccable",
       "url": "https://github.com/pbakaus/impeccable",
       "descriptionZhtw": "讓你的 AI 框架更擅長設計的設計語言",
       "descriptionEn": "The design language that makes your AI harness better at design.",
-      "counter": 1,
-      "stars": 50717,
+      "counter": 2,
+      "stars": 51592,
       "firstSeen": "2026-07-27",
-      "lastSeen": "2026-07-27"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "permissionlesstech/bitchat-android",
@@ -206,20 +156,20 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "descriptionZhtw": "Jenkins 自動化伺服器",
       "descriptionEn": "Jenkins automation server",
-      "counter": 1,
-      "stars": 25713,
+      "counter": 2,
+      "stars": 25899,
       "firstSeen": "2026-07-27",
-      "lastSeen": "2026-07-27"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "amnezia-vpn/amnezia-client",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "descriptionZhtw": "Amnezia VPN 客戶端（桌面版與行動版）",
       "descriptionEn": "Amnezia VPN Client (Desktop+Mobile)",
-      "counter": 1,
-      "stars": 13338,
+      "counter": 2,
+      "stars": 13857,
       "firstSeen": "2026-07-27",
-      "lastSeen": "2026-07-27"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "iptv-org/iptv",
@@ -1416,20 +1366,20 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "descriptionZhtw": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁研究任何主題，並合成具事實根據的摘要",
       "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "counter": 2,
-      "stars": 50780,
+      "counter": 3,
+      "stars": 54199,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "bradautomates/claude-video",
       "url": "https://github.com/bradautomates/claude-video",
       "descriptionZhtw": "讓 Claude 具備觀看任何影片的能力。透過 /watch 下載、提取影格、轉錄，並將所有內容交給 Claude",
       "descriptionEn": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "counter": 4,
-      "stars": 6733,
+      "counter": 5,
+      "stars": 11138,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "karakeep-app/karakeep",
@@ -2256,10 +2206,10 @@
       "url": "https://github.com/moeru-ai/airi",
       "descriptionZhtw": "自架且個人擁有的 Grok 伴侶，一個裝載 waifu 靈魂的容器，旨在將賽博生命帶入現實世界，目標是達到 Neuro-sama 的高度。支援即時語音聊天、玩 Minecraft 與 Factorio。支援 Web、macOS 與 Windows。",
       "descriptionEn": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "counter": 2,
-      "stars": 42533,
+      "counter": 3,
+      "stars": 44079,
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-16"
+      "lastSeen": "2026-07-28"
     },
     {
       "name": "Graphify-Labs/graphify",
@@ -2650,6 +2600,39 @@
       "stars": 54748,
       "firstSeen": "2026-07-24",
       "lastSeen": "2026-07-24"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "descriptionZhtw": "Kronos：金融市場語言的基礎模型，專門用於分析與預測複雜的金融數據結構。",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "descriptionZhtw": "",
+      "descriptionEn": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "counter": 1,
+      "stars": 34582,
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    {
+      "name": "apache/cassandra",
+      "descriptionZhtw": "開源事務型分散式資料庫，在通用硬體或雲端基礎設施上提供線性擴展性與可靠的容錯能力，且不犧牲效能。",
+      "url": "https://github.com/apache/cassandra",
+      "descriptionZhtw": "",
+      "descriptionEn": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "counter": 1,
+      "stars": 9969,
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    {
+      "name": "ocornut/imgui",
+      "descriptionZhtw": "Dear ImGui：輕量級 C++ 圖形使用者介面庫，具有極低的依賴性，適合用於快速開發遊戲或應用程式工具。",
+      "url": "https://github.com/ocornut/imgui",
+      "descriptionZhtw": "",
+      "descriptionEn": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "counter": 1,
+      "stars": 75220,
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
     }
   ]
 }
