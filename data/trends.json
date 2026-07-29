@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-28T02:00:11.545Z",
+  "lastUpdate": "2026-07-29T02:00:10.540Z",
   "repos": [
     {
       "name": "block/buzz",
@@ -36,10 +36,10 @@
       "url": "https://github.com/yorukot/superfile",
       "descriptionZhtw": "具有精美外觀的現代化終端檔案管理器，極大提升終端操作效率。",
       "descriptionEn": "Pretty fancy and modern terminal file manager",
-      "counter": 3,
-      "stars": 20923,
+      "counter": 4,
+      "stars": 21504,
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-28"
+      "lastSeen": "2026-07-29"
     },
     {
       "name": "OtterMind/Chat2DB",
@@ -86,10 +86,10 @@
       "url": "https://github.com/andrewyng/aisuite",
       "descriptionZhtw": "提供多個生成式 AI 提供商的簡單、統一介面。",
       "descriptionEn": "Simple, unified interface to multiple Generative AI providers",
-      "counter": 2,
-      "stars": 15411,
+      "counter": 3,
+      "stars": 15696,
       "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
+      "lastSeen": "2026-07-29"
     },
     {
       "name": "pingdotgg/t3code",
@@ -156,10 +156,10 @@
       "url": "https://github.com/jenkinsci/jenkins",
       "descriptionZhtw": "Jenkins 自動化伺服器",
       "descriptionEn": "Jenkins automation server",
-      "counter": 2,
-      "stars": 25899,
+      "counter": 3,
+      "stars": 26080,
       "firstSeen": "2026-07-27",
-      "lastSeen": "2026-07-28"
+      "lastSeen": "2026-07-29"
     },
     {
       "name": "amnezia-vpn/amnezia-client",
@@ -1376,10 +1376,10 @@
       "url": "https://github.com/bradautomates/claude-video",
       "descriptionZhtw": "讓 Claude 具備觀看任何影片的能力。透過 /watch 下載、提取影格、轉錄，並將所有內容交給 Claude",
       "descriptionEn": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
-      "counter": 5,
-      "stars": 11138,
+      "counter": 6,
+      "stars": 12133,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-28"
+      "lastSeen": "2026-07-29"
     },
     {
       "name": "karakeep-app/karakeep",
@@ -2206,10 +2206,10 @@
       "url": "https://github.com/moeru-ai/airi",
       "descriptionZhtw": "自架且個人擁有的 Grok 伴侶，一個裝載 waifu 靈魂的容器，旨在將賽博生命帶入現實世界，目標是達到 Neuro-sama 的高度。支援即時語音聊天、玩 Minecraft 與 Factorio。支援 Web、macOS 與 Windows。",
       "descriptionEn": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
-      "counter": 3,
-      "stars": 44079,
+      "counter": 4,
+      "stars": 44797,
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-28"
+      "lastSeen": "2026-07-29"
     },
     {
       "name": "Graphify-Labs/graphify",
@@ -2603,9 +2603,8 @@
     },
     {
       "name": "shiyu-coder/Kronos",
-      "descriptionZhtw": "Kronos：金融市場語言的基礎模型，專門用於分析與預測複雜的金融數據結構。",
+      "descriptionZhtw": "金融市場語言的基礎模型",
       "url": "https://github.com/shiyu-coder/Kronos",
-      "descriptionZhtw": "",
       "descriptionEn": "Kronos: A Foundation Model for the Language of Financial Markets",
       "counter": 1,
       "stars": 34582,
@@ -2614,9 +2613,8 @@
     },
     {
       "name": "apache/cassandra",
-      "descriptionZhtw": "開源事務型分散式資料庫，在通用硬體或雲端基礎設施上提供線性擴展性與可靠的容錯能力，且不犧牲效能。",
+      "descriptionZhtw": "開源事務性分散式資料庫",
       "url": "https://github.com/apache/cassandra",
-      "descriptionZhtw": "",
       "descriptionEn": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
       "counter": 1,
       "stars": 9969,
@@ -2625,14 +2623,63 @@
     },
     {
       "name": "ocornut/imgui",
-      "descriptionZhtw": "Dear ImGui：輕量級 C++ 圖形使用者介面庫，具有極低的依賴性，適合用於快速開發遊戲或應用程式工具。",
+      "descriptionZhtw": "輕量級 C++ 圖形使用者介面框架",
       "url": "https://github.com/ocornut/imgui",
-      "descriptionZhtw": "",
       "descriptionEn": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
       "counter": 1,
       "stars": 75220,
       "firstSeen": "2026-07-28",
       "lastSeen": "2026-07-28"
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "descriptionZhtw": "建立與分享 3D 建築專案的工具",
+      "descriptionEn": "Create and share 3D architectural projects.",
+      "counter": 1,
+      "stars": 18773,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "hello245m/free-stockdb",
+      "url": "https://github.com/hello245m/free-stockdb",
+      "descriptionZhtw": "本地量化引擎，整合增量同步與批量查詢",
+      "descriptionEn": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "counter": 1,
+      "stars": 1326,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "descriptionZhtw": "使用開源模型建構本地語音 Agent",
+      "descriptionEn": "Build local voice agents with open-source models",
+      "counter": 1,
+      "stars": 7295,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "descriptionZhtw": "系統化交易工具、策略與教學資源清單",
+      "descriptionEn": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "counter": 1,
+      "stars": 9659,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "descriptionZhtw": "AI Agent 治理工具包：支援策略強制執行與執行沙盒",
+      "descriptionEn": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "counter": 1,
+      "stars": 5226,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
     }
   ]
 }
