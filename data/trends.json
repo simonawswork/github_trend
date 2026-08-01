@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-07-31T02:00:13.797Z",
+  "lastUpdate": "2026-08-01T02:00:08.914Z",
   "repos": [
     {
       "name": "block/buzz",
@@ -585,11 +585,11 @@
       "name": "1jehuang/jcode",
       "url": "https://github.com/1jehuang/jcode",
       "descriptionZhtw": "程式碼 Agent 測試框架",
-      "descriptionEn": "The most intelligent agent harness for code",
-      "counter": 4,
-      "stars": 10346,
+      "descriptionEn": "The most RAM efficient harness",
+      "counter": 5,
+      "stars": 14636,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-07-22"
+      "lastSeen": "2026-08-01"
     },
     {
       "name": "ZhuLinsen/daily_stock_analysis",
@@ -1106,10 +1106,10 @@
       "url": "https://github.com/microsoft/AI-For-Beginners",
       "descriptionZhtw": "微軟推出的 AI 入門課程：12 週、24 堂課，適合所有人的 AI 教學",
       "descriptionEn": "12 Weeks, 24 Lessons, AI for All!",
-      "counter": 3,
-      "stars": 54053,
+      "counter": 4,
+      "stars": 55359,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-01"
     },
     {
       "name": "facebook/astryx",
@@ -1366,10 +1366,10 @@
       "url": "https://github.com/mvanhorn/last30days-skill",
       "descriptionZhtw": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁研究任何主題，並合成具事實根據的摘要",
       "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
-      "counter": 4,
-      "stars": 55582,
+      "counter": 5,
+      "stars": 56246,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-01"
     },
     {
       "name": "bradautomates/claude-video",
@@ -2316,10 +2316,10 @@
       "url": "https://github.com/github/copilot-sdk",
       "descriptionZhtw": "GitHub Copilot SDK：用於將 GitHub Copilot Agent 整合至應用程式與服務的多平台 SDK",
       "descriptionEn": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
-      "counter": 3,
-      "stars": 9967,
+      "counter": 4,
+      "stars": 10146,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-08-01"
     },
     {
       "name": "codecrafters-io/build-your-own-x",
@@ -2666,10 +2666,10 @@
       "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
       "descriptionZhtw": "系統化交易工具、策略與教學資源清單",
       "descriptionEn": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
-      "counter": 2,
-      "stars": 11091,
+      "counter": 3,
+      "stars": 11776,
       "firstSeen": "2026-07-29",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-01"
     },
     {
       "name": "microsoft/agent-governance-toolkit",
@@ -2686,10 +2686,10 @@
       "url": "https://github.com/different-ai/openwork",
       "descriptionZhtw": "Claude Cowork 的開源替代方案，由 opencode 提供動力。",
       "descriptionEn": "The open-source alternative to Claude Cowork (powered by opencode)",
-      "counter": 1,
-      "stars": 18779,
+      "counter": 2,
+      "stars": 19535,
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-07-31"
+      "lastSeen": "2026-08-01"
     },
     {
       "name": "WhiskeySockets/Baileys",
@@ -2700,6 +2700,26 @@
       "stars": 10444,
       "firstSeen": "2026-07-31",
       "lastSeen": "2026-07-31"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "descriptionZhtw": "逆向工程 / 授權滲透測試 / 安全研究技能路由包，支援 AI 自動路由、按需自舉工具鏈與自動進化經驗庫。",
+      "descriptionEn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "counter": 1,
+      "stars": 10776,
+      "firstSeen": "2026-08-01",
+      "lastSeen": "2026-08-01"
+    },
+    {
+      "name": "geo-tp/ESP32-Bit-Pirate",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "descriptionZhtw": "一個硬體駭客工具，帶有基於 Web 的 CLI，支援多種協定。",
+      "descriptionEn": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "counter": 1,
+      "stars": 5031,
+      "firstSeen": "2026-08-01",
+      "lastSeen": "2026-08-01"
     }
   ]
 }
