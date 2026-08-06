@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-05T02:00:14.371Z",
+  "lastUpdate": "2026-08-06T02:00:11.063Z",
   "repos": [
     {
       "name": "block/buzz",
@@ -1086,10 +1086,10 @@
       "url": "https://github.com/roboflow/supervision",
       "descriptionZhtw": "提供可重複使用的電腦視覺開發工具，簡化偵測、追蹤與標記流程",
       "descriptionEn": "We write your reusable computer vision tools. 💜",
-      "counter": 1,
-      "stars": 45927,
+      "counter": 2,
+      "stars": 48940,
       "firstSeen": "2027-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "CoreBunch/Instatic",
@@ -1356,10 +1356,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 5,
-      "stars": 76846,
+      "counter": 6,
+      "stars": 82006,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -1426,10 +1426,10 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "descriptionZhtw": "TencentDB Agent Memory 為 AI Agent 提供完全本地的長期記憶，採用四層漸進式管道，零外部 API 依賴",
       "descriptionEn": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "counter": 6,
-      "stars": 13722,
+      "counter": 7,
+      "stars": 15125,
       "firstSeen": "2026-07-09",
-      "lastSeen": "2026-08-05"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "prisma/prisma",
@@ -1756,10 +1756,10 @@
       "url": "https://github.com/donnemartin/system-design-primer",
       "descriptionZhtw": "學習如何設計大型系統，準備系統設計面試",
       "descriptionEn": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "counter": 3,
-      "stars": 360563,
+      "counter": 4,
+      "stars": 361578,
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-08-04"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "public-apis/public-apis",
@@ -2796,20 +2796,20 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "descriptionZhtw": "DeepSeek 原生的終端機 AI 編程 Agent，針對 prefix-cache 穩定性設計",
       "descriptionEn": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "counter": 3,
-      "stars": 30827,
+      "counter": 4,
+      "stars": 31677,
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-05"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "descriptionZhtw": "",
       "descriptionEn": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "counter": 2,
-      "stars": 10109,
+      "counter": 3,
+      "stars": 11511,
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-05"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -2836,10 +2836,10 @@
       "url": "https://github.com/uber/ADR",
       "descriptionZhtw": "ADR 透過可觀測性、安全性基準測試與威脅檢測來保護企業級 AI 代理，已在 Uber 部署。",
       "descriptionEn": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
-      "counter": 1,
-      "stars": 699,
+      "counter": 2,
+      "stars": 1063,
       "firstSeen": "2026-08-05",
-      "lastSeen": "2026-08-05"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "webpack/webpack",
@@ -2876,10 +2876,10 @@
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "descriptionZhtw": "以公用程式優先的 CSS 框架，用於快速開發 UI。",
       "descriptionEn": "A utility-first CSS framework for rapid UI development.",
-      "counter": 1,
-      "stars": 96495,
+      "counter": 2,
+      "stars": 96873,
       "firstSeen": "2026-08-05",
-      "lastSeen": "2026-08-05"
+      "lastSeen": "2026-08-06"
     },
     {
       "name": "EveryInc/compound-engineering-plugin",
@@ -2890,6 +2890,36 @@
       "stars": 23888,
       "firstSeen": "2026-08-05",
       "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "descriptionZhtw": "給你的 Agent 一台電腦 👾",
+      "descriptionEn": "Give your agent a computer 👾",
+      "counter": 1,
+      "stars": 3091,
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "descriptionZhtw": "輕量級 Agent 狀態循環內核，可跨 Codex、Claude Code 運行，支援持久化目標、配額感知自動喚醒、可執行待辦事項、證據日誌與可驗證移交",
+      "descriptionEn": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "counter": 1,
+      "stars": 2180,
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "descriptionZhtw": "React 開發框架",
+      "descriptionEn": "The React Framework",
+      "counter": 1,
+      "stars": 141564,
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
     }
   ]
 }
