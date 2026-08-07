@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-06T02:00:11.063Z",
+  "lastUpdate": "2026-08-07T02:00:20.636Z",
   "repos": [
     {
       "name": "block/buzz",
@@ -1356,10 +1356,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 6,
-      "stars": 82006,
+      "counter": 7,
+      "stars": 82979,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-08-06"
+      "lastSeen": "2026-08-07"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -1426,10 +1426,10 @@
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "descriptionZhtw": "TencentDB Agent Memory 為 AI Agent 提供完全本地的長期記憶，採用四層漸進式管道，零外部 API 依賴",
       "descriptionEn": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "counter": 7,
-      "stars": 15125,
+      "counter": 8,
+      "stars": 16458,
       "firstSeen": "2026-07-09",
-      "lastSeen": "2026-08-06"
+      "lastSeen": "2026-08-07"
     },
     {
       "name": "prisma/prisma",
@@ -2796,20 +2796,20 @@
       "url": "https://github.com/esengine/DeepSeek-Reasonix",
       "descriptionZhtw": "DeepSeek 原生的終端機 AI 編程 Agent，針對 prefix-cache 穩定性設計",
       "descriptionEn": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
-      "counter": 4,
-      "stars": 31677,
+      "counter": 5,
+      "stars": 32463,
       "firstSeen": "2026-08-03",
-      "lastSeen": "2026-08-06"
+      "lastSeen": "2026-08-07"
     },
     {
       "name": "firecrawl/pdf-inspector",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "descriptionZhtw": "",
       "descriptionEn": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "counter": 3,
-      "stars": 11511,
+      "counter": 4,
+      "stars": 12491,
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-06"
+      "lastSeen": "2026-08-07"
     },
     {
       "name": "Alishahryar1/free-claude-code",
@@ -2896,20 +2896,20 @@
       "url": "https://github.com/cloudflare/computer",
       "descriptionZhtw": "給你的 Agent 一台電腦 👾",
       "descriptionEn": "Give your agent a computer 👾",
-      "counter": 1,
-      "stars": 3091,
+      "counter": 2,
+      "stars": 4848,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-06"
+      "lastSeen": "2026-08-07"
     },
     {
       "name": "huangruiteng/loopx",
       "url": "https://github.com/huangruiteng/loopx",
       "descriptionZhtw": "輕量級 Agent 狀態循環內核，可跨 Codex、Claude Code 運行，支援持久化目標、配額感知自動喚醒、可執行待辦事項、證據日誌與可驗證移交",
       "descriptionEn": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
-      "counter": 1,
-      "stars": 2180,
+      "counter": 2,
+      "stars": 2901,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-06"
+      "lastSeen": "2026-08-07"
     },
     {
       "name": "vercel/next.js",
@@ -2920,6 +2920,36 @@
       "stars": 141564,
       "firstSeen": "2026-08-06",
       "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "descriptionZhtw": "",
+      "descriptionEn": "Google core libraries for Java",
+      "counter": 1,
+      "stars": 51645,
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    {
+      "name": "TapXWorld/ChinaTextbook",
+      "url": "https://github.com/TapXWorld/ChinaTextbook",
+      "descriptionZhtw": "",
+      "descriptionEn": "所有小初高、大学PDF教材。",
+      "counter": 1,
+      "stars": 77145,
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "descriptionZhtw": "",
+      "descriptionEn": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "counter": 1,
+      "stars": 186029,
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
     }
   ]
 }
