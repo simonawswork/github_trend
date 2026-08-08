@@ -1,105 +1,105 @@
 {
-  "lastUpdate": "2026-08-07T02:00:20.636Z",
+  "lastUpdate": "2026-08-08T02:00:09.889Z",
   "repos": [
     {
-      "name": "block/buzz",
-      "url": "https://github.com/block/buzz",
-      "descriptionZhtw": "一個蜂巢式思維通訊平台，強調集體智慧與即時協作。",
-      "descriptionEn": "A hive mind communication platform",
-      "counter": 4,
-      "stars": 13354,
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "citrolabs/ego-lite",
-      "url": "https://github.com/citrolabs/ego-lite",
-      "descriptionZhtw": "為 AI 代理設計的超快瀏覽器，可直接分享登入狀態給 Codex 或 Claude 等 AI 而無需人為介入。",
-      "descriptionEn": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
-      "counter": 4,
-      "stars": 4614,
-      "firstSeen": "2026-07-24",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "Pumpkin-MC/Pumpkin",
-      "url": "https://github.com/Pumpkin-MC/Pumpkin",
-      "descriptionZhtw": "新一代 Minecraft 伺服器核心，致力於提供極致的效能與快速的部署體驗。",
-      "descriptionEn": "Empowering everyone to host fast and efficient Minecraft servers.",
-      "counter": 3,
-      "stars": 10023,
-      "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "yorukot/superfile",
-      "url": "https://github.com/yorukot/superfile",
-      "descriptionZhtw": "具有精美外觀的現代化終端檔案管理器，極大提升終端操作效率。",
-      "descriptionEn": "Pretty fancy and modern terminal file manager",
-      "counter": 4,
-      "stars": 21504,
-      "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-29"
-    },
-    {
-      "name": "OtterMind/Chat2DB",
-      "url": "https://github.com/OtterMind/Chat2DB",
-      "descriptionZhtw": "整合 AI 的資料庫 GUI 客戶端，支援多種主流資料庫，顯著簡化 SQL 撰寫與資料庫管理工作。",
-      "descriptionEn": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
-      "counter": 3,
-      "stars": 27148,
-      "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-27"
-    },
-    {
-      "name": "alibaba/open-code-review",
-      "url": "https://github.com/alibaba/open-code-review",
-      "descriptionZhtw": "開源且免費，經過阿里巴巴大規模實戰檢驗的程式碼審查工具：結合確定性管道與 LLM 代理，提供精確的行級評論，內建經過微調的規則集（包含 NPE、執行緒安全、XSS、SQL 注入檢測），且相容於 OpenAI 與 Anthropic API。",
-      "descriptionEn": "Open-source & free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "counter": 3,
-      "stars": 14875,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-28"
-    },
-    {
-      "name": "anthropics/claude-cookbooks",
-      "url": "https://github.com/anthropics/claude-cookbooks",
-      "descriptionZhtw": "包含一系列筆記本與食譜，展示使用 Claude 的多種有趣且有效的技巧。",
-      "descriptionEn": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
+      "name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "descriptionZhtw": "面向 Grok Build、Grok Web 與 Grok Console 的多帳號 API 閘道。",
+      "descriptionEn": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
       "counter": 2,
-      "stars": 50244,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-27"
+      "stars": 7145,
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-08-08"
     },
     {
-      "name": "permissionlesstech/bitchat",
-      "url": "https://github.com/permissionlesstech/bitchat",
-      "descriptionZhtw": "基於藍牙 Mesh 的聊天應用，帶有 IRC 風格。",
-      "descriptionEn": "bluetooth mesh chat, IRC vibes",
-      "counter": 3,
-      "stars": 32325,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-28"
+      "name": "addyosmani/agent-skills",
+      "url": "https://github.com/addyosmani/agent-skills",
+      "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
+      "descriptionEn": "Production-grade engineering skills for AI coding agents.",
+      "counter": 8,
+      "stars": 83926,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-08-08"
     },
     {
-      "name": "andrewyng/aisuite",
-      "url": "https://github.com/andrewyng/aisuite",
-      "descriptionZhtw": "提供多個生成式 AI 提供商的簡單、統一介面。",
-      "descriptionEn": "Simple, unified interface to multiple Generative AI providers",
-      "counter": 3,
-      "stars": 15696,
-      "firstSeen": "2026-07-26",
-      "lastSeen": "2026-07-29"
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "descriptionZhtw": "TencentDB Agent Memory 為 AI Agent 提供完全本地的長期記憶，採用四層漸進式管道，零外部 API 依賴",
+      "descriptionEn": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "counter": 8,
+      "stars": 16458,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-08-07"
     },
     {
-      "name": "pingdotgg/t3code",
-      "url": "https://github.com/pingdotgg/t3code",
-      "descriptionZhtw": "專為 T3 Stack 設計的 AI 編程工具",
-      "descriptionEn": "",
-      "counter": 1,
-      "stars": 15069,
-      "firstSeen": "2026-07-27",
-      "lastSeen": "2026-07-27"
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "descriptionZhtw": "提供可重複使用的電腦視覺開發工具，簡化偵測、追蹤與標記流程",
+      "descriptionEn": "We write your reusable computer vision tools. 💜",
+      "counter": 2,
+      "stars": 48940,
+      "firstSeen": "2027-07-01",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "descriptionZhtw": "使用程式碼 Agent 編輯影片",
+      "descriptionEn": "Edit videos with coding agents",
+      "counter": 6,
+      "stars": 19357,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "descriptionZhtw": "快速、簡單且可靠的瀏覽器端測試框架",
+      "descriptionEn": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "counter": 4,
+      "stars": 50803,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "descriptionZhtw": "讓 AI Agent 能瀏覽整個網路，透過單一 CLI 讀取和搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書，且無需 API 費用",
+      "descriptionEn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "counter": 6,
+      "stars": 65764,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "descriptionZhtw": "開源 AI 語音工作室，支援聲音複製、語音輸入與創作",
+      "descriptionEn": "The open-source AI voice studio. Clone, dictate, create.",
+      "counter": 7,
+      "stars": 48716,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "descriptionZhtw": "微軟推出的 AI 入門課程：12 週、24 堂課，適合所有人的 AI 教學",
+      "descriptionEn": "12 Weeks, 24 Lessons, AI for All!",
+      "counter": 7,
+      "stars": 60810,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "descriptionZhtw": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁研究任何主題，並合成具事實根據的摘要",
+      "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "counter": 6,
+      "stars": 56897,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-08-03"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -1356,10 +1356,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 7,
-      "stars": 82979,
+      "counter": 8,
+      "stars": 83926,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-08-07"
+      "lastSeen": "2026-08-08"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -2245,11 +2245,11 @@
       "name": "chenyme/grok2api",
       "url": "https://github.com/chenyme/grok2api",
       "descriptionZhtw": "面向 Grok Build、Grok Web 與 Grok Console 的多帳號 API 閘道。",
-      "descriptionEn": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
-      "counter": 1,
-      "stars": 5870,
+      "descriptionEn": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "counter": 2,
+      "stars": 7145,
       "firstSeen": "2026-07-15",
-      "lastSeen": "2026-07-15"
+      "lastSeen": "2026-08-08"
     },
     {
       "name": "openinterpreter/openinterpreter",
@@ -2896,10 +2896,10 @@
       "url": "https://github.com/cloudflare/computer",
       "descriptionZhtw": "給你的 Agent 一台電腦 👾",
       "descriptionEn": "Give your agent a computer 👾",
-      "counter": 2,
-      "stars": 4848,
+      "counter": 3,
+      "stars": 5771,
       "firstSeen": "2026-08-06",
-      "lastSeen": "2026-08-07"
+      "lastSeen": "2026-08-08"
     },
     {
       "name": "huangruiteng/loopx",
@@ -2926,10 +2926,10 @@
       "url": "https://github.com/google/guava",
       "descriptionZhtw": "",
       "descriptionEn": "Google core libraries for Java",
-      "counter": 1,
-      "stars": 51645,
+      "counter": 2,
+      "stars": 51765,
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-07"
+      "lastSeen": "2026-08-08"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
@@ -2946,10 +2946,70 @@
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "descriptionZhtw": "",
       "descriptionEn": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
-      "counter": 1,
-      "stars": 186029,
+      "counter": 2,
+      "stars": 186338,
       "firstSeen": "2026-08-07",
-      "lastSeen": "2026-08-07"
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "PrimeIntellect-ai/prime-agent",
+      "url": "https://github.com/PrimeIntellect-ai/prime-agent",
+      "descriptionZhtw": "",
+      "descriptionEn": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
+      "counter": 1,
+      "stars": 6630,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "descriptionZhtw": "",
+      "descriptionEn": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "counter": 1,
+      "stars": 70519,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "descriptionZhtw": "",
+      "descriptionEn": "A simple tool for coordinating several AI agents.",
+      "counter": 1,
+      "stars": 1838,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "denoland/celld",
+      "url": "https://github.com/denoland/celld",
+      "descriptionZhtw": "",
+      "descriptionEn": "self-hosted, distributed Durable Objects",
+      "counter": 1,
+      "stars": 2223,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "url": "https://github.com/K2SOsint/Legendary_OSINT",
+      "descriptionZhtw": "",
+      "descriptionEn": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "counter": 1,
+      "stars": 1450,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "google/skills",
+      "url": "https://github.com/google/skills",
+      "descriptionZhtw": "",
+      "descriptionEn": "Agent Skills for Google products and technologies",
+      "counter": 1,
+      "stars": 16268,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
     }
   ]
 }
