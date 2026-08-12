@@ -2,6 +2,16 @@
   "lastUpdate": "2026-08-12T02:00:12.058Z",
   "repos": [
     {
+      "name": "chenyme/grok2api",
+      "url": "https://github.com/chenyme/grok2api",
+      "descriptionZhtw": "面向 Grok Build、Grok Web 與 Grok Console 的多帳號 API 閘道。",
+      "descriptionEn": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
+      "counter": 2,
+      "stars": 7145,
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-08-08"
+    },
+    {
       "name": "addyosmani/agent-skills",
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式碼助理打造的生產級工程技能集",
@@ -10,6 +20,2816 @@
       "stars": 86243,
       "firstSeen": "2026-07-07",
       "lastSeen": "2026-08-12"
+    },
+    {
+      "name": "TencentCloud/TencentDB-Agent-Memory",
+      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+      "descriptionZhtw": "TencentDB Agent Memory 為 AI Agent 提供完全本地的長期記憶，採用四層漸進式管道，零外部 API 依賴",
+      "descriptionEn": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
+      "counter": 8,
+      "stars": 16458,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-08-07"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "descriptionZhtw": "提供可重複使用的電腦視覺開發工具，簡化偵測、追蹤與標記流程",
+      "descriptionEn": "We write your reusable computer vision tools. 💜",
+      "counter": 2,
+      "stars": 48940,
+      "firstSeen": "2027-07-01",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "descriptionZhtw": "使用程式碼 Agent 編輯影片",
+      "descriptionEn": "Edit videos with coding agents",
+      "counter": 6,
+      "stars": 19357,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "cypress-io/cypress",
+      "url": "https://github.com/cypress-io/cypress",
+      "descriptionZhtw": "快速、簡單且可靠的瀏覽器端測試框架",
+      "descriptionEn": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "counter": 4,
+      "stars": 50803,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "Panniantong/Agent-Reach",
+      "url": "https://github.com/Panniantong/Agent-Reach",
+      "descriptionZhtw": "讓 AI Agent 能瀏覽整個網路，透過單一 CLI 讀取和搜尋 Twitter、Reddit、YouTube、GitHub、Bilibili、小紅書，且無需 API 費用",
+      "descriptionEn": "Give your AI agent eyes to see the entire internet. Read & search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
+      "counter": 6,
+      "stars": 65764,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "descriptionZhtw": "開源 AI 語音工作室，支援聲音複製、語音輸入與創作",
+      "descriptionEn": "The open-source AI voice studio. Clone, dictate, create.",
+      "counter": 7,
+      "stars": 48716,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "microsoft/AI-For-Beginners",
+      "url": "https://github.com/microsoft/AI-For-Beginners",
+      "descriptionZhtw": "微軟推出的 AI 入門課程：12 週、24 堂課，適合所有人的 AI 教學",
+      "descriptionEn": "12 Weeks, 24 Lessons, AI for All!",
+      "counter": 7,
+      "stars": 60810,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "descriptionZhtw": "AI Agent 技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁研究任何主題，並合成具事實根據的摘要",
+      "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "counter": 6,
+      "stars": 56897,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-08-03"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "descriptionZhtw": "精選 Claude 技能、資源與工具清單，專為自訂 Claude AI 工作流程而設計。",
+      "descriptionEn": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "counter": 1,
+      "stars": 70603,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-26"
+    },
+    {
+      "name": "palmier-io/palmier-pro",
+      "url": "https://github.com/palmier-io/palmier-pro",
+      "descriptionZhtw": "專為 AI 打造的 macOS 影片編輯器。",
+      "descriptionEn": "macOS video editor built for AI",
+      "counter": 1,
+      "stars": 12231,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-26"
+    },
+    {
+      "name": "RyanCodrai/turbovec",
+      "url": "https://github.com/RyanCodrai/turbovec",
+      "descriptionZhtw": "基於 TurboQuant 建構的向量索引，使用 Rust 編寫並提供 Python 綁定。",
+      "descriptionEn": "A vector index built on TurboQuant, written in Rust with Python bindings",
+      "counter": 1,
+      "stars": 14297,
+      "firstSeen": "2026-07-26",
+      "lastSeen": "2026-07-26"
+    },
+    {
+      "name": "pbakaus/impeccable",
+      "url": "https://github.com/pbakaus/impeccable",
+      "descriptionZhtw": "讓你的 AI 框架更擅長設計的設計語言",
+      "descriptionEn": "The design language that makes your AI harness better at design.",
+      "counter": 2,
+      "stars": 51592,
+      "firstSeen": "2026-07-27",
+      "lastSeen": "2026-07-28"
+    },
+    {
+      "name": "permissionlesstech/bitchat-android",
+      "url": "https://github.com/permissionlesstech/bitchat-android",
+      "descriptionZhtw": "基於藍牙 Mesh 的 Android 聊天應用程式，帶有 IRC 風格",
+      "descriptionEn": "bluetooth mesh chat, IRC vibes",
+      "counter": 1,
+      "stars": 6728,
+      "firstSeen": "2026-07-27",
+      "lastSeen": "2026-07-27"
+    },
+    {
+      "name": "jenkinsci/jenkins",
+      "url": "https://github.com/jenkinsci/jenkins",
+      "descriptionZhtw": "Jenkins 自動化伺服器",
+      "descriptionEn": "Jenkins automation server",
+      "counter": 4,
+      "stars": 26304,
+      "firstSeen": "2026-07-27",
+      "lastSeen": "2026-07-31"
+    },
+    {
+      "name": "amnezia-vpn/amnezia-client",
+      "url": "https://github.com/amnezia-vpn/amnezia-client",
+      "descriptionZhtw": "Amnezia VPN 客戶端（桌面版與行動版）",
+      "descriptionEn": "Amnezia VPN Client (Desktop+Mobile)",
+      "counter": 2,
+      "stars": 13857,
+      "firstSeen": "2026-07-27",
+      "lastSeen": "2026-07-28"
+    },
+    {
+      "name": "iptv-org/iptv",
+      "url": "https://github.com/iptv-org/iptv",
+      "descriptionZhtw": "收錄來自世界各地公開可用的 IPTV 頻道",
+      "descriptionEn": "Collection of publicly available IPTV channels from all over the world",
+      "counter": 5,
+      "stars": 0,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "teslamate-org/teslamate",
+      "url": "https://github.com/teslamate-org/teslamate",
+      "descriptionZhtw": "自架的 Tesla 車輛數據記錄器 🚘",
+      "descriptionEn": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
+      "counter": 4,
+      "stars": 8419,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "meshery/meshery",
+      "url": "https://github.com/meshery/meshery",
+      "descriptionZhtw": "Meshery，雲原生基礎設施管理平台",
+      "descriptionEn": "Meshery, the cloud native manager",
+      "counter": 5,
+      "stars": 11029,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "krahets/hello-algo",
+      "url": "https://github.com/krahets/hello-algo",
+      "descriptionZhtw": "《Hello 算法》：動畫圖解、一鍵執行的資料結構與演算法教程，支援繁中、簡中、英文、日文及多種程式語言實作",
+      "descriptionEn": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "counter": 3,
+      "stars": 127481,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "descriptionZhtw": "成為軟體工程師的完整電腦科學自學計畫",
+      "descriptionEn": "A complete computer science study plan to become a software engineer.",
+      "counter": 2,
+      "stars": 352325,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-16"
+    },
+    {
+      "name": "Free-TV/IPTV",
+      "url": "https://github.com/Free-TV/IPTV",
+      "descriptionZhtw": "免費電視頻道的 M3U 播放清單",
+      "descriptionEn": "M3U Playlist for free TV channels",
+      "counter": 3,
+      "stars": 18228,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "url": "https://github.com/Introduction-to-Autonomous-Robots/Introduction-to-Autonomous-Robots",
+      "descriptionZhtw": "自主機器人入門教材",
+      "descriptionEn": "Introduction to Autonomous Robots",
+      "counter": 2,
+      "stars": 3079,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-16"
+    },
+    {
+      "name": "mikeroyal/Self-Hosting-Guide",
+      "url": "https://github.com/mikeroyal/Self-Hosting-Guide",
+      "descriptionZhtw": "自架服務完全指南，涵蓋本地與私有伺服器架設、Cloud、LLMs、WireGuard、自動化、Home Assistant 及網路設定",
+      "descriptionEn": "Self-Hosting Guide. Learn all about locally hosting (on premises & private web servers) and managing software applications by yourself or your organization. Including Cloud, LLMs, WireGuard, Automation, Home Assistant, and Networking.",
+      "counter": 2,
+      "stars": 21060,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-16"
+    },
+    {
+      "name": "itsfatduck/optimizerDuck",
+      "url": "https://github.com/itsfatduck/optimizerDuck",
+      "descriptionZhtw": "免費開源的 Windows 效能優化工具，兼顧隱私保護與操作簡便性",
+      "descriptionEn": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
+      "counter": 2,
+      "stars": 3708,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-16"
+    },
+    {
+      "name": "NVIDIA/SkillSpector",
+      "url": "https://github.com/NVIDIA/SkillSpector",
+      "descriptionZhtw": "AI Agent Skills 安全掃描工具，可偵測漏洞、惡意模式與安全風險",
+      "descriptionEn": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
+      "counter": 2,
+      "stars": 6412,
+      "firstSeen": "2026-06-15",
+      "lastSeen": "2026-06-16"
+    },
+    {
+      "name": "puppeteer/puppeteer",
+      "url": "https://github.com/puppeteer/puppeteer",
+      "descriptionZhtw": "Chrome 和 Firefox 的 JavaScript 自動化 API",
+      "descriptionEn": "JavaScript API for Chrome and Firefox",
+      "counter": 2,
+      "stars": 94906,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
+      "descriptionZhtw": "以 Rust 撰寫的跨平台 GUI 工具，透過 ADB 清除非 Root Android 裝置的預裝軟體，提升隱私、安全性與電池續航",
+      "descriptionEn": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
+      "counter": 4,
+      "stars": 7928,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "OpenBMB/VoxCPM",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "descriptionZhtw": "VoxCPM2：免 Tokenizer 的多語言 TTS 模型，支援創意聲音設計與高擬真聲音複製",
+      "descriptionEn": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "counter": 2,
+      "stars": 30154,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "alibaba/zvec",
+      "url": "https://github.com/alibaba/zvec",
+      "descriptionZhtw": "輕量、極速的進程內向量資料庫",
+      "descriptionEn": "A lightweight, lightning-fast, in-process vector database",
+      "counter": 5,
+      "stars": 14432,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "rmyndharis/OpenWA",
+      "url": "https://github.com/rmyndharis/OpenWA",
+      "descriptionZhtw": "免費開源的自架 WhatsApp API Gateway",
+      "descriptionEn": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
+      "counter": 2,
+      "stars": 9102,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    {
+      "name": "n0-computer/iroh",
+      "url": "https://github.com/n0-computer/iroh",
+      "descriptionZhtw": "IP 位址會失效，改用 Key 撥號。以 Rust 打造的模組化網路堆疊",
+      "descriptionEn": "IP addresses break, dial keys instead. Modular networking stack in Rust.",
+      "counter": 5,
+      "stars": 10254,
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-20"
+    },
+    {
+      "name": "DeusData/codebase-memory-mcp",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "descriptionZhtw": "高效能程式碼智慧 MCP 伺服器，可將程式庫索引為持久知識圖譜，毫秒內完成，支援 158 種語言，查詢延遲低於 1ms，Token 用量減少 99%，單一靜態執行檔，零依賴",
+      "descriptionEn": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "counter": 8,
+      "stars": 19789,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "google-research/timesfm",
+      "url": "https://github.com/google-research/timesfm",
+      "descriptionZhtw": "TimesFM（時間序列基礎模型）：由 Google Research 開發的預訓練時間序列基礎模型，專為時間序列預測設計",
+      "descriptionEn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
+      "counter": 4,
+      "stars": 24565,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "continuedev/continue",
+      "url": "https://github.com/continuedev/continue",
+      "descriptionZhtw": "開源程式碼 AI Agent",
+      "descriptionEn": "open-source coding agent",
+      "counter": 1,
+      "stars": 33918,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "penpot/penpot",
+      "url": "https://github.com/penpot/penpot",
+      "descriptionZhtw": "Penpot：設計與程式碼協作的開源設計工具",
+      "descriptionEn": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
+      "counter": 6,
+      "stars": 56175,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-07-15"
+    },
+    {
+      "name": "yairm210/Unciv",
+      "url": "https://github.com/yairm210/Unciv",
+      "descriptionZhtw": "文明帝國 V 的開源 Android／桌面重製版",
+      "descriptionEn": "Open-source Android/Desktop remake of Civ V",
+      "counter": 1,
+      "stars": 10675,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "bytedance/UI-TARS-desktop",
+      "url": "https://github.com/bytedance/UI-TARS-desktop",
+      "descriptionZhtw": "開源多模態 AI Agent 技術棧：整合前沿 AI 模型與 Agent 基礎設施",
+      "descriptionEn": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
+      "counter": 1,
+      "stars": 36711,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "nautechsystems/nautilus_trader",
+      "url": "https://github.com/nautechsystems/nautilus_trader",
+      "descriptionZhtw": "生產級 Rust 原生交易引擎，採用確定性事件驅動架構",
+      "descriptionEn": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
+      "counter": 1,
+      "stars": 23820,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "calesthio/OpenMontage",
+      "url": "https://github.com/calesthio/OpenMontage",
+      "descriptionZhtw": "全球首個開源 AI 代理影片製作系統，內建 12 條流程、52 個工具、500+ Agent Skills，可將 AI 程式碼助手變身完整影片製作工作室",
+      "descriptionEn": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
+      "counter": 5,
+      "stars": 12265,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-23"
+    },
+    {
+      "name": "alexzhang13/rlm",
+      "url": "https://github.com/alexzhang13/rlm",
+      "descriptionZhtw": "遞迴語言模型（RLM）的通用即插即用推論函式庫，支援多種沙盒環境",
+      "descriptionEn": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
+      "counter": 1,
+      "stars": 4937,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    {
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "descriptionZhtw": "🔥 開源的 Jira、Linear、Monday、ClickUp 替代方案，現代化專案管理平台，支援任務、Sprint、文件與問題分類管理",
+      "descriptionEn": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "counter": 2,
+      "stars": 51851,
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "zai-org/GLM-5",
+      "url": "https://github.com/zai-org/GLM-5",
+      "descriptionZhtw": "GLM-5：從氛圍編程到工程化 Agent 開發",
+      "descriptionEn": "GLM-5: From Vibe Coding to Agentic Engineering",
+      "counter": 2,
+      "stars": 4593,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20"
+    },
+    {
+      "name": "yifanfeng97/Hyper-Extract",
+      "url": "https://github.com/yifanfeng97/Hyper-Extract",
+      "descriptionZhtw": "透過 LLMs 將非結構化文字轉為結構化知識，支援圖、超圖及時空提取，一行指令搞定",
+      "descriptionEn": "Transform unstructured text into structured knowledge with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command.",
+      "counter": 1,
+      "stars": 1796,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    {
+      "name": "Kilo-Org/kilocode",
+      "url": "https://github.com/Kilo-Org/kilocode",
+      "descriptionZhtw": "Kilo：一體化 Agentic 工程平台，最受歡迎的開源 AI 編程 Agent，加速開發、交付與迭代",
+      "descriptionEn": "Kilo is the all-in-one agentic engineering platform. Build, ship, and iterate faster with the most popular open source coding agent.",
+      "counter": 2,
+      "stars": 23375,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "Kong/insomnia",
+      "url": "https://github.com/Kong/insomnia",
+      "descriptionZhtw": "開源跨平台 API 客戶端，支援 GraphQL、REST、WebSockets、SSE 和 gRPC，可使用雲端、本地或 Git 儲存",
+      "descriptionEn": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
+      "counter": 3,
+      "stars": 39339,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "dotnet/aspnetcore",
+      "url": "https://github.com/dotnet/aspnetcore",
+      "descriptionZhtw": "ASP.NET Core：跨平台 .NET 框架，可在 Windows、Mac 或 Linux 上建構現代雲端 Web 應用程式",
+      "descriptionEn": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
+      "counter": 3,
+      "stars": 38299,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-07-31"
+    },
+    {
+      "name": "owainlewis/awesome-artificial-intelligence",
+      "url": "https://github.com/owainlewis/awesome-artificial-intelligence",
+      "descriptionZhtw": "精選人工智慧（AI）課程、書籍、影片講座與論文清單",
+      "descriptionEn": "A curated list of Artificial Intelligence (AI) courses, books, video lectures and papers.",
+      "counter": 2,
+      "stars": 14796,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "Lightricks/LTX-2",
+      "url": "https://github.com/Lightricks/LTX-2",
+      "descriptionZhtw": "LTX-2 音訊－影片生成模型的官方 Python 推論與 LoRA 訓練套件",
+      "descriptionEn": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
+      "counter": 2,
+      "stars": 7678,
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-20"
+    },
+    {
+      "name": "aishwaryanr/awesome-generative-ai-guide",
+      "url": "https://github.com/aishwaryanr/awesome-generative-ai-guide",
+      "descriptionZhtw": "生成式 AI 研究更新、面試資源、Notebook 等一站式資源庫",
+      "descriptionEn": "A one stop repository for generative AI research updates, interview resources, notebooks and much more!",
+      "counter": 1,
+      "stars": 27644,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "descriptionZhtw": "用於構建 Agent 原生應用程式的框架",
+      "descriptionEn": "A framework for building agent-native applications.",
+      "counter": 1,
+      "stars": 1061,
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20"
+    },
+    {
+      "name": "tursodatabase/turso",
+      "url": "https://github.com/tursodatabase/turso",
+      "descriptionZhtw": "Turso：進程內 SQL 資料庫，相容 SQLite",
+      "descriptionEn": "Turso is an in-process SQL database, compatible with SQLite.",
+      "counter": 3,
+      "stars": 21510,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-23"
+    },
+    {
+      "name": "twentyhq/twenty",
+      "url": "https://github.com/twentyhq/twenty",
+      "descriptionZhtw": "Salesforce 的開源替代方案，專為 AI 設計",
+      "descriptionEn": "The open alternative to Salesforce, designed for AI.",
+      "counter": 1,
+      "stars": 50875,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "pppscn/SmsForwarder",
+      "url": "https://github.com/pppscn/SmsForwarder",
+      "descriptionZhtw": "Android 簡訊轉發器，監控手機簡訊、來電、APP 通知，並依規則轉發至釘釘、企業微信、飛書、Email、Telegram 等平台，支援遠端發送簡訊與查詢資訊",
+      "descriptionEn": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "counter": 1,
+      "stars": 26497,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-06-21"
+    },
+    {
+      "name": "1jehuang/jcode",
+      "url": "https://github.com/1jehuang/jcode",
+      "descriptionZhtw": "程式碼 Agent 測試框架",
+      "descriptionEn": "The most RAM efficient harness",
+      "counter": 5,
+      "stars": 14636,
+      "firstSeen": "2026-06-21",
+      "lastSeen": "2026-08-01"
+    },
+    {
+      "name": "ZhuLinsen/daily_stock_analysis",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "descriptionZhtw": "LLM 驅動的多市場股票智慧分析系統：涵蓋多源行情、實時新聞、決策看板與自動推送，支援零成本定時運行。",
+      "counter": 3,
+      "stars": 62170,
+      "firstSeen": "2026-08-09",
+      "lastSeen": "2026-08-12",
+      "descriptionEn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "descriptionZhtw": "開源長時程 SuperAgent 框架，可自主研究、撰寫程式碼與內容創作。借助沙盒、記憶體、工具、技能、子 Agent 與訊息閘道，可處理需耗時數分鐘至數小時的各層級任務",
+      "descriptionEn": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "counter": 4,
+      "stars": 78745,
+      "firstSeen": "2026-06-22",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "mikumifa/biliTickerBuy",
+      "url": "https://github.com/mikumifa/biliTickerBuy",
+      "descriptionZhtw": "Bilibili 會員購購票輔助工具",
+      "descriptionEn": "b站会员购购票辅助工具",
+      "counter": 1,
+      "stars": 3719,
+      "firstSeen": "2026-06-22",
+      "lastSeen": "2026-06-22"
+    },
+    {
+      "name": "smicallef/spiderfoot",
+      "url": "https://github.com/smicallef/spiderfoot",
+      "descriptionZhtw": "SpiderFoot 自動化 OSINT 工具，用於威脅情報收集與攻擊面掃描",
+      "descriptionEn": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
+      "counter": 1,
+      "stars": 18781,
+      "firstSeen": "2026-06-22",
+      "lastSeen": "2026-06-22"
+    },
+    {
+      "name": "byyoungd/English-level-up-tips",
+      "url": "https://github.com/byyoungd/English-level-up-tips",
+      "descriptionZhtw": "進階英語學習指南，提供系統性學習方法與教程，助你大幅提升英語能力 🎉",
+      "descriptionEn": "An advanced guide to learn English which might benefit you a lot 🎉 . 人生进阶指南 离谱的人生 离谱的英语学习指南/英语学习教程/英语学习/学英语",
+      "counter": 2,
+      "stars": 54511,
+      "firstSeen": "2026-06-22",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "name": "garrytan/gstack",
+      "url": "https://github.com/garrytan/gstack",
+      "descriptionZhtw": "使用 Garry Tan 的 Claude Code 精確設定：23 個工具，分別扮演 CEO、設計師、工程主管、發版管理員、文件工程師和 QA 角色",
+      "descriptionEn": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
+      "counter": 5,
+      "stars": 117271,
+      "firstSeen": "2026-06-23",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "descriptionZhtw": "撰寫 HTML，渲染成影片，專為 AI Agent 打造",
+      "descriptionEn": "Write HTML. Render video. Built for agents.",
+      "counter": 1,
+      "stars": 30051,
+      "firstSeen": "2026-06-23",
+      "lastSeen": "2026-06-23"
+    },
+    {
+      "name": "firecrawl/firecrawl",
+      "url": "https://github.com/firecrawl/firecrawl",
+      "descriptionZhtw": "大規模網頁搜尋、爬取與互動的上下文 API。",
+      "descriptionEn": "The context API to search, scrape, and interact with the web at scale. 🔥",
+      "counter": 1,
+      "stars": 165128,
+      "firstSeen": "2026-08-11",
+      "lastSeen": "2026-08-11"
+    },
+    {
+      "name": "JCodesMore/ai-website-cloner-template",
+      "url": "https://github.com/JCodesMore/ai-website-cloner-template",
+      "descriptionZhtw": "使用 AI Coding Agent，一行指令複製任意網站",
+      "descriptionEn": "Clone any website with one command using AI coding agents",
+      "counter": 6,
+      "stars": 22151,
+      "firstSeen": "2026-06-23",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "descriptionZhtw": "Anthropic 官方維護的高品質 Claude Code 插件目錄",
+      "descriptionEn": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "counter": 1,
+      "stars": 30863,
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-24"
+    },
+    {
+      "name": "shanraisshan/claude-code-best-practice",
+      "url": "https://github.com/shanraisshan/claude-code-best-practice",
+      "descriptionZhtw": "從氛圍編程到 Agentic 工程 — 實踐讓 Claude 更完美",
+      "descriptionEn": "from vibe coding to agentic engineering - practice makes claude perfect",
+      "counter": 2,
+      "stars": 60619,
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "revfactory/harness",
+      "url": "https://github.com/revfactory/harness",
+      "descriptionZhtw": "元技能框架：設計特定領域的 Agent 團隊、定義專屬 Agent 並生成所需技能",
+      "descriptionEn": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "counter": 2,
+      "stars": 7760,
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "NousResearch/hermes-agent",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "descriptionZhtw": "與你一同成長的 AI Agent",
+      "descriptionEn": "The agent that grows with you",
+      "counter": 2,
+      "stars": 202111,
+      "firstSeen": "2026-06-24",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "apple/container",
+      "url": "https://github.com/apple/container",
+      "descriptionZhtw": "在 Mac 上使用輕量級虛擬機器建立和執行 Linux 容器的工具，以 Swift 編寫，針對 Apple Silicon 優化",
+      "descriptionEn": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "counter": 2,
+      "stars": 43237,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-26"
+    },
+    {
+      "name": "interviewstreet/hiring-agent",
+      "url": "https://github.com/interviewstreet/hiring-agent",
+      "descriptionZhtw": "用於評估與評分履復的 AI Agent",
+      "descriptionEn": "AI agent to evaluate and score resumes.",
+      "counter": 1,
+      "stars": 2229,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "flutter/flutter",
+      "url": "https://github.com/flutter/flutter",
+      "descriptionZhtw": "Flutter 讓你輕鬆快速地為行動裝置及更多平台打造精美應用程式",
+      "descriptionEn": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "counter": 1,
+      "stars": 177354,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "andreknieriem/headunit-revived",
+      "url": "https://github.com/andreknieriem/headunit-revived",
+      "descriptionZhtw": "顯示 Android Auto 的車載主機應用程式",
+      "descriptionEn": "Headunit App for displaying Android Auto",
+      "counter": 1,
+      "stars": 1431,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-25"
+    },
+    {
+      "name": "stablyai/orca",
+      "url": "https://github.com/stablyai/orca",
+      "descriptionZhtw": "Orca 是用於管理多個並行 AI Agent 的協作平台，支援桌面、行動裝置與 VPS。",
+      "descriptionEn": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "counter": 1,
+      "stars": 42840,
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    {
+      "name": "google-labs-code/design.md",
+      "url": "https://github.com/google-labs-code/design.md",
+      "descriptionZhtw": "向程式碼 Agent 描述視覺識別的格式規範，DESIGN.md 讓 Agent 持久且結構化地理解設計系統",
+      "descriptionEn": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
+      "counter": 4,
+      "stars": 22368,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "Flowseal/zapret-discord-youtube",
+      "url": "https://github.com/Flowseal/zapret-discord-youtube",
+      "descriptionZhtw": "用於解除對 Discord 和 YouTube 封鎖的工具（zapret 封鎖規避方案）",
+      "descriptionEn": "用於繞過俄羅斯網路審查並解除對 Discord 和 YouTube 封鎖的工具（基於 zapret）。",
+      "counter": 2,
+      "stars": 31038,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "name": "kunchenguid/no-mistakes",
+      "url": "https://github.com/kunchenguid/no-mistakes",
+      "descriptionZhtw": "git push 零失誤輔助工具",
+      "descriptionEn": "git push no-mistakes",
+      "counter": 2,
+      "stars": 3446,
+      "firstSeen": "2026-06-25",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "xbtlin/ai-berkshire",
+      "url": "https://github.com/xbtlin/ai-berkshire",
+      "descriptionZhtw": "AI 時代的伯克希爾：基於 Claude Code 的價值投資研究框架，融合巴菲特、芒格、段永平、李錄四大師方法論，搭配多 Agent 並行研究",
+      "descriptionEn": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
+      "counter": 6,
+      "stars": 7537,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "mauriceboe/TREK",
+      "url": "https://github.com/mauriceboe/TREK",
+      "descriptionZhtw": "自架旅遊行程規劃工具，支援即時協作、互動地圖、PWA、SSO、預算管理與打包清單",
+      "descriptionEn": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
+      "counter": 2,
+      "stars": 7683,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "every-app/open-seo",
+      "url": "https://github.com/every-app/open-seo",
+      "descriptionZhtw": "Semrush 與 Ahrefs 的開源替代方案",
+      "descriptionEn": "Open source alternative to Semrush and Ahrefs",
+      "counter": 4,
+      "stars": 6622,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "aws/agent-toolkit-for-aws",
+      "url": "https://github.com/aws/agent-toolkit-for-aws",
+      "descriptionZhtw": "AWS 官方支援的 MCP 伺服器、技能與插件，協助 AI Agent 在 AWS 上開發",
+      "descriptionEn": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
+      "counter": 2,
+      "stars": 1364,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "alibaba/page-agent",
+      "url": "https://github.com/alibaba/page-agent",
+      "descriptionZhtw": "JavaScript 頁面內 GUI Agent，透過自然語言控制網頁介面",
+      "descriptionEn": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
+      "counter": 3,
+      "stars": 23944,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "IceWhaleTech/CasaOS",
+      "url": "https://github.com/IceWhaleTech/CasaOS",
+      "descriptionZhtw": "CasaOS：簡單易用、優雅的開源個人雲端系統",
+      "descriptionEn": "CasaOS - A simple, easy-to-use, elegant open-source Personal Cloud system.",
+      "counter": 3,
+      "stars": 35806,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "opendatalab/MinerU",
+      "url": "https://github.com/opendatalab/MinerU",
+      "descriptionZhtw": "將 PDF、Office 等複雜文件轉換為 LLM 就緒的 Markdown/JSON，用於 Agentic 工作流程",
+      "descriptionEn": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
+      "counter": 3,
+      "stars": 71651,
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "commaai/openpilot",
+      "url": "https://github.com/commaai/openpilot",
+      "descriptionZhtw": "openpilot 是一套機器人作業系統，目前可為 300+ 款支援車型升級駕駛輔助系統",
+      "descriptionEn": "openpilot is an operating system for robotics. Currently, it upgrades the driver assistance system on 300+ supported cars.",
+      "counter": 4,
+      "stars": 62785,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-30"
+    },
+    {
+      "name": "grafana/grafana",
+      "url": "https://github.com/grafana/grafana",
+      "descriptionZhtw": "開源可組合式可觀測性與資料視覺化平台，支援 Prometheus、Loki、Elasticsearch、InfluxDB、Postgres 等多種資料來源的指標、日誌與追蹤視覺化",
+      "descriptionEn": "The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.",
+      "counter": 1,
+      "stars": 74920,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "ripienaar/free-for-dev",
+      "url": "https://github.com/ripienaar/free-for-dev",
+      "descriptionZhtw": "精選對 DevOps 與基礎設施開發者有用的 SaaS、PaaS、IaaS 免費方案清單",
+      "descriptionEn": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
+      "counter": 5,
+      "stars": 127342,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "alchaincyf/zhangxuefeng-skill",
+      "url": "https://github.com/alchaincyf/zhangxuefeng-skill",
+      "descriptionZhtw": "張雪峰的認知操作系統：高考志願、考研、職涯規劃的實戰思維框架，由女媧 Skill 生成",
+      "descriptionEn": "张雪峰.skill — 张雪峰的认知操作系统。高考志愿/考研/职业规划的实战思维框架。由女娲.skill生成。",
+      "counter": 1,
+      "stars": 9266,
+      "firstSeen": "2026-06-27",
+      "lastSeen": "2026-06-27"
+    },
+    {
+      "name": "microsoft/PowerToys",
+      "url": "https://github.com/microsoft/PowerToys",
+      "descriptionZhtw": "Microsoft PowerToys 是一套提升 Windows 生產力與個人化設定的實用工具集",
+      "descriptionEn": "Microsoft PowerToys is a collection of utilities that supercharge productivity and customization on Windows",
+      "counter": 3,
+      "stars": 137144,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-31"
+    },
+    {
+      "name": "hugohe3/ppt-master",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "descriptionZhtw": "AI 從任意文件生成可編輯的真實 PowerPoint，支援原生形狀與動畫、語音旁白講者備註，以及套用自訂 .pptx 模板",
+      "descriptionEn": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
+      "counter": 1,
+      "stars": 33105,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "Anil-matcha/Open-Generative-AI",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI",
+      "descriptionZhtw": "AI 影片平台的開源替代方案，免費 AI 圖片與影片生成工作室，整合 200+ 模型（Flux、Midjourney、Kling、Sora、Veo），無內容過濾，可自架，MIT 授權",
+      "descriptionEn": "Unrestricted Open-source alternative to AI video platforms — Free AI image & video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "counter": 1,
+      "stars": 21402,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "dbt-labs/dbt-core",
+      "url": "https://github.com/dbt-labs/dbt-core",
+      "descriptionZhtw": "dbt 讓資料分析師與工程師以軟體工程實踐方式轉換資料，如同開發應用程式般處理資料管線",
+      "descriptionEn": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
+      "counter": 1,
+      "stars": 13227,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "Fission-AI/OpenSpec",
+      "url": "https://github.com/Fission-AI/OpenSpec",
+      "descriptionZhtw": "AI 程式碼助理的規格驅動開發（SDD）框架",
+      "descriptionEn": "Spec-driven development (SDD) for AI coding assistants.",
+      "counter": 1,
+      "stars": 57146,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-06-28"
+    },
+    {
+      "name": "HKUDS/Vibe-Trading",
+      "url": "https://github.com/HKUDS/Vibe-Trading",
+      "descriptionZhtw": "Vibe-Trading：您的個人交易 AI Agent",
+      "descriptionEn": "\"Vibe-Trading: Your Personal Trading Agent\"",
+      "counter": 10,
+      "stars": 23739,
+      "firstSeen": "2026-06-28",
+      "lastSeen": "2026-07-16"
+    },
+    {
+      "name": "Robbyant/lingbot-map",
+      "url": "https://github.com/Robbyant/lingbot-map",
+      "descriptionZhtw": "串流數據 3D 前饋基礎模型，用於重建場景",
+      "descriptionEn": "A feed-forward 3D foundation model for reconstructing scenes from streaming data",
+      "counter": 4,
+      "stars": 0,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "ByteByteGoHq/system-design-101",
+      "url": "https://github.com/ByteByteGoHq/system-design-101",
+      "descriptionZhtw": "以圖解與簡單術語解釋複雜系統，協助你準備系統設計面試",
+      "descriptionEn": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
+      "counter": 1,
+      "stars": 84497,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-29"
+    },
+    {
+      "name": "usestrix/strix",
+      "url": "https://github.com/usestrix/strix",
+      "descriptionZhtw": "開源 AI 黑客工具，用於發現並修復應用程式漏洞",
+      "descriptionEn": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
+      "counter": 7,
+      "stars": 37177,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "Unclecheng-li/VulnClaw",
+      "url": "https://github.com/Unclecheng-li/VulnClaw",
+      "descriptionZhtw": "基於 AI Agent + MCP 工具鏈 + 滲透 Skill 編排，配合大語言模型，實現從自然語言輸入到「資訊收集 → 漏洞發現 → 漏洞利用 → 報告生成」的全自動化流程",
+      "descriptionEn": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
+      "counter": 3,
+      "stars": 1589,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "0xNyk/council-of-high-intelligence",
+      "url": "https://github.com/0xNyk/council-of-high-intelligence",
+      "descriptionZhtw": "由 18 位 AI 人格（亞里斯多德、費曼、卡尼曼、托瓦茲等）組成的議會，跨多個 LLM 供應商針對你的困難決定進行多輪深思熟慮，只需一個指令：/council",
+      "descriptionEn": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds & more — structured multi-round deliberation with genuine model diversity. One command: /council",
+      "counter": 3,
+      "stars": 2653,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "refactoringhq/tolaria",
+      "url": "https://github.com/refactoringhq/tolaria",
+      "descriptionZhtw": "用於管理 Markdown 知識庫的桌面應用程式",
+      "descriptionEn": "Desktop app to manage markdown knowledge bases",
+      "counter": 3,
+      "stars": 18034,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "veracrypt/VeraCrypt",
+      "url": "https://github.com/veracrypt/VeraCrypt",
+      "descriptionZhtw": "基於 TrueCrypt 的強大安全性磁碟加密工具",
+      "descriptionEn": "Disk encryption with strong security based on TrueCrypt",
+      "counter": 2,
+      "stars": 10490,
+      "firstSeen": "2026-06-29",
+      "lastSeen": "2026-06-30"
+    },
+    {
+      "name": "hasaneyldrm/exercises-dataset",
+      "url": "https://github.com/hasaneyldrm/exercises-dataset",
+      "descriptionZhtw": "包含 433 個健身動作的完整資料集，每個項目包含名稱、類別、目標肌肉群、器材、說明、縮圖及動畫影片",
+      "descriptionEn": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group & equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
+      "counter": 7,
+      "stars": 15238,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "Mebus/cupp",
+      "url": "https://github.com/Mebus/cupp",
+      "descriptionZhtw": "常用用戶密碼分析器 (CUPP)：可根據個人化資訊生成密碼字典，用於滲透測試",
+      "descriptionEn": "Common User Passwords Profiler (CUPP)",
+      "counter": 2,
+      "stars": 6251,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "google/agents-cli",
+      "url": "https://github.com/google/agents-cli",
+      "descriptionZhtw": "讓任何程式碼助理變身為在 Google Cloud 上建立、評估與部署 AI Agent 專家的 CLI 工具與技能",
+      "descriptionEn": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
+      "counter": 1,
+      "stars": 4225,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-01"
+    },
+    {
+      "name": "CoreBunch/Instatic",
+      "url": "https://github.com/CoreBunch/Instatic",
+      "descriptionZhtw": "Instatic 是一款現代化的自架視覺化內容管理系統 (CMS)，一分鐘內即可啟動運行",
+      "descriptionEn": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
+      "counter": 2,
+      "stars": 2026,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "facebook/astryx",
+      "url": "https://github.com/facebook/astryx",
+      "descriptionZhtw": "完全可自訂且支援 AI Agent 的開源設計系統",
+      "descriptionEn": "An open source design system that's fully customizable and agent ready",
+      "counter": 4,
+      "stars": 5927,
+      "firstSeen": "2026-07-01",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "allenai/olmocr",
+      "url": "https://github.com/allenai/olmocr",
+      "descriptionZhtw": "用於將 PDF 線性化以供 LLM 資料集／訓練使用的工具包",
+      "descriptionEn": "Toolkit for linearizing PDFs for LLM datasets/training",
+      "counter": 1,
+      "stars": 18293,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "togatoga/karukan",
+      "url": "https://github.com/togatoga/karukan",
+      "descriptionZhtw": "適用於 Linux 與 macOS 的日文輸入法系統，採用神經網路假名漢字轉換引擎",
+      "descriptionEn": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
+      "counter": 1,
+      "stars": 588,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "TencentCloud/CubeSandbox",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "descriptionZhtw": "為 AI Agent 打造的即時、並行、安全且輕量級的沙盒環境",
+      "descriptionEn": "Instant, Concurrent, Secure & Lightweight Sandbox for AI Agents.",
+      "counter": 4,
+      "stars": 8953,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "yikart/AiToEarn",
+      "url": "https://github.com/yikart/AiToEarn",
+      "descriptionZhtw": "探索如何利用 AI 來獲利與增收",
+      "descriptionEn": "Let's use AI to Earn!",
+      "counter": 1,
+      "stars": 2571,
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "descriptionZhtw": "為程式碼 Agent 打造的 Chrome 開發者工具 MCP 伺服器",
+      "descriptionEn": "Chrome DevTools for coding agents",
+      "counter": 4,
+      "stars": 48077,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-31"
+    },
+    {
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "descriptionZhtw": "GitHub Actions 的檢出專案動作",
+      "descriptionEn": "Action for checking out a repo",
+      "counter": 3,
+      "stars": 8468,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "agentskills/agentskills",
+      "url": "https://github.com/agentskills/agentskills",
+      "descriptionZhtw": "Agent Skills 規範與文件",
+      "descriptionEn": "Specification and documentation for Agent Skills",
+      "counter": 3,
+      "stars": 22352,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "openai/codex-plugin-cc",
+      "url": "https://github.com/openai/codex-plugin-cc",
+      "descriptionZhtw": "在 Claude Code 中使用 Codex 進行程式碼審查或任務委派的插件",
+      "descriptionEn": "Use Codex from Claude Code to review code or delegate tasks.",
+      "counter": 5,
+      "stars": 26330,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "langflow-ai/langflow",
+      "url": "https://github.com/langflow-ai/langflow",
+      "descriptionZhtw": "Langflow 是用於構建與部署 AI 驅動 Agent 及工作流程的強大工具",
+      "descriptionEn": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
+      "counter": 1,
+      "stars": 150764,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "pytorch/pytorch",
+      "url": "https://github.com/pytorch/pytorch",
+      "descriptionZhtw": "具備強大 GPU 加速功能的 Python 張量與動態神經網路框架",
+      "descriptionEn": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
+      "counter": 2,
+      "stars": 101440,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-04"
+    },
+    {
+      "name": "harvard-edge/cs249r_book",
+      "url": "https://github.com/harvard-edge/cs249r_book",
+      "descriptionZhtw": "機器學習系統教材",
+      "descriptionEn": "Machine Learning Systems",
+      "counter": 4,
+      "stars": 26862,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "ryanmcdermott/clean-code-javascript",
+      "url": "https://github.com/ryanmcdermott/clean-code-javascript",
+      "descriptionZhtw": "適用於 JavaScript 的整潔程式碼 (Clean Code) 概念指南",
+      "descriptionEn": "Clean Code concepts adapted for JavaScript",
+      "counter": 1,
+      "stars": 94577,
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    {
+      "name": "elastic/elasticsearch",
+      "url": "https://github.com/elastic/elasticsearch",
+      "descriptionZhtw": "免費開源、分散式、RESTful 的搜尋引擎",
+      "descriptionEn": "Free and Open Source, Distributed, RESTful Search Engine",
+      "counter": 1,
+      "stars": 77347,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    {
+      "name": "ansible/ansible",
+      "url": "https://github.com/ansible/ansible",
+      "descriptionZhtw": "極致簡單的 IT 自動化平台，透過 SSH 管理且無需在遠端安裝 Agent，讓應用程式部署與系統維護更輕鬆",
+      "descriptionEn": "Ansible is a radically simple IT automation platform that makes your applications and systems easier to deploy and maintain. Automate everything from code deployment to network configuration to cloud management, in a language that approaches plain English, using SSH, with no agents to install on remote systems. https://docs.ansible.com.",
+      "counter": 4,
+      "stars": 70104,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "rommapp/romm",
+      "url": "https://github.com/rommapp/romm",
+      "descriptionZhtw": "美觀、強大且可自架的遊戲 ROM 管理與播放器",
+      "descriptionEn": "A beautiful, powerful, self-hosted rom manager and player.",
+      "counter": 3,
+      "stars": 10562,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "apache/maven",
+      "url": "https://github.com/apache/maven",
+      "descriptionZhtw": "Apache Maven 核心框架",
+      "descriptionEn": "Apache Maven core",
+      "counter": 1,
+      "stars": 5231,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "descriptionZhtw": "Claude Code 是一款終端機原生 Agentic 程式碼助手，可理解程式庫並透過自然語言處理 daily 任務、解釋程式碼與管理 Git 工作流",
+      "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "counter": 2,
+      "stars": 136318,
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "dotnet/skills",
+      "url": "https://github.com/dotnet/skills",
+      "descriptionZhtw": "協助 AI 程式碼 Agent 處理 .NET 與 C# 的 Skills 資源庫",
+      "descriptionEn": "Repository for skills to assist AI coding agents with .NET and C#",
+      "counter": 3,
+      "stars": 4321,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-08"
+    },
+    {
+      "name": "immich-app/immich",
+      "url": "https://github.com/immich-app/immich",
+      "descriptionZhtw": "高效能自架照片與影片管理解決方案",
+      "descriptionEn": "High performance self-hosted photo and video management solution.",
+      "counter": 2,
+      "stars": 106136,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-06"
+    },
+    {
+      "name": "chthollyphile/folia-major",
+      "url": "https://github.com/chthollyphile/folia-major",
+      "descriptionZhtw": "專注於絢麗歌詞動畫效果的本地音樂、Navidrome 與第三方網易雲播放器",
+      "descriptionEn": "专注于绚丽的歌词动画效果的本地音乐/navidrome/第三方网易云播放器",
+      "counter": 1,
+      "stars": 991,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "alirezarezvani/claude-skills",
+      "url": "https://github.com/alirezarezvani/claude-skills",
+      "descriptionZhtw": "包含 337 個 Claude Code 相關 Skills 與插件，涵蓋工程、行銷、產品、研究等領域，提升多種編程 Agent 的生產力",
+      "descriptionEn": "345 Claude Code skills & agent skills & plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial & finance, and your daily productivity skills.",
+      "counter": 3,
+      "stars": 21216,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "crynta/terax-ai",
+      "url": "https://github.com/crynta/terax-ai",
+      "descriptionZhtw": "輕量級（7MB）終端機優先的 AI 原生開發工作空間",
+      "descriptionEn": "Lightweight (7MB) Terminal-first AI-native dev workspace",
+      "counter": 1,
+      "stars": 8067,
+      "firstSeen": "2026-07-05",
+      "lastSeen": "2026-07-05"
+    },
+    {
+      "name": "gastownhall/gastown",
+      "url": "https://github.com/gastownhall/gastown",
+      "descriptionZhtw": "Gas Town：多 Agent 協作工作空間管理器",
+      "descriptionEn": "Gas Town - multi-agent workspace manager",
+      "counter": 2,
+      "stars": 16722,
+      "firstSeen": "2026-07-06",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "bradautomates/claude-video",
+      "url": "https://github.com/bradautomates/claude-video",
+      "descriptionZhtw": "讓 Claude 具備觀看任何影片的能力。透過 /watch 下載、提取影格、轉錄，並將所有內容交給 Claude",
+      "descriptionEn": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
+      "counter": 6,
+      "stars": 12133,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "karakeep-app/karakeep",
+      "url": "https://github.com/karakeep-app/karakeep",
+      "descriptionZhtw": "可自架的全方位書籤應用程式（連結、筆記與圖片），支援 AI 自動標籤與全文檢索",
+      "descriptionEn": "A self-hostable bookmark-everything app (links, notes and images) with AI-based automatic tagging and full text search",
+      "counter": 1,
+      "stars": 26936,
+      "firstSeen": "2026-07-07",
+      "lastSeen": "2026-07-07"
+    },
+    {
+      "name": "MadsLorentzen/ai-job-search",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "descriptionZhtw": "基於 Claude Code 的 AI 輔助求職框架。填入個人資料後，讓 Claude 為你評估職缺、客製化履歷、撰寫求職信並協助面試準備",
+      "descriptionEn": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
+      "counter": 2,
+      "stars": 19153,
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-10"
+    },
+    {
+      "name": "iOfficeAI/OfficeCLI",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "descriptionZhtw": "專為 AI Agent 打造的 Office 套件 CLI 工具。支援 Word、Excel 與 PowerPoint 文件的讀取、編輯與自動化，無需安裝 Office，單一執行檔且完全開源",
+      "descriptionEn": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "counter": 4,
+      "stars": 14455,
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "kyutai-labs/pocket-tts",
+      "url": "https://github.com/kyutai-labs/pocket-tts",
+      "descriptionZhtw": "輕量級 TTS 模型，可直接在 CPU 上運行，適合嵌入式或行動裝置使用",
+      "descriptionEn": "A TTS that fits in your CPU (and pocket)",
+      "counter": 2,
+      "stars": 7001,
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-10"
+    },
+    {
+      "name": "prisma/prisma",
+      "url": "https://github.com/prisma/prisma",
+      "descriptionZhtw": "適用於 Node.js 和 TypeScript 的下一代 ORM，支援 PostgreSQL、MySQL、MariaDB、SQL Server、SQLite、MongoDB 和 CockroachDB",
+      "descriptionEn": "Next-generation ORM for Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
+      "counter": 3,
+      "stars": 47264,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "argoproj/argo-cd",
+      "url": "https://github.com/argoproj/argo-cd",
+      "descriptionZhtw": "Kubernetes 的宣告式持續部署（CD）工具",
+      "descriptionEn": "Declarative Continuous Deployment for Kubernetes",
+      "counter": 1,
+      "stars": 23440,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "Diolinux/PhotoGIMP",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "descriptionZhtw": "專為 Photoshop 用戶設計的 GIMP 3+ 修補程式，優化介面與快捷鍵",
+      "descriptionEn": "A Patch for GIMP 3+ for Photoshop Users",
+      "counter": 1,
+      "stars": 15055,
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    {
+      "name": "SmartlyDressedGames/U3-SDK",
+      "url": "https://github.com/SmartlyDressedGames/U3-SDK",
+      "descriptionZhtw": "Unturned 遊戲原始碼，這是一款免費的開放世界殭屍生存沙盒遊戲。",
+      "descriptionEn": "Source code for Unturned, a free open-world zombie survival sandbox game.",
+      "counter": 1,
+      "stars": 2059,
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
+    },
+    {
+      "name": "vxcontrol/pentagi",
+      "url": "https://github.com/vxcontrol/pentagi",
+      "descriptionZhtw": "完全自主的 AI Agent 系統，能夠執行複雜的滲透測試任務。",
+      "descriptionEn": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
+      "counter": 1,
+      "stars": 19436,
+      "firstSeen": "2026-07-10",
+      "lastSeen": "2026-07-10"
+    },
+    {
+      "name": "oven-sh/bun",
+      "url": "https://github.com/oven-sh/bun",
+      "descriptionZhtw": "極速 JavaScript 執行環境、打包器、測試執行器與套件管理員 — 全部整合在一起",
+      "descriptionEn": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one",
+      "counter": 2,
+      "stars": 94573,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "abseil/abseil-cpp",
+      "url": "https://github.com/abseil/abseil-cpp",
+      "descriptionZhtw": "Google 開源的 C++ 通用程式庫集合",
+      "descriptionEn": "Abseil Common Libraries (C++)",
+      "counter": 2,
+      "stars": 17809,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "jbeder/yaml-cpp",
+      "url": "https://github.com/jbeder/yaml-cpp",
+      "descriptionZhtw": "C++ 的 YAML 解析與生成器",
+      "descriptionEn": "A YAML parser and emitter in C++",
+      "counter": 1,
+      "stars": 6082,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "microsoft/TypeScript",
+      "url": "https://github.com/microsoft/TypeScript",
+      "descriptionZhtw": "TypeScript 是 JavaScript 的超集，可編譯成純 JavaScript 程式碼",
+      "descriptionEn": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
+      "counter": 1,
+      "stars": 109781,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "catchorg/Catch2",
+      "url": "https://github.com/catchorg/Catch2",
+      "descriptionZhtw": "現代化、原生支援 C++ 的單元測試框架，支援 TDD 與 BDD",
+      "descriptionEn": "A modern, C++-native, test framework for unit-tests, TDD and BDD - using C++14, C++17 and later (C++11 support is in v2.x branch, and C++03 on the Catch1.x branch)",
+      "counter": 2,
+      "stars": 21059,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "chriskohlhoff/asio",
+      "url": "https://github.com/chriskohlhoff/asio",
+      "descriptionZhtw": "用於網路與底層 I/O 編程的跨平台 C++ 程式庫",
+      "descriptionEn": "Asio C++ Library",
+      "counter": 2,
+      "stars": 6139,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "davila7/claude-code-templates",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "descriptionZhtw": "用於配置與監控 Claude Code 的 CLI 工具",
+      "descriptionEn": "CLI tool for configuring and monitoring Claude Code",
+      "counter": 2,
+      "stars": 29031,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "zeux/meshoptimizer",
+      "url": "https://github.com/zeux/meshoptimizer",
+      "descriptionZhtw": "網格優化程式庫，讓網格更小且渲染更快",
+      "descriptionEn": "Mesh optimization library that makes meshes smaller and faster to render",
+      "counter": 2,
+      "stars": 8142,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "tailscale/tailscale",
+      "url": "https://github.com/tailscale/tailscale",
+      "descriptionZhtw": "基於 WireGuard 的最簡易、最安全的虛擬網路連線方式，支援 2FA",
+      "descriptionEn": "The easiest, most secure way to use WireGuard and 2FA.",
+      "counter": 1,
+      "stars": 33665,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "google-labs-code/stitch-skills",
+      "url": "https://github.com/google-labs-code/stitch-skills",
+      "descriptionZhtw": "專為 Stitch MCP 伺服器設計的 Agent Skills 庫，相容於 Claude Code、Cursor 等 Agent",
+      "descriptionEn": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
+      "counter": 2,
+      "stars": 7078,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "hashicorp/terraform",
+      "url": "https://github.com/hashicorp/terraform",
+      "descriptionZhtw": "Terraform 讓你安全且可預測地建立、變更與改進基礎設施，將 API 編碼為可定義的配置文件",
+      "descriptionEn": "Terraform enables you to safely and predictably create, change, and improve infrastructure. It is a source-available tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.",
+      "counter": 2,
+      "stars": 49375,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "google/protobuf",
+      "url": "https://github.com/google/protobuf",
+      "descriptionZhtw": "Protocol Buffers - Google 的資料交換格式",
+      "descriptionEn": "Protocol Buffers - Google's data interchange format",
+      "counter": 2,
+      "stars": 64321,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "descriptionZhtw": "Google Test 與 Google Mock 測試框架",
+      "descriptionEn": "GoogleTest - Google Testing and Mocking Framework",
+      "counter": 2,
+      "stars": 34567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "grpc/grpc",
+      "url": "https://github.com/grpc/grpc",
+      "descriptionZhtw": "基於 HTTP/2 的 C 語言高效能通用遠端程序呼叫 (RPC) 框架",
+      "descriptionEn": "The C based gRPC (C++, Python, Ruby, Objective-C, PHP, C#)",
+      "counter": 2,
+      "stars": 41234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "google/benchmark",
+      "url": "https://github.com/google/benchmark",
+      "descriptionZhtw": "用於測量程式碼區塊執行時間的微基準測試庫",
+      "descriptionEn": "A microbenchmark support library",
+      "counter": 2,
+      "stars": 12345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "fastai/fastai",
+      "url": "https://github.com/fastai/fastai",
+      "descriptionZhtw": "fastai 程式庫簡化了使用現代深度學習實踐訓練快速且準確的神經網路流程",
+      "descriptionEn": "The fastai library simplifies training fast and accurate neural networks using modern deep learning practices",
+      "counter": 1,
+      "stars": 26915,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "nvm-sh/nvm",
+      "url": "https://github.com/nvm-sh/nvm",
+      "descriptionZhtw": "節點版本管理工具，用於管理多個活動的 node.js 版本。",
+      "descriptionEn": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
+      "counter": 1,
+      "stars": 94493,
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    {
+      "name": "scikit-learn/scikit-learn",
+      "url": "https://github.com/scikit-learn/scikit-learn",
+      "descriptionZhtw": "scikit-learn 是一個 Python 模組，用於建構在 NumPy、SciPy 和 matplotlib 之上的機器學習工具",
+      "descriptionEn": "scikit-learn: machine learning in Python",
+      "counter": 2,
+      "stars": 59123,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "OpenBMB/MiniCPM-o",
+      "url": "https://github.com/OpenBMB/MiniCPM-o",
+      "descriptionZhtw": "MiniCPM-o 2.6：邊緣端多模態模型，支援語音、視覺與文字處理",
+      "descriptionEn": "MiniCPM-o 2.6: A GPT-4o Level MLLM for Real-Time Omni-Modal Interaction on Edge Devices",
+      "counter": 2,
+      "stars": 23456,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "ggerganov/llama.cpp",
+      "url": "https://github.com/ggerganov/llama.cpp",
+      "descriptionZhtw": "在 C/C++ 中對 LLaMA 進行推論",
+      "descriptionEn": "LLM inference in C/C++",
+      "counter": 2,
+      "stars": 67890,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "ollama/ollama",
+      "url": "https://github.com/ollama/ollama",
+      "descriptionZhtw": "在本地啟動並運行 Llama 3、Mistral、Gemma 和其他大型語言模型",
+      "descriptionEn": "Get up and running with Llama 3.3, Mistral, Gemma 2, and other large language models.",
+      "counter": 1,
+      "stars": 102345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "descriptionZhtw": "高吞吐量且記憶體效率高的 LLM 推論與服務引擎",
+      "descriptionEn": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "counter": 2,
+      "stars": 34567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "microsoft/autogen",
+      "url": "https://github.com/microsoft/autogen",
+      "descriptionZhtw": "基於多 Agent 協作的大型語言模型應用開發框架",
+      "descriptionEn": "A programming framework for agentic AI. 🤖 Better with multi-agent collaboration.",
+      "counter": 1,
+      "stars": 36789,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "langchain-ai/langchain",
+      "url": "https://github.com/langchain-ai/langchain",
+      "descriptionZhtw": "🦜🔗 透過可組合性使用 LLM 建構應用程式",
+      "descriptionEn": "🦜🔗 Build context-aware reasoning applications",
+      "counter": 1,
+      "stars": 91234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-agents",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-agents",
+      "descriptionZhtw": "精選的 AI Agent 資源與工具清單",
+      "descriptionEn": "A curated list of awesome LLM Agents.",
+      "counter": 1,
+      "stars": 12345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "assafelovic/gpt-researcher",
+      "url": "https://github.com/assafelovic/gpt-researcher",
+      "descriptionZhtw": "基於 GPT 的線上研究 Agent，可針對特定主題生成詳盡的研究報告",
+      "descriptionEn": "LLM based autonomous agent that conducts deep local and web research on any topic and generates a long and unbiased report with citations.",
+      "counter": 1,
+      "stars": 14567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "TheAlgorithms/Python",
+      "url": "https://github.com/TheAlgorithms/Python",
+      "descriptionZhtw": "所有演算法在 Python 中的實作",
+      "descriptionEn": "All Algorithms implemented in Python",
+      "counter": 1,
+      "stars": 189012,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-11"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "descriptionZhtw": "學習如何設計大型系統，準備系統設計面試",
+      "descriptionEn": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "counter": 4,
+      "stars": 361578,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "url": "https://github.com/public-apis/public-apis",
+      "descriptionZhtw": "用於軟體與網頁開發的免費 API 集體清單",
+      "descriptionEn": "A collective list of free APIs",
+      "counter": 2,
+      "stars": 301234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "descriptionZhtw": "📚 免費開源程式設計書籍清單",
+      "descriptionEn": "📚 Freely available programming books",
+      "counter": 2,
+      "stars": 334567,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "url": "https://github.com/sindresorhus/awesome",
+      "descriptionZhtw": "😎 各種有趣主題的精選清單",
+      "descriptionEn": "😎 Awesome lists about all kinds of interesting topics",
+      "counter": 2,
+      "stars": 312345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "kamranahmedse/developer-roadmap",
+      "url": "https://github.com/kamranahmedse/developer-roadmap",
+      "descriptionZhtw": "互動式路線圖、指南與學習資源，協助開發者選擇學習路徑並追蹤進度",
+      "descriptionEn": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "counter": 2,
+      "stars": 289012,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "url": "https://github.com/vinta/awesome-python",
+      "descriptionZhtw": "精選的 Python 框架、庫、軟體與資源清單",
+      "descriptionEn": "A curated list of awesome Python frameworks, libraries, software and resources",
+      "counter": 2,
+      "stars": 201234,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "microsoft/vscode",
+      "url": "https://github.com/microsoft/vscode",
+      "descriptionZhtw": "Visual Studio Code 官方資源庫",
+      "descriptionEn": "Visual Studio Code",
+      "counter": 2,
+      "stars": 167890,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "tensorflow/tensorflow",
+      "url": "https://github.com/tensorflow/tensorflow",
+      "descriptionZhtw": "適用於所有人的開源機器學習平台",
+      "descriptionEn": "An Open Source Machine Learning Framework for Everyone",
+      "counter": 2,
+      "stars": 182345,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "flutter/samples",
+      "url": "https://github.com/flutter/samples",
+      "descriptionZhtw": "Flutter 範例與示範集錦",
+      "descriptionEn": "A collection of Flutter samples and demos",
+      "counter": 2,
+      "stars": 123456,
+      "firstSeen": "2026-07-11",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "TheAlgorithms/C-Plus-Plus",
+      "url": "https://github.com/TheAlgorithms/C-Plus-Plus",
+      "descriptionZhtw": "C++ 實作的所有演算法",
+      "descriptionEn": "All Algorithms implemented in C++",
+      "counter": 1,
+      "stars": 134567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "facebook/react",
+      "url": "https://github.com/facebook/react",
+      "descriptionZhtw": "用於建構使用者介面的 JavaScript 函式庫",
+      "descriptionEn": "The library for web and native user interfaces.",
+      "counter": 1,
+      "stars": 223456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "vuejs/core",
+      "url": "https://github.com/vuejs/core",
+      "descriptionZhtw": "🖖 Vue.js 3 核心核心庫",
+      "descriptionEn": "🖖 Vue.js is a progressive, incrementally-adoptable JavaScript framework for building UI on the web.",
+      "counter": 1,
+      "stars": 204567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "golang/go",
+      "url": "https://github.com/golang/go",
+      "descriptionZhtw": "Go 語言專案",
+      "descriptionEn": "The Go programming language",
+      "counter": 1,
+      "stars": 124567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "rust-lang/rust",
+      "url": "https://github.com/rust-lang/rust",
+      "descriptionZhtw": "提升所有人建構可靠且高效軟體的能力",
+      "descriptionEn": "Empowering everyone to build reliable and efficient software.",
+      "counter": 1,
+      "stars": 105678,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "microsoft/terminal",
+      "url": "https://github.com/microsoft/terminal",
+      "descriptionZhtw": "新一代的 Windows Terminal 終端機應用程式",
+      "descriptionEn": "The new Windows Terminal and the original Windows console host, all in the same place!",
+      "counter": 2,
+      "stars": 104189,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "name": "moby/moby",
+      "url": "https://github.com/moby/moby",
+      "descriptionZhtw": "Moby 專案：軟體容器生態系統的開放框架",
+      "descriptionEn": "The Moby Project - a collaborative project for the container ecosystem to assemble container-based systems",
+      "counter": 1,
+      "stars": 68901,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "kubernetes/kubernetes",
+      "url": "https://github.com/kubernetes/kubernetes",
+      "descriptionZhtw": "生產級容器編排系統",
+      "descriptionEn": "Production-Grade Container Scheduling and Management",
+      "counter": 1,
+      "stars": 104567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "django/django",
+      "url": "https://github.com/django/django",
+      "descriptionZhtw": "Web 框架，適合完美主義者與有期限要求的開發者",
+      "descriptionEn": "The Web framework for perfectionists with deadlines.",
+      "counter": 1,
+      "stars": 78901,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "laravel/laravel",
+      "url": "https://github.com/laravel/laravel",
+      "descriptionZhtw": "PHP 框架，為網頁工匠打造",
+      "descriptionEn": "Laravel is a PHP web framework with expressive, elegant syntax.",
+      "counter": 1,
+      "stars": 76543,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "expressjs/express",
+      "url": "https://github.com/expressjs/express",
+      "descriptionZhtw": "極致簡單、靈活且快速的 Node.js Web 框架",
+      "descriptionEn": "Fast, unopinionated, minimalist web framework for node.",
+      "counter": 1,
+      "stars": 63456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "denoland/deno",
+      "url": "https://github.com/denoland/deno",
+      "descriptionZhtw": "現代化且安全的 JavaScript 與 TypeScript 執行環境",
+      "descriptionEn": "A modern runtime for JavaScript and TypeScript.",
+      "counter": 2,
+      "stars": 108068,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "strapi/strapi",
+      "url": "https://github.com/strapi/strapi",
+      "descriptionZhtw": "🚀 領先的開源無頭 CMS，100% JavaScript 打造，完全可自訂且開發者優先",
+      "descriptionEn": "🚀 Strapi is the leading open-source Headless CMS. It’s 100% JavaScript/TypeScript, fully customizable and developer-first.",
+      "counter": 1,
+      "stars": 61234,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "shadowsocks/shadowsocks-rust",
+      "url": "https://github.com/shadowsocks/shadowsocks-rust",
+      "descriptionZhtw": "Rust 實作的 Shadowsocks",
+      "descriptionEn": "A Rust port of shadowsocks",
+      "counter": 1,
+      "stars": 34567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "home-assistant/core",
+      "url": "https://github.com/home-assistant/core",
+      "descriptionZhtw": "🏡 開源家庭自動化系統，隱私優先且本地控制",
+      "descriptionEn": "🏡 Open source home automation that puts local control and privacy first.",
+      "counter": 1,
+      "stars": 69012,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "fatedier/frp",
+      "url": "https://github.com/fatedier/frp",
+      "descriptionZhtw": "快速的反向代理，可將內網服務穿透至外網",
+      "descriptionEn": "A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.",
+      "counter": 1,
+      "stars": 81234,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "yuzu-emu/yuzu",
+      "url": "https://github.com/yuzu-emu/yuzu",
+      "descriptionZhtw": "實驗性的開源 Nintendo Switch 模擬器",
+      "descriptionEn": "Nintendo Switch emulator",
+      "counter": 1,
+      "stars": 34567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "Ryujinx/Ryujinx",
+      "url": "https://github.com/Ryujinx/Ryujinx",
+      "descriptionZhtw": "實驗性的開源 Nintendo Switch 模擬器，採用 C# 編寫",
+      "descriptionEn": "Experimental Nintendo Switch Emulator written in C#",
+      "counter": 1,
+      "stars": 23456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "PCSX2/pcsx2",
+      "url": "https://github.com/PCSX2/pcsx2",
+      "descriptionZhtw": "PlayStation 2 模擬器",
+      "descriptionEn": "PCSX2 - The real PlayStation 2 emulator",
+      "counter": 1,
+      "stars": 12345,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "citra-emu/citra",
+      "url": "https://github.com/citra-emu/citra",
+      "descriptionZhtw": "實驗性的 Nintendo 3DS 模擬器",
+      "descriptionEn": "A Nintendo 3DS emulator",
+      "counter": 1,
+      "stars": 11234,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "dolphin-emu/dolphin",
+      "url": "https://github.com/dolphin-emu/dolphin",
+      "descriptionZhtw": "Dolphin 是一款適用於 GameCube 與 Wii 遊戲機的模擬器",
+      "descriptionEn": "Dolphin is a GameCube / Wii emulator, allowing you to play games for these two platforms on PC with improvements.",
+      "counter": 1,
+      "stars": 14567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "ppsspp/ppsspp",
+      "url": "https://github.com/ppsspp/ppsspp",
+      "descriptionZhtw": "適用於 Android、Windows、Mac 和 Linux 的 PSP 模擬器，以 C++ 編寫",
+      "descriptionEn": "A PSP emulator for Android, Windows, Mac and Linux, written in C++.",
+      "counter": 1,
+      "stars": 13456,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "duckstation-emu/duckstation",
+      "url": "https://github.com/duckstation-emu/duckstation",
+      "descriptionZhtw": "PlayStation 1 模擬器，專注於精確度、性能與易用性",
+      "descriptionEn": "Fast PlayStation 1 emulator for x86-64/AArch64/ARMv7",
+      "counter": 1,
+      "stars": 6789,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "OpenEmu/OpenEmu",
+      "url": "https://github.com/OpenEmu/OpenEmu",
+      "descriptionZhtw": "🕹 適用於 macOS 的遊戲模擬器前端",
+      "descriptionEn": "🕹 One emulator to rule them all",
+      "counter": 1,
+      "stars": 24567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "RetroArch/RetroArch",
+      "url": "https://github.com/RetroArch/RetroArch",
+      "descriptionZhtw": "跨平台模擬器、遊戲引擎、視訊播放器和其他應用的前端",
+      "descriptionEn": "Cross-platform, sophisticated frontend for the libretro API. Licensed GPLv3.",
+      "counter": 1,
+      "stars": 34567,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "shikun/rust-postgres",
+      "url": "https://github.com/shikun/rust-postgres",
+      "descriptionZhtw": "以 Rust 重新實作的 Postgres，目前已 100% 通過 Postgres 回歸測試",
+      "descriptionEn": "Postgres rewritten in Rust, now passing 100% of the Postgres regression tests",
+      "counter": 2,
+      "stars": 2492,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "nasa/fprime",
+      "url": "https://github.com/nasa/fprime",
+      "descriptionZhtw": "F´ - 飛行軟體與嵌入式系統框架",
+      "descriptionEn": "F´ - A flight software and embedded systems framework",
+      "counter": 1,
+      "stars": 11491,
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
+    },
+    {
+      "name": "PrefectHQ/prefect",
+      "url": "https://github.com/PrefectHQ/prefect",
+      "descriptionZhtw": "Prefect 是一個用於在 Python 中建構韌性資料管線的工作流編排框架。",
+      "descriptionEn": "Prefect is a workflow orchestration framework for building resilient data pipelines in Python.",
+      "counter": 1,
+      "stars": 23163,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "descriptionZhtw": "超過 100 個你可以實際運行的 AI Agent 與 RAG 應用程式 — 複製、客製化並交付。",
+      "descriptionEn": "100+ AI Agent & RAG apps you can actually run — clone, customize, ship.",
+      "counter": 5,
+      "stars": 123239,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "Crosstalk-Solutions/project-nomad",
+      "url": "https://github.com/Crosstalk-Solutions/project-nomad",
+      "descriptionZhtw": "Project N.O.M.A.D 是一台獨立且離線的生存電腦，配備了關鍵工具、知識和 AI，讓您隨時隨地保持知情並獲得授權。",
+      "descriptionEn": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
+      "counter": 1,
+      "stars": 33821,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "ColeMurray/background-agents",
+      "url": "https://github.com/ColeMurray/background-agents",
+      "descriptionZhtw": "一個開源的背景 Agent 編碼系統。",
+      "descriptionEn": "An open-source background agents coding system",
+      "counter": 1,
+      "stars": 2271,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "descriptionZhtw": "為 Wand (WeMod) 應用程式提供的進階 UX 與互通性擴充功能。",
+      "descriptionEn": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "counter": 1,
+      "stars": 6976,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "virattt/ai-hedge-fund",
+      "url": "https://github.com/virattt/ai-hedge-fund",
+      "descriptionZhtw": "一個 AI 對沖基金團隊。",
+      "descriptionEn": "An AI Hedge Fund Team",
+      "counter": 2,
+      "stars": 61897,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-15"
+    },
+    {
+      "name": "chen08209/FlClash",
+      "url": "https://github.com/chen08209/FlClash",
+      "descriptionZhtw": "一個基於 ClashMeta 的多平台代理客戶端，簡單易用、開源且無廣告。",
+      "descriptionEn": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
+      "counter": 1,
+      "stars": 45242,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-13"
+    },
+    {
+      "name": "par274/sharpemu",
+      "url": "https://github.com/par274/sharpemu",
+      "descriptionZhtw": "一個實驗性的 PlayStation 5 模擬器項目。",
+      "descriptionEn": "An experimental PlayStation 5 emulator project.",
+      "counter": 2,
+      "stars": 2155,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-15"
+    },
+    {
+      "name": "Nutlope/hallmark",
+      "url": "https://github.com/Nutlope/hallmark",
+      "descriptionZhtw": "專為 Claude Code、Cursor 和 Codex 打造的抗 AI Slop 設計技能。",
+      "descriptionEn": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "counter": 6,
+      "stars": 12069,
+      "firstSeen": "2026-07-13",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "moeru-ai/airi",
+      "url": "https://github.com/moeru-ai/airi",
+      "descriptionZhtw": "自架且個人擁有的 Grok 伴侶，一個裝載 waifu 靈魂的容器，旨在將賽博生命帶入現實世界，目標是達到 Neuro-sama 的高度。支援即時語音聊天、玩 Minecraft 與 Factorio。支援 Web、macOS 與 Windows。",
+      "descriptionEn": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
+      "counter": 4,
+      "stars": 44797,
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "Graphify-Labs/graphify",
+      "url": "https://github.com/Graphify-Labs/graphify",
+      "descriptionZhtw": "AI 程式碼助手技能（支援 Claude Code, Codex, Cursor, Gemini CLI 等）。將任何程式碼資料夾、SQL Schema、R/Shell 腳本、文件、論文、圖片或影片轉換為可查詢的知識圖譜。將應用程式碼、資料庫架構與基礎設施整合在同一個圖譜中。",
+      "descriptionEn": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
+      "counter": 3,
+      "stars": 89527,
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "descriptionZhtw": "協助你開始進行規格驅動開發（Spec-Driven Development）的工具包。",
+      "descriptionEn": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "counter": 1,
+      "stars": 120639,
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    {
+      "name": "AIEraDev/Clypra",
+      "url": "https://github.com/AIEraDev/Clypra",
+      "descriptionZhtw": "使用 Tauri、React 和 TypeScript 構建的現代化影片編輯器，專注於提供媲美付費版 CapCut 的免費功能。",
+      "descriptionEn": "A modern video editor built with Tauri, React, and TypeScript. Focus on building free capabilities of premium capcut functionalities",
+      "counter": 1,
+      "stars": 2648,
+      "firstSeen": "2026-07-15",
+      "lastSeen": "2026-07-15"
+    },
+    {
+      "name": "openinterpreter/openinterpreter",
+      "url": "https://github.com/openinterpreter/openinterpreter",
+      "descriptionZhtw": "適用於低成本模型的程式碼 AI Agent",
+      "descriptionEn": "A coding agent for open models like Kimi K3",
+      "counter": 3,
+      "stars": 66385,
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "HKUDS/DeepTutor",
+      "url": "https://github.com/HKUDS/DeepTutor",
+      "descriptionZhtw": "DeepTutor：終身個人化導師教學系統。",
+      "descriptionEn": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
+      "counter": 1,
+      "stars": 34767,
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    {
+      "name": "YimMenu/YimMenuV2",
+      "url": "https://github.com/YimMenu/YimMenuV2",
+      "descriptionZhtw": "GTA 5：加強版實驗性選單",
+      "descriptionEn": "Experimental menu for GTA 5: Enhanced",
+      "counter": 2,
+      "stars": 1535,
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "apache/ossie",
+      "url": "https://github.com/apache/ossie",
+      "descriptionZhtw": "Apache Ossie：旨在標準化跨分析、AI 與 BI 平台交換語義元數據的產業規範，為語義資料提供廠商中立的單一事實來源",
+      "descriptionEn": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
+      "counter": 2,
+      "stars": 1281,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-19"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "descriptionZhtw": "PostHog：構建自動化產品的領先平台，提供 AI 可觀測性、分析、Session 回放、Feature Flags、實驗、錯誤追蹤與日誌等工具，為 Agent 診斷問題與發布修復提供所需背景",
+      "descriptionEn": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "counter": 4,
+      "stars": 36948,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "name": "PrismML-Eng/Bonsai-demo",
+      "url": "https://github.com/PrismML-Eng/Bonsai-demo",
+      "descriptionZhtw": "Bonsai 演示專案",
+      "descriptionEn": "Bonsai Demo",
+      "counter": 2,
+      "stars": 1716,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "github/copilot-sdk",
+      "url": "https://github.com/github/copilot-sdk",
+      "descriptionZhtw": "GitHub Copilot SDK：用於將 GitHub Copilot Agent 整合至應用程式與服務的多平台 SDK",
+      "descriptionEn": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
+      "counter": 5,
+      "stars": 10283,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "descriptionZhtw": "透過從頭開始重新實作你最喜歡的技術來精通編程（如：自己寫一個 Redis、Git、Docker 等）",
+      "descriptionEn": "Master programming by recreating your favorite technologies from scratch.",
+      "counter": 5,
+      "stars": 534926,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-08-03"
+    },
+    {
+      "name": "ossu/computer-science",
+      "url": "https://github.com/ossu/computer-science",
+      "descriptionZhtw": "通往免費自學電腦科學教育之路的課程清單",
+      "descriptionEn": "🎓 Path to a free self-taught education in Computer Science!",
+      "counter": 1,
+      "stars": 206739,
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    {
+      "name": "anthropics/cwc-workshops",
+      "url": "https://github.com/anthropics/cwc-workshops",
+      "descriptionZhtw": "Anthropic 官方舉辦的 Claude 與 AI 工作坊資源",
+      "descriptionEn": "Workshops and resources for building with Claude and Anthropic tools.",
+      "counter": 1,
+      "stars": 1590,
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "protocolbuffers/protobuf",
+      "url": "https://github.com/protocolbuffers/protobuf",
+      "descriptionZhtw": "Google 的數據交換格式，高效且語言無關的序列化機制",
+      "descriptionEn": "Protocol Buffers - Google's data interchange format",
+      "counter": 1,
+      "stars": 71542,
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "docusealco/docuseal",
+      "url": "https://github.com/docusealco/docuseal",
+      "descriptionZhtw": "DocuSign 的開源替代方案，提供數位文件的創建、填寫與簽署功能",
+      "descriptionEn": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
+      "counter": 1,
+      "stars": 17858,
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    {
+      "name": "elder-plinius/G0DM0D3",
+      "url": "https://github.com/elder-plinius/G0DM0D3",
+      "descriptionZhtw": "解脫束縛的 AI 聊天介面",
+      "descriptionEn": "LIBERATED AI CHAT",
+      "counter": 1,
+      "stars": 9520,
+      "firstSeen": "2026-07-19",
+      "lastSeen": "2026-07-19"
+    },
+    {
+      "name": "KnockOutEZ/wigolo",
+      "url": "https://github.com/KnockOutEZ/wigolo",
+      "descriptionZhtw": "AI 程式碼 Agent 的首選網站：透過 MCP 進行本地優先的搜尋、抓取、爬蟲與研究。無需 API 金鑰，無需雲端，查詢費用為 $0。公開測試中。",
+      "descriptionEn": "The go-to web for your AI coding agent — local-first search, fetch, crawl & research over MCP. No API keys, no cloud, $0/query. Public beta.",
+      "counter": 4,
+      "stars": 3168,
+      "firstSeen": "2026-07-19",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "MoonshotAI/kimi-cli",
+      "url": "https://github.com/MoonshotAI/kimi-cli",
+      "descriptionZhtw": "Kimi Code CLI 是你的下一個 CLI Agent。",
+      "descriptionEn": "Kimi Code CLI is your next CLI agent.",
+      "counter": 3,
+      "stars": 0,
+      "firstSeen": "2026-07-19",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "kvcache-ai/ktransformers",
+      "url": "https://github.com/kvcache-ai/ktransformers",
+      "descriptionZhtw": "靈活的異構 LLM 推論與微調優化框架",
+      "descriptionEn": "A Flexible Framework for Experiencing Heterogeneous LLM Inference/Fine-tune Optimizations",
+      "counter": 2,
+      "stars": 0,
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "andrewrabert/jellium-desktop",
+      "url": "https://github.com/andrewrabert/jellium-desktop",
+      "descriptionZhtw": "非官方的 Jellyfin 桌面用戶端",
+      "descriptionEn": "An unofficial desktop client for Jellyfin",
+      "counter": 1,
+      "stars": 1297,
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "name": "AstrBotDevs/AstrBot",
+      "url": "https://github.com/AstrBotDevs/AstrBot",
+      "descriptionZhtw": "整合多個通訊平台、LLM 與插件的 AI Agent 助手及開發框架，可作為 OpenClaw 的替代方案",
+      "descriptionEn": "AI Agent Assistant & development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
+      "counter": 3,
+      "stars": 37488,
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "Canner/WrenAI",
+      "url": "https://github.com/Canner/WrenAI",
+      "descriptionZhtw": "專為 AI Agent 打造的開源生成式商業智慧 (GenBI)，透過開放上下文層將自然語言轉為可靠的 SQL、儀表板與圖表，支援超過 20 種數據源",
+      "descriptionEn": "GenBI (Generative BI) for AI agents, an open-source, governed text-to-SQL through an open context layer that turns natural-language questions into trusted dashboards, charts, and SQL across 20+ data sources, such as BigQuery, Snowflake, PostgreSQL, ClickHouse, Amazon Redshift, Databricks and more.",
+      "counter": 1,
+      "stars": 16222,
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "name": "PKUFlyingPig/cs-self-learning",
+      "url": "https://github.com/PKUFlyingPig/cs-self-learning",
+      "descriptionZhtw": "電腦科學自學指南",
+      "descriptionEn": "计算机自学指南",
+      "counter": 1,
+      "stars": 74191,
+      "firstSeen": "2026-07-20",
+      "lastSeen": "2026-07-20"
+    },
+    {
+      "name": "PrefectHQ/fastmcp",
+      "url": "https://github.com/PrefectHQ/fastmcp",
+      "descriptionZhtw": "以 Python 快速開發 MCP 伺服器與用戶端的方法。",
+      "descriptionEn": "🚀 The fast, Pythonic way to build MCP servers and clients.",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "oblien/openship",
+      "url": "https://github.com/oblien/openship",
+      "descriptionZhtw": "自架部署平台",
+      "descriptionEn": "Self-hosted deployment platform",
+      "counter": 3,
+      "stars": 7333,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "name": "microsoft/Ontology-Playground",
+      "url": "https://github.com/microsoft/Ontology-Playground",
+      "descriptionZhtw": "免費開源的本體論（Ontologies）與 Microsoft Fabric IQ 學習網頁應用程式。可探索預建目錄、視覺化設計、匯出為 RDF/XML 並分享互動圖表。完全靜態，無需後端。",
+      "descriptionEn": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
+      "counter": 2,
+      "stars": 2017,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "handy-computer/transcribe.cpp",
+      "url": "https://github.com/handy-computer/transcribe.cpp",
+      "descriptionZhtw": "支援 16 種以上模型系列的 ggml 語音轉文字推論工具。",
+      "descriptionEn": "ggml speech-to-text inference for 16+ model families",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "moonshine-ai/moonshine",
+      "url": "https://github.com/moonshine-ai/moonshine",
+      "descriptionZhtw": "極低延遲的語音轉文字、意圖識別與文字轉語音，用於構建語音 Agent 與介面。",
+      "descriptionEn": "Very low latency speech to text, intent recognition, and text to speech, for building voice agents and interfaces",
+      "counter": 1,
+      "stars": 0,
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    {
+      "name": "bojieli/ai-agent-book",
+      "url": "https://github.com/bojieli/ai-agent-book",
+      "descriptionZhtw": "《深入理解 AI Agent：設計原理與工程實踐》（李博杰 著）開源主倉庫：全書正文、編譯版 PDF 與按章配套代碼",
+      "descriptionEn": "《深入理解 AI Agent：设计原理与工程实践》（李博杰 著）开源主仓库：全书正文、编译版 PDF 与按章配套代码",
+      "counter": 1,
+      "stars": 14762,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "descriptionZhtw": "為你的編程 Agent 提供的 Skill，防止其隱藏答案。輸出格式對 ADHD 友好。",
+      "descriptionEn": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
+      "counter": 2,
+      "stars": 8342,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "descriptionZhtw": "適用於 CAD、機器人與硬體設計的一系列 Agent Skills 集合。",
+      "descriptionEn": "A collection of agent skills for CAD, robotics and hardware design",
+      "counter": 2,
+      "stars": 10023,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-24"
+    },
+    {
+      "name": "tradesdontlie/tradingview-mcp",
+      "url": "https://github.com/tradesdontlie/tradingview-mcp",
+      "descriptionZhtw": "AI 輔助的 TradingView 圖表分析 — 將 Claude Code 連接到你的 TradingView 桌面版，實現個人工作流自動化。",
+      "descriptionEn": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
+      "counter": 1,
+      "stars": 4856,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "hyprwm/Hyprland",
+      "url": "https://github.com/hyprwm/Hyprland",
+      "descriptionZhtw": "Hyprland 是一個獨立、高度可定制的動態平鋪 Wayland 合成器，在美觀與性能之間取得平衡。",
+      "descriptionEn": "Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.",
+      "counter": 2,
+      "stars": 37302,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "name": "langchain-ai/open_deep_research",
+      "url": "https://github.com/langchain-ai/open_deep_research",
+      "descriptionZhtw": "LangChain 的開源深度研究 Agent 框架，支援多輪研究與報告生成。",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 12247,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-22"
+    },
+    {
+      "name": "agegr/pi-web",
+      "url": "https://github.com/agegr/pi-web",
+      "descriptionZhtw": "pi 編程 Agent 的網頁端介面。",
+      "descriptionEn": "Web UI for the pi coding agent",
+      "counter": 3,
+      "stars": 2386,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-24"
+    },
+    {
+      "name": "dottxt-ai/outlines",
+      "url": "https://github.com/dottxt-ai/outlines",
+      "descriptionZhtw": "Outlines：讓 LLM 生成結構化輸出的庫，支援正則表達式、JSON Schema 等引導。",
+      "descriptionEn": "Structured Outputs",
+      "counter": 2,
+      "stars": 15113,
+      "firstSeen": "2026-07-22",
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "name": "dreamhunter2333/cloudflare_temp_email",
+      "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
+      "descriptionZhtw": "CloudFlare 免費臨時域名信箱，支援收發、附件、IMAP、SMTP 及 Telegram 機器人",
+      "descriptionEn": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
+      "counter": 1,
+      "stars": 10815,
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    {
+      "name": "jellyfin/jellyfin",
+      "url": "https://github.com/jellyfin/jellyfin",
+      "descriptionZhtw": "自由軟體媒體系統 - 伺服器後端與 API",
+      "descriptionEn": "The Free Software Media System - Server Backend & API",
+      "counter": 1,
+      "stars": 54748,
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    {
+      "name": "shiyu-coder/Kronos",
+      "descriptionZhtw": "金融市場語言的基礎模型",
+      "url": "https://github.com/shiyu-coder/Kronos",
+      "descriptionEn": "Kronos: A Foundation Model for the Language of Financial Markets",
+      "counter": 2,
+      "stars": 35832,
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "apache/cassandra",
+      "descriptionZhtw": "開源事務性分散式資料庫",
+      "url": "https://github.com/apache/cassandra",
+      "descriptionEn": "Open source transactional distributed database. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure without compromising performance.",
+      "counter": 1,
+      "stars": 9969,
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    {
+      "name": "ocornut/imgui",
+      "descriptionZhtw": "輕量級 C++ 圖形使用者介面框架",
+      "url": "https://github.com/ocornut/imgui",
+      "descriptionEn": "Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies",
+      "counter": 1,
+      "stars": 75220,
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "descriptionZhtw": "建立與分享 3D 建築專案的工具",
+      "descriptionEn": "Create and share 3D architectural projects.",
+      "counter": 2,
+      "stars": 20143,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-31"
+    },
+    {
+      "name": "hello245m/free-stockdb",
+      "url": "https://github.com/hello245m/free-stockdb",
+      "descriptionZhtw": "本地量化引擎，整合增量同步與批量查詢",
+      "descriptionEn": "面向 A 股日K、分钟K与ETF分钟数据的本地量化引擎，集成增量同步、本地缓存、复权、批量查询、回测与指标计算。",
+      "counter": 1,
+      "stars": 1326,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "huggingface/speech-to-speech",
+      "url": "https://github.com/huggingface/speech-to-speech",
+      "descriptionZhtw": "使用開源模型建構本地語音 Agent",
+      "descriptionEn": "Build local voice agents with open-source models",
+      "counter": 3,
+      "stars": 10224,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "paperswithbacktest/awesome-systematic-trading",
+      "url": "https://github.com/paperswithbacktest/awesome-systematic-trading",
+      "descriptionZhtw": "系統化交易工具、策略與教學資源清單",
+      "descriptionEn": "A curated list of awesome libraries, packages, strategies, books, blogs, tutorials for systematic trading.",
+      "counter": 4,
+      "stars": 12261,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "microsoft/agent-governance-toolkit",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "descriptionZhtw": "AI Agent 治理工具包：支援策略強制執行與執行沙盒",
+      "descriptionEn": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "counter": 1,
+      "stars": 5226,
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    {
+      "name": "different-ai/openwork",
+      "url": "https://github.com/different-ai/openwork",
+      "descriptionZhtw": "Claude Cowork 的開源替代方案，由 opencode 提供動力。",
+      "descriptionEn": "The open-source alternative to Claude Cowork (powered by opencode)",
+      "counter": 3,
+      "stars": 20353,
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-08-03"
+    },
+    {
+      "name": "WhiskeySockets/Baileys",
+      "url": "https://github.com/WhiskeySockets/Baileys",
+      "descriptionZhtw": "基於 Socket 的 WhatsApp Web 專用 TypeScript/JavaScript API。",
+      "descriptionEn": "Socket-based TS/JavaScript API for WhatsApp Web",
+      "counter": 1,
+      "stars": 10444,
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "descriptionZhtw": "逆向工程 / 授權滲透測試 / 安全研究技能路由包，支援 AI 自動路由、按需自舉工具鏈與自動進化經驗庫。",
+      "descriptionEn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "counter": 5,
+      "stars": 17973,
+      "firstSeen": "2026-08-01",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "geo-tp/ESP32-Bit-Pirate",
+      "url": "https://github.com/geo-tp/ESP32-Bit-Pirate",
+      "descriptionZhtw": "一個硬體駭客工具，帶有基於 Web 的 CLI，支援多種協定。",
+      "descriptionEn": "A Hardware Hacking Tool with Web-Based CLI That Speaks Every Protocol",
+      "counter": 1,
+      "stars": 5031,
+      "firstSeen": "2026-08-01",
+      "lastSeen": "2026-08-01"
+    },
+    {
+      "name": "microsoft/generative-ai-for-beginners",
+      "url": "https://github.com/microsoft/generative-ai-for-beginners",
+      "descriptionZhtw": "21 堂課，開始建構生成式 AI 應用",
+      "descriptionEn": "21 Lessons, Get Started Building with Generative AI",
+      "counter": 4,
+      "stars": 116295,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "github/gh-stack",
+      "url": "https://github.com/github/gh-stack",
+      "descriptionZhtw": "GitHub 堆疊式 PR 管理工具",
+      "descriptionEn": "GitHub Stacked PRs",
+      "counter": 1,
+      "stars": 825,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "abus-aikorea/voice-pro",
+      "url": "https://github.com/abus-aikorea/voice-pro",
+      "descriptionZhtw": "待翻譯",
+      "descriptionEn": "Gradio WebUI for creators and developers, featuring key TTS (Edge-TTS, kokoro) and zero-shot Voice Cloning (E2 & F5-TTS, CosyVoice), with Whisper audio processing, YouTube download, Demucs vocal isolation, and multilingual translation.",
+      "counter": 1,
+      "stars": 11766,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "descriptionZhtw": "YouTube 的開源替代前端",
+      "descriptionEn": "Invidious is an alternative front-end to YouTube",
+      "counter": 3,
+      "stars": 22281,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "microsoft/TRELLIS.2",
+      "url": "https://github.com/microsoft/TRELLIS.2",
+      "descriptionZhtw": "用於 3D 生成的結構化潛空間表示",
+      "descriptionEn": "Native and Compact Structured Latents for 3D Generation",
+      "counter": 1,
+      "stars": 9941,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-02"
+    },
+    {
+      "name": "NomaDamas/k-skill",
+      "url": "https://github.com/NomaDamas/k-skill",
+      "descriptionZhtw": "給韓國人的技能合輯 - 讓 Agent 具備韓語文化能力",
+      "descriptionEn": "한국인을 위한 스킬 모음집 - 에이전트를 한국인으로",
+      "counter": 2,
+      "stars": 6899,
+      "firstSeen": "2026-08-02",
+      "lastSeen": "2026-08-03"
+    },
+    {
+      "name": "HarbourMasters/Lighthouse",
+      "url": "https://github.com/HarbourMasters/Lighthouse",
+      "descriptionZhtw": "",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 223,
+      "firstSeen": "2026-08-03",
+      "lastSeen": "2026-08-03"
+    },
+    {
+      "name": "esengine/DeepSeek-Reasonix",
+      "url": "https://github.com/esengine/DeepSeek-Reasonix",
+      "descriptionZhtw": "DeepSeek 原生的終端機 AI 編程 Agent，針對 prefix-cache 穩定性設計",
+      "descriptionEn": "DeepSeek-native AI coding agent for your terminal. Engineered around prefix-cache stability — leave it running.",
+      "counter": 5,
+      "stars": 32463,
+      "firstSeen": "2026-08-03",
+      "lastSeen": "2026-08-07"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "descriptionZhtw": "",
+      "descriptionEn": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "counter": 4,
+      "stars": 12491,
+      "firstSeen": "2026-08-04",
+      "lastSeen": "2026-08-07"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "descriptionZhtw": "",
+      "descriptionEn": "Use Claude Code, Codex and Pi for free from your terminal, app, IDE, or phone like OpenClaw (voice supported)",
+      "counter": 1,
+      "stars": 44062,
+      "firstSeen": "2026-08-04",
+      "lastSeen": "2026-08-04"
+    },
+    {
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "descriptionZhtw": "",
+      "descriptionEn": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "counter": 2,
+      "stars": 12428,
+      "firstSeen": "2026-08-04",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "uber/ADR",
+      "url": "https://github.com/uber/ADR",
+      "descriptionZhtw": "ADR 透過可觀測性、安全性基準測試與威脅檢測來保護企業級 AI 代理，已在 Uber 部署。",
+      "descriptionEn": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
+      "counter": 2,
+      "stars": 1063,
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "webpack/webpack",
+      "url": "https://github.com/webpack/webpack",
+      "descriptionZhtw": "功能強大的 JavaScript 模組打包工具，支援程式碼分割與自訂載入器。",
+      "descriptionEn": "A bundler for javascript and friends. Packs many modules into a few bundled assets. Code Splitting allows for loading parts of the application on demand. Through \"loaders\", modules can be CommonJs, AMD, ES6 modules, CSS, Images, JSON, Coffeescript, LESS, ... and your custom stuff.",
+      "counter": 1,
+      "stars": 65941,
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "gabime/spdlog",
+      "url": "https://github.com/gabime/spdlog",
+      "descriptionZhtw": "高效能 C++ 日誌函式庫。",
+      "descriptionEn": "Fast C++ logging library.",
+      "counter": 1,
+      "stars": 29384,
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "angular/angular",
+      "url": "https://github.com/angular/angular",
+      "descriptionZhtw": "Google 開發的現代化網頁應用程式開發框架。",
+      "descriptionEn": "Deliver web apps with confidence 🚀",
+      "counter": 1,
+      "stars": 100839,
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "tailwindlabs/tailwindcss",
+      "url": "https://github.com/tailwindlabs/tailwindcss",
+      "descriptionZhtw": "以公用程式優先的 CSS 框架，用於快速開發 UI。",
+      "descriptionEn": "A utility-first CSS framework for rapid UI development.",
+      "counter": 2,
+      "stars": 96873,
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "EveryInc/compound-engineering-plugin",
+      "url": "https://github.com/EveryInc/compound-engineering-plugin",
+      "descriptionZhtw": "官方 Compound Engineering 插件，支援 Claude Code、Codex 與 Cursor 等工具。",
+      "descriptionEn": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
+      "counter": 1,
+      "stars": 23888,
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    {
+      "name": "cloudflare/computer",
+      "url": "https://github.com/cloudflare/computer",
+      "descriptionZhtw": "給你的 Agent 一台電腦 👾",
+      "descriptionEn": "Give your agent a computer 👾",
+      "counter": 3,
+      "stars": 5771,
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "huangruiteng/loopx",
+      "url": "https://github.com/huangruiteng/loopx",
+      "descriptionZhtw": "輕量級 Agent 狀態循環內核，可跨 Codex、Claude Code 運行，支援持久化目標、配額感知自動喚醒、可執行待辦事項、證據日誌與可驗證移交",
+      "descriptionEn": "Lightweight loop engineering state kernel for long-running AI agent teams. Agent-loop agnostic across Codex, Claude Code, and other coding agents, with durable goals, quota-aware auto-wake, executable todos, evidence logs, and verifiable handoffs.",
+      "counter": 2,
+      "stars": 2901,
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-07"
+    },
+    {
+      "name": "vercel/next.js",
+      "url": "https://github.com/vercel/next.js",
+      "descriptionZhtw": "React 開發框架",
+      "descriptionEn": "The React Framework",
+      "counter": 1,
+      "stars": 141564,
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    {
+      "name": "google/guava",
+      "url": "https://github.com/google/guava",
+      "descriptionZhtw": "",
+      "descriptionEn": "Google core libraries for Java",
+      "counter": 2,
+      "stars": 51765,
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-08"
     },
     {
       "name": "TapXWorld/ChinaTextbook",
@@ -22,6 +2842,16 @@
       "lastSeen": "2026-08-09"
     },
     {
+      "name": "Significant-Gravitas/AutoGPT",
+      "url": "https://github.com/Significant-Gravitas/AutoGPT",
+      "descriptionZhtw": "",
+      "descriptionEn": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+      "counter": 2,
+      "stars": 186338,
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-08"
+    },
+    {
       "name": "PrimeIntellect-ai/prime-agent",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "descriptionZhtw": "用於程式碼工作流與長時間自動化任務的自改進 RLM Agent。",
@@ -32,6 +2862,26 @@
       "lastSeen": "2026-08-12"
     },
     {
+      "name": "666ghj/MiroFish",
+      "url": "https://github.com/666ghj/MiroFish",
+      "descriptionZhtw": "",
+      "descriptionEn": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "counter": 1,
+      "stars": 70519,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    {
+      "name": "unclebob/swarm-forge",
+      "url": "https://github.com/unclebob/swarm-forge",
+      "descriptionZhtw": "",
+      "descriptionEn": "A simple tool for coordinating several AI agents.",
+      "counter": 1,
+      "stars": 1838,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    {
       "name": "denoland/celld",
       "url": "https://github.com/denoland/celld",
       "descriptionZhtw": "自架的分散式 Durable Objects 系統。",
@@ -40,6 +2890,16 @@
       "stars": 2592,
       "firstSeen": "2026-08-08",
       "lastSeen": "2026-08-09"
+    },
+    {
+      "name": "K2SOsint/Legendary_OSINT",
+      "url": "https://github.com/K2SOsint/Legendary_OSINT",
+      "descriptionZhtw": "",
+      "descriptionEn": "A list of OSINT tools & resources for (fraud-)investigators, CTI-analysts, KYC, AML and more.",
+      "counter": 1,
+      "stars": 1450,
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
     },
     {
       "name": "google/skills",
@@ -102,16 +2962,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "name": "ZhuLinsen/daily_stock_analysis",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "descriptionZhtw": "LLM 驅動的多市場股票智慧分析系統：涵蓋多源行情、實時新聞、決策看板與自動推送，支援零成本定時運行。",
-      "counter": 3,
-      "stars": 62170,
-      "firstSeen": "2026-08-09",
-      "lastSeen": "2026-08-12",
-      "descriptionEn": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs."
-    },
-    {
       "name": "Comfy-Org/ComfyUI",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "descriptionZhtw": "功能最強大且模組化的擴散模型 GUI、API 與後端，具備節點式圖形操作介面。",
@@ -162,16 +3012,6 @@
       "lastSeen": "2026-08-11"
     },
     {
-      "name": "firecrawl/firecrawl",
-      "url": "https://github.com/firecrawl/firecrawl",
-      "descriptionZhtw": "大規模網頁搜尋、爬取與互動的上下文 API。",
-      "descriptionEn": "The context API to search, scrape, and interact with the web at scale. 🔥",
-      "counter": 1,
-      "stars": 165128,
-      "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-11"
-    },
-    {
       "name": "opa334/Dopamine",
       "url": "https://github.com/opa334/Dopamine",
       "descriptionZhtw": "針對 iOS 15 至 26(.0.1) 的半隔離越獄工具。",
@@ -180,16 +3020,6 @@
       "stars": 6043,
       "firstSeen": "2026-08-11",
       "lastSeen": "2026-08-11"
-    },
-    {
-      "name": "nvm-sh/nvm",
-      "url": "https://github.com/nvm-sh/nvm",
-      "descriptionZhtw": "節點版本管理工具，用於管理多個活動的 node.js 版本。",
-      "descriptionEn": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions",
-      "counter": 1,
-      "stars": 94493,
-      "firstSeen": "2026-08-12",
-      "lastSeen": "2026-08-12"
     },
     {
       "name": "anthropics/skills",
@@ -208,26 +3038,6 @@
       "descriptionEn": "Animation engine for explanatory math videos",
       "counter": 1,
       "stars": 90203,
-      "firstSeen": "2026-08-12",
-      "lastSeen": "2026-08-12"
-    },
-    {
-      "name": "HKUDS/DeepTutor",
-      "url": "https://github.com/HKUDS/DeepTutor",
-      "descriptionZhtw": "DeepTutor：終身個人化導師教學系統。",
-      "descriptionEn": "DeepTutor: Lifelong Personalized Tutoring. https://deeptutor.info/.",
-      "counter": 1,
-      "stars": 34767,
-      "firstSeen": "2026-08-12",
-      "lastSeen": "2026-08-12"
-    },
-    {
-      "name": "stablyai/orca",
-      "url": "https://github.com/stablyai/orca",
-      "descriptionZhtw": "Orca 是用於管理多個並行 AI Agent 的協作平台，支援桌面、行動裝置與 VPS。",
-      "descriptionEn": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "counter": 1,
-      "stars": 42840,
       "firstSeen": "2026-08-12",
       "lastSeen": "2026-08-12"
     },
