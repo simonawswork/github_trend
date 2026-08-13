@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-12T02:00:12.058Z",
+  "lastUpdate": "2026-08-13T02:00:13.766Z",
   "repos": [
     {
       "name": "chenyme/grok2api",
@@ -496,10 +496,10 @@
       "url": "https://github.com/Lightricks/LTX-2",
       "descriptionZhtw": "LTX-2 音訊－影片生成模型的官方 Python 推論與 LoRA 訓練套件",
       "descriptionEn": "Official Python inference and LoRA trainer package for the LTX-2 audio–video generative model.",
-      "counter": 2,
-      "stars": 7678,
+      "counter": 3,
+      "stars": 8723,
       "firstSeen": "2026-06-19",
-      "lastSeen": "2026-06-20"
+      "lastSeen": "2026-08-13"
     },
     {
       "name": "aishwaryanr/awesome-generative-ai-guide",
@@ -596,10 +596,10 @@
       "url": "https://github.com/smicallef/spiderfoot",
       "descriptionZhtw": "SpiderFoot 自動化 OSINT 工具，用於威脅情報收集與攻擊面掃描",
       "descriptionEn": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "counter": 1,
-      "stars": 18781,
+      "counter": 2,
+      "stars": 20361,
       "firstSeen": "2026-06-22",
-      "lastSeen": "2026-06-22"
+      "lastSeen": "2026-08-13"
     },
     {
       "name": "byyoungd/English-level-up-tips",
@@ -736,10 +736,10 @@
       "url": "https://github.com/stablyai/orca",
       "descriptionZhtw": "Orca 是用於管理多個並行 AI Agent 的協作平台，支援桌面、行動裝置與 VPS。",
       "descriptionEn": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
-      "counter": 1,
-      "stars": 42840,
+      "counter": 2,
+      "stars": 43948,
       "firstSeen": "2026-08-12",
-      "lastSeen": "2026-08-12"
+      "lastSeen": "2026-08-13"
     },
     {
       "name": "google-labs-code/design.md",
@@ -895,11 +895,11 @@
       "name": "hugohe3/ppt-master",
       "url": "https://github.com/hugohe3/ppt-master",
       "descriptionZhtw": "AI 從任意文件生成可編輯的真實 PowerPoint，支援原生形狀與動畫、語音旁白講者備註，以及套用自訂 .pptx 模板",
-      "descriptionEn": "AI generates a real, editable PowerPoint from any document — native shapes & animations, speaker notes voiced as audio narration, and the option to follow your own .pptx template, not slide images · by Hugo He",
-      "counter": 1,
-      "stars": 33105,
+      "descriptionEn": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "counter": 2,
+      "stars": 45646,
       "firstSeen": "2026-06-28",
-      "lastSeen": "2026-06-28"
+      "lastSeen": "2026-08-13"
     },
     {
       "name": "Anil-matcha/Open-Generative-AI",
@@ -2506,10 +2506,10 @@
       "descriptionZhtw": "金融市場語言的基礎模型",
       "url": "https://github.com/shiyu-coder/Kronos",
       "descriptionEn": "Kronos: A Foundation Model for the Language of Financial Markets",
-      "counter": 2,
-      "stars": 35832,
+      "counter": 3,
+      "stars": 36949,
       "firstSeen": "2026-07-28",
-      "lastSeen": "2026-08-04"
+      "lastSeen": "2026-08-13"
     },
     {
       "name": "apache/cassandra",
@@ -2996,10 +2996,10 @@
       "url": "https://github.com/paperclipai/paperclip",
       "descriptionZhtw": "一款用於管理工作中 AI Agent 的開源應用程式。",
       "descriptionEn": "The open-source app everyone uses to manage agents at work",
-      "counter": 2,
-      "stars": 77196,
+      "counter": 3,
+      "stars": 77755,
       "firstSeen": "2026-08-11",
-      "lastSeen": "2026-08-12"
+      "lastSeen": "2026-08-13"
     },
     {
       "name": "ruvnet/RuView",
@@ -3060,6 +3060,86 @@
       "stars": 278481,
       "firstSeen": "2026-08-12",
       "lastSeen": "2026-08-12"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "descriptionZhtw": "",
+      "descriptionEn": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
+      "counter": 1,
+      "stars": 10678,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    {
+      "name": "macro-inc/macro",
+      "url": "https://github.com/macro-inc/macro",
+      "descriptionZhtw": "",
+      "descriptionEn": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
+      "counter": 1,
+      "stars": 1874,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    {
+      "name": "infiniflow/ragflow",
+      "url": "https://github.com/infiniflow/ragflow",
+      "descriptionZhtw": "",
+      "descriptionEn": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
+      "counter": 1,
+      "stars": 87573,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    {
+      "name": "NVIDIA-NeMo/Switchyard",
+      "url": "https://github.com/NVIDIA-NeMo/Switchyard",
+      "descriptionZhtw": "",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 849,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "descriptionZhtw": "",
+      "descriptionEn": "人人都能用英语",
+      "counter": 1,
+      "stars": 36116,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    {
+      "name": "localsend/localsend",
+      "url": "https://github.com/localsend/localsend",
+      "descriptionZhtw": "",
+      "descriptionEn": "An open-source cross-platform alternative to AirDrop",
+      "counter": 1,
+      "stars": 87840,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    {
+      "name": "embabel/embabel-agent",
+      "url": "https://github.com/embabel/embabel-agent",
+      "descriptionZhtw": "",
+      "descriptionEn": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "counter": 1,
+      "stars": 4232,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "descriptionZhtw": "",
+      "descriptionEn": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "counter": 1,
+      "stars": 4267,
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
     }
   ]
 }
