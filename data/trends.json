@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-14T02:00:12.685Z",
+  "lastUpdate": "2026-08-15T02:00:12.176Z",
   "repos": [
     {
       "name": "chenyme/grok2api",
@@ -596,10 +596,10 @@
       "url": "https://github.com/smicallef/spiderfoot",
       "descriptionZhtw": "SpiderFoot 自動化 OSINT 工具，用於威脅情報收集與攻擊面掃描",
       "descriptionEn": "SpiderFoot automates OSINT for threat intelligence and mapping your attack surface.",
-      "counter": 3,
-      "stars": 20683,
+      "counter": 4,
+      "stars": 20954,
       "firstSeen": "2026-06-22",
-      "lastSeen": "2026-08-14"
+      "lastSeen": "2026-08-15"
     },
     {
       "name": "byyoungd/English-level-up-tips",
@@ -2136,10 +2136,10 @@
       "url": "https://github.com/github/spec-kit",
       "descriptionZhtw": "協助你開始進行規格驅動開發（Spec-Driven Development）的工具包。",
       "descriptionEn": "💫 Toolkit to help you get started with Spec-Driven Development",
-      "counter": 1,
-      "stars": 120639,
+      "counter": 2,
+      "stars": 128539,
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-14"
+      "lastSeen": "2026-08-15"
     },
     {
       "name": "AIEraDev/Clypra",
@@ -3066,30 +3066,30 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "descriptionZhtw": "",
       "descriptionEn": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
-      "counter": 2,
-      "stars": 14713,
+      "counter": 3,
+      "stars": 17312,
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-14"
+      "lastSeen": "2026-08-15"
     },
     {
       "name": "macro-inc/macro",
       "url": "https://github.com/macro-inc/macro",
       "descriptionZhtw": "",
       "descriptionEn": "Macro is a unified workspace for teams: email, chat, docs, tasks, agents, calls, and CRM — @-linked together with shared AI memory.",
-      "counter": 2,
-      "stars": 2622,
+      "counter": 3,
+      "stars": 3042,
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-14"
+      "lastSeen": "2026-08-15"
     },
     {
       "name": "infiniflow/ragflow",
       "url": "https://github.com/infiniflow/ragflow",
       "descriptionZhtw": "",
       "descriptionEn": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
-      "counter": 2,
-      "stars": 88049,
+      "counter": 3,
+      "stars": 88395,
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-14"
+      "lastSeen": "2026-08-15"
     },
     {
       "name": "NVIDIA-NeMo/Switchyard",
@@ -3136,30 +3136,60 @@
       "url": "https://github.com/cactus-compute/needle",
       "descriptionZhtw": "",
       "descriptionEn": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
-      "counter": 2,
-      "stars": 4983,
+      "counter": 3,
+      "stars": 5628,
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-14"
+      "lastSeen": "2026-08-15"
     },
     {
       "name": "megadose/holehe",
       "url": "https://github.com/megadose/holehe",
       "descriptionZhtw": "",
       "descriptionEn": "holehe allows you to check if the mail is used on different sites like twitter, instagram and will retrieve information on sites with the forgotten password function.",
-      "counter": 1,
-      "stars": 12445,
+      "counter": 2,
+      "stars": 12860,
       "firstSeen": "2026-08-14",
-      "lastSeen": "2026-08-14"
+      "lastSeen": "2026-08-15"
     },
     {
       "name": "holaboss-ai/holaOS",
       "url": "https://github.com/holaboss-ai/holaOS",
       "descriptionZhtw": "",
       "descriptionEn": "Open-source All in One AI agent workspace. Run any agent — Claude Code, Codex — across your tools (100+ integrations + MCP), apps, browser, and files, with shared memory. Built-in models or BYOK.",
-      "counter": 1,
-      "stars": 6642,
+      "counter": 2,
+      "stars": 7313,
       "firstSeen": "2026-08-14",
-      "lastSeen": "2026-08-14"
+      "lastSeen": "2026-08-15"
+    },
+    {
+      "name": "citrolabs/ego-lite",
+      "url": "https://github.com/citrolabs/ego-lite",
+      "descriptionZhtw": "",
+      "descriptionEn": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
+      "counter": 1,
+      "stars": 10385,
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "descriptionZhtw": "",
+      "descriptionEn": "Cursor plugin specification and official plugins",
+      "counter": 1,
+      "stars": 2814,
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    {
+      "name": "deepseek-ai/awesome-deepseek-agent",
+      "url": "https://github.com/deepseek-ai/awesome-deepseek-agent",
+      "descriptionZhtw": "",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 5720,
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
     }
   ]
 }
