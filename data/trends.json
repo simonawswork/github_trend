@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-18T02:00:09.682Z",
+  "lastUpdate": "2026-08-19T02:00:10.536Z",
   "repos": [
     {
       "name": "chenyme/grok2api",
@@ -9,7 +9,7 @@
       "counter": 2,
       "stars": 7145,
       "firstSeen": "2026-07-15",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -19,7 +19,7 @@
       "counter": 12,
       "stars": 86243,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
@@ -29,7 +29,7 @@
       "counter": 8,
       "stars": 16458,
       "firstSeen": "2026-07-09",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "roboflow/supervision",
@@ -39,7 +39,7 @@
       "counter": 2,
       "stars": 48940,
       "firstSeen": "2027-07-01",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "browser-use/video-use",
@@ -49,7 +49,7 @@
       "counter": 6,
       "stars": 19357,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "cypress-io/cypress",
@@ -59,7 +59,7 @@
       "counter": 4,
       "stars": 50803,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -69,7 +69,7 @@
       "counter": 6,
       "stars": 65764,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "jamiepine/voicebox",
@@ -79,7 +79,7 @@
       "counter": 7,
       "stars": 48716,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "microsoft/AI-For-Beginners",
@@ -89,7 +89,7 @@
       "counter": 7,
       "stars": 60810,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -99,7 +99,7 @@
       "counter": 6,
       "stars": 56897,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-08-16"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -1676,10 +1676,10 @@
       "url": "https://github.com/public-apis/public-apis",
       "descriptionZhtw": "用於軟體與網頁開發的免費 API 集體清單",
       "descriptionEn": "A collective list of free APIs",
-      "counter": 4,
-      "stars": 461856,
+      "counter": 5,
+      "stars": 464631,
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-08-17"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "EbookFoundation/free-programming-books",
@@ -3226,50 +3226,90 @@
       "url": "https://github.com/basecamp/omarchy",
       "descriptionZhtw": "",
       "descriptionEn": "Beautiful, Modern & Opinionated Linux",
-      "counter": 1,
-      "stars": 25431,
+      "counter": 2,
+      "stars": 26452,
       "firstSeen": "2026-08-17",
-      "lastSeen": "2026-08-17"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "harry0703/MoneyPrinterTurbo",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "descriptionZhtw": "",
       "descriptionEn": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "counter": 1,
-      "stars": 106190,
+      "counter": 2,
+      "stars": 108656,
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "akitaonrails/ai-memory",
       "url": "https://github.com/akitaonrails/ai-memory",
       "descriptionZhtw": "",
       "descriptionEn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "counter": 1,
-      "stars": 2120,
+      "counter": 2,
+      "stars": 2763,
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "descriptionZhtw": "",
-      "descriptionEn": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "counter": 1,
-      "stars": 19013,
+      "descriptionEn": "LLM inference server with continuous batching & SSD caching for Apple Silicon �� managed from the macOS menu bar",
+      "counter": 2,
+      "stars": 19428,
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
     },
     {
       "name": "agalwood/Motrix",
       "url": "https://github.com/agalwood/Motrix",
       "descriptionZhtw": "",
       "descriptionEn": "A full-featured download manager.",
-      "counter": 1,
-      "stars": 53122,
+      "counter": 2,
+      "stars": 53710,
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-19"
+    },
+    {
+      "name": "chaitanyagiri/munder-difflin",
+      "url": "https://github.com/chaitanyagiri/munder-difflin",
+      "descriptionZhtw": "",
+      "descriptionEn": "local multi-agent harness",
+      "counter": 1,
+      "stars": 2081,
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    {
+      "name": "volcengine/OpenViking",
+      "url": "https://github.com/volcengine/OpenViking",
+      "descriptionZhtw": "",
+      "descriptionEn": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
+      "counter": 1,
+      "stars": 29447,
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    {
+      "name": "NawfalMotii79/PLFM_RADAR",
+      "url": "https://github.com/NawfalMotii79/PLFM_RADAR",
+      "descriptionZhtw": "",
+      "descriptionEn": "Open-source, low-cost 10.5 GHz PLFM phased array RADAR system",
+      "counter": 1,
+      "stars": 24332,
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    {
+      "name": "genlayerlabs/genlayer-project-boilerplate",
+      "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
+      "descriptionZhtw": "",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 15975,
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
     }
   ]
 }
