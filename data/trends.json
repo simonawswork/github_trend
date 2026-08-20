@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-19T02:00:10.536Z",
+  "lastUpdate": "2026-08-20T02:00:09.963Z",
   "repos": [
     {
       "name": "chenyme/grok2api",
@@ -396,10 +396,10 @@
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "descriptionZhtw": "生產級 Rust 原生交易引擎，採用確定性事件驅動架構",
       "descriptionEn": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
-      "counter": 2,
-      "stars": 25961,
+      "counter": 3,
+      "stars": 26459,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-20"
     },
     {
       "name": "calesthio/OpenMontage",
@@ -1246,10 +1246,10 @@
       "url": "https://github.com/immich-app/immich",
       "descriptionZhtw": "高效能自架照片與影片管理解決方案",
       "descriptionEn": "High performance self-hosted photo and video management solution.",
-      "counter": 3,
-      "stars": 111200,
+      "counter": 4,
+      "stars": 111895,
       "firstSeen": "2026-07-05",
-      "lastSeen": "2026-08-18"
+      "lastSeen": "2026-08-20"
     },
     {
       "name": "chthollyphile/folia-major",
@@ -3236,10 +3236,10 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "descriptionZhtw": "",
       "descriptionEn": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "counter": 2,
-      "stars": 108656,
+      "counter": 3,
+      "stars": 110850,
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
       "name": "akitaonrails/ai-memory",
@@ -3255,11 +3255,11 @@
       "name": "jundot/omlx",
       "url": "https://github.com/jundot/omlx",
       "descriptionZhtw": "",
-      "descriptionEn": "LLM inference server with continuous batching & SSD caching for Apple Silicon �� managed from the macOS menu bar",
-      "counter": 2,
-      "stars": 19428,
+      "descriptionEn": "LLM inference server with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar",
+      "counter": 3,
+      "stars": 19853,
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
       "name": "agalwood/Motrix",
@@ -3276,20 +3276,20 @@
       "url": "https://github.com/chaitanyagiri/munder-difflin",
       "descriptionZhtw": "",
       "descriptionEn": "local multi-agent harness",
-      "counter": 1,
-      "stars": 2081,
+      "counter": 2,
+      "stars": 2717,
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
       "name": "volcengine/OpenViking",
       "url": "https://github.com/volcengine/OpenViking",
       "descriptionZhtw": "",
       "descriptionEn": "Self-evolving Context Database for AI Agents. Unify Agent Memory, Knowledge RAG and Skills.",
-      "counter": 1,
-      "stars": 29447,
+      "counter": 2,
+      "stars": 30252,
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
     },
     {
       "name": "NawfalMotii79/PLFM_RADAR",
@@ -3306,10 +3306,20 @@
       "url": "https://github.com/genlayerlabs/genlayer-project-boilerplate",
       "descriptionZhtw": "",
       "descriptionEn": "",
-      "counter": 1,
-      "stars": 15975,
+      "counter": 2,
+      "stars": 16226,
       "firstSeen": "2026-08-19",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-20"
+    },
+    {
+      "name": "amadeusprotocol/node",
+      "url": "https://github.com/amadeusprotocol/node",
+      "descriptionZhtw": "",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 4576,
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
     }
   ]
 }
