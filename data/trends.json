@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-21T02:00:11.654Z",
+  "lastUpdate": "2026-08-22T02:00:09.838Z",
   "repos": [
     {
       "name": "chenyme/grok2api",
@@ -9,7 +9,7 @@
       "counter": 2,
       "stars": 7145,
       "firstSeen": "2026-07-15",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -19,7 +19,7 @@
       "counter": 12,
       "stars": 86243,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "TencentCloud/TencentDB-Agent-Memory",
@@ -29,7 +29,7 @@
       "counter": 8,
       "stars": 16458,
       "firstSeen": "2026-07-09",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "roboflow/supervision",
@@ -39,7 +39,7 @@
       "counter": 2,
       "stars": 48940,
       "firstSeen": "2027-07-01",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "browser-use/video-use",
@@ -49,7 +49,7 @@
       "counter": 6,
       "stars": 19357,
       "firstSeen": "2026-06-29",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "cypress-io/cypress",
@@ -59,7 +59,7 @@
       "counter": 4,
       "stars": 50803,
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "Panniantong/Agent-Reach",
@@ -69,7 +69,7 @@
       "counter": 6,
       "stars": 65764,
       "firstSeen": "2026-06-15",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "jamiepine/voicebox",
@@ -79,7 +79,7 @@
       "counter": 7,
       "stars": 48716,
       "firstSeen": "2026-06-21",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "microsoft/AI-For-Beginners",
@@ -89,7 +89,7 @@
       "counter": 7,
       "stars": 60810,
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "mvanhorn/last30days-skill",
@@ -99,7 +99,7 @@
       "counter": 6,
       "stars": 56897,
       "firstSeen": "2026-07-07",
-      "lastSeen": "2026-08-19"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -1426,10 +1426,10 @@
       "url": "https://github.com/microsoft/TypeScript",
       "descriptionZhtw": "TypeScript 是 JavaScript 的超集，可編譯成純 JavaScript 程式碼",
       "descriptionEn": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "counter": 1,
-      "stars": 109781,
+      "counter": 2,
+      "stars": 110386,
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "catchorg/Catch2",
@@ -2196,10 +2196,10 @@
       "url": "https://github.com/PostHog/posthog",
       "descriptionZhtw": "PostHog：構建自動化產品的領先平台，提供 AI 可觀測性、分析、Session 回放、Feature Flags、實驗、錯誤追蹤與日誌等工具，為 Agent 診斷問題與發布修復提供所需背景",
       "descriptionEn": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "counter": 5,
-      "stars": 38019,
+      "counter": 6,
+      "stars": 38303,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-08-21"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -2256,10 +2256,10 @@
       "url": "https://github.com/protocolbuffers/protobuf",
       "descriptionZhtw": "Google 的數據交換格式，高效且語言無關的序列化機制",
       "descriptionEn": "Protocol Buffers - Google's data interchange format",
-      "counter": 1,
-      "stars": 71542,
+      "counter": 2,
+      "stars": 71773,
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-18"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "docusealco/docuseal",
@@ -3176,10 +3176,10 @@
       "url": "https://github.com/cursor/plugins",
       "descriptionZhtw": "",
       "descriptionEn": "Cursor plugin specification and official plugins",
-      "counter": 3,
-      "stars": 4102,
+      "counter": 4,
+      "stars": 4418,
       "firstSeen": "2026-08-15",
-      "lastSeen": "2026-08-21"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "deepseek-ai/awesome-deepseek-agent",
@@ -3236,10 +3236,10 @@
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "descriptionZhtw": "",
       "descriptionEn": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
-      "counter": 4,
-      "stars": 113015,
+      "counter": 5,
+      "stars": 113960,
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-21"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "akitaonrails/ai-memory",
@@ -3326,10 +3326,10 @@
       "url": "https://github.com/modular/modular",
       "descriptionZhtw": "",
       "descriptionEn": "The Modular Platform (includes MAX & Mojo)",
-      "counter": 1,
-      "stars": 27986,
+      "counter": 2,
+      "stars": 28696,
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-21"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "agent-substrate/substrate",
@@ -3346,10 +3346,10 @@
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "descriptionZhtw": "",
       "descriptionEn": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "counter": 1,
-      "stars": 1615,
+      "counter": 2,
+      "stars": 2241,
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-21"
+      "lastSeen": "2026-08-22"
     },
     {
       "name": "Tencent/AI-Infra-Guard",
@@ -3360,6 +3360,46 @@
       "stars": 4997,
       "firstSeen": "2026-08-21",
       "lastSeen": "2026-08-21"
+    },
+    {
+      "name": "ruvnet/ruflo",
+      "url": "https://github.com/ruvnet/ruflo",
+      "descriptionZhtw": "",
+      "descriptionEn": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
+      "counter": 1,
+      "stars": 68661,
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    {
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "descriptionZhtw": "",
+      "descriptionEn": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "counter": 1,
+      "stars": 2034,
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    {
+      "name": "elder-plinius/OBLITERATUS",
+      "url": "https://github.com/elder-plinius/OBLITERATUS",
+      "descriptionZhtw": "",
+      "descriptionEn": "OBLITERATE THE CHAINS THAT BIND YOU",
+      "counter": 1,
+      "stars": 7802,
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    {
+      "name": "microsoft/onnxruntime",
+      "url": "https://github.com/microsoft/onnxruntime",
+      "descriptionZhtw": "",
+      "descriptionEn": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
+      "counter": 1,
+      "stars": 21466,
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
     }
   ]
 }
