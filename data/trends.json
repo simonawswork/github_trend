@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-22T02:00:09.838Z",
+  "lastUpdate": "2026-08-23T02:00:12.545Z",
   "repos": [
     {
       "name": "chenyme/grok2api",
@@ -426,10 +426,10 @@
       "url": "https://github.com/makeplane/plane",
       "descriptionZhtw": "🔥 開源的 Jira、Linear、Monday、ClickUp 替代方案，現代化專案管理平台，支援任務、Sprint、文件與問題分類管理",
       "descriptionEn": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
-      "counter": 3,
-      "stars": 56530,
+      "counter": 4,
+      "stars": 57240,
       "firstSeen": "2026-06-18",
-      "lastSeen": "2026-08-21"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "zai-org/GLM-5",
@@ -866,10 +866,10 @@
       "url": "https://github.com/ripienaar/free-for-dev",
       "descriptionZhtw": "精選對 DevOps 與基礎設施開發者有用的 SaaS、PaaS、IaaS 免費方案清單",
       "descriptionEn": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
-      "counter": 5,
-      "stars": 127342,
+      "counter": 6,
+      "stars": 133930,
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "alchaincyf/zhangxuefeng-skill",
@@ -1226,10 +1226,10 @@
       "url": "https://github.com/anthropics/claude-code",
       "descriptionZhtw": "Claude Code 是一款終端機原生 Agentic 程式碼助手，可理解程式庫並透過自然語言處理 daily 任務、解釋程式碼與管理 Git 工作流",
       "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "counter": 2,
-      "stars": 136318,
+      "counter": 3,
+      "stars": 142554,
       "firstSeen": "2026-07-04",
-      "lastSeen": "2026-07-06"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "dotnet/skills",
@@ -1426,10 +1426,10 @@
       "url": "https://github.com/microsoft/TypeScript",
       "descriptionZhtw": "TypeScript 是 JavaScript 的超集，可編譯成純 JavaScript 程式碼",
       "descriptionEn": "TypeScript is a superset of JavaScript that compiles to clean JavaScript output.",
-      "counter": 2,
-      "stars": 110386,
+      "counter": 3,
+      "stars": 110545,
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "catchorg/Catch2",
@@ -2196,10 +2196,10 @@
       "url": "https://github.com/PostHog/posthog",
       "descriptionZhtw": "PostHog：構建自動化產品的領先平台，提供 AI 可觀測性、分析、Session 回放、Feature Flags、實驗、錯誤追蹤與日誌等工具，為 Agent 診斷問題與發布修復提供所需背景",
       "descriptionEn": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
-      "counter": 6,
-      "stars": 38303,
+      "counter": 7,
+      "stars": 38625,
       "firstSeen": "2026-07-17",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "PrismML-Eng/Bonsai-demo",
@@ -3176,10 +3176,10 @@
       "url": "https://github.com/cursor/plugins",
       "descriptionZhtw": "",
       "descriptionEn": "Cursor plugin specification and official plugins",
-      "counter": 4,
-      "stars": 4418,
+      "counter": 5,
+      "stars": 4677,
       "firstSeen": "2026-08-15",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "deepseek-ai/awesome-deepseek-agent",
@@ -3326,10 +3326,10 @@
       "url": "https://github.com/modular/modular",
       "descriptionZhtw": "",
       "descriptionEn": "The Modular Platform (includes MAX & Mojo)",
-      "counter": 2,
-      "stars": 28696,
+      "counter": 3,
+      "stars": 28852,
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "agent-substrate/substrate",
@@ -3346,20 +3346,20 @@
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "descriptionZhtw": "",
       "descriptionEn": "Visualize your year in travel using your Google Location History (Timeline) data",
-      "counter": 2,
-      "stars": 2241,
+      "counter": 3,
+      "stars": 2574,
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-22"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "Tencent/AI-Infra-Guard",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "descriptionZhtw": "",
       "descriptionEn": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
-      "counter": 1,
-      "stars": 4997,
+      "counter": 2,
+      "stars": 5513,
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-21"
+      "lastSeen": "2026-08-23"
     },
     {
       "name": "ruvnet/ruflo",
@@ -3400,6 +3400,46 @@
       "stars": 21466,
       "firstSeen": "2026-08-22",
       "lastSeen": "2026-08-22"
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "descriptionZhtw": "",
+      "descriptionEn": "Lightweight coding agent that runs in your terminal",
+      "counter": 1,
+      "stars": 113502,
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23"
+    },
+    {
+      "name": "Wei-Shaw/sub2api",
+      "url": "https://github.com/Wei-Shaw/sub2api",
+      "descriptionZhtw": "",
+      "descriptionEn": "Sub2API 一站式开源中转服务，让 Claude、Openai 、Gemini、Grok订阅统一接入，支持拼车共享，更高效分摊成本，原生工具无缝使用。",
+      "counter": 1,
+      "stars": 38803,
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23"
+    },
+    {
+      "name": "n8n-io/n8n",
+      "url": "https://github.com/n8n-io/n8n",
+      "descriptionZhtw": "",
+      "descriptionEn": "Fair-code workflow automation platform with native AI capabilities. Combine visual building with custom code, self-host or cloud, 400+ integrations.",
+      "counter": 1,
+      "stars": 201838,
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "descriptionZhtw": "",
+      "descriptionEn": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "counter": 1,
+      "stars": 205329,
+      "firstSeen": "2026-08-23",
+      "lastSeen": "2026-08-23"
     }
   ]
 }
