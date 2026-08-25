@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2026-08-24T02:00:13.255Z",
+  "lastUpdate": "2026-08-25T02:00:11.839Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "descriptionZhtw": "與你一同成長的 AI Agent",
       "descriptionEn": "The agent that grows with you",
-      "counter": 3,
-      "stars": 235030,
+      "counter": 4,
+      "stars": 235845,
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-08-24"
+      "lastSeen": "2026-08-25"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -20,6 +20,126 @@
       "stars": 134459,
       "firstSeen": "2026-06-27",
       "lastSeen": "2026-08-24"
+    },
+    {
+      "name": "Alishahryar1/free-claude-code",
+      "url": "https://github.com/Alishahryar1/free-claude-code",
+      "descriptionZhtw": "使用 Claude Code、Codex、Pi 與 OpenCode 免費進行開發（提供 13 億以上免費 Token），支援終端機、App、IDE 或手機使用（支援語音 + 符合服務條款）。",
+      "descriptionEn": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
+      "counter": 1,
+      "stars": 49037,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "openai/codex",
+      "url": "https://github.com/openai/codex",
+      "descriptionZhtw": "輕量級的程式開發代理，直接在你的終端機中運行。",
+      "descriptionEn": "Lightweight coding agent that runs in your terminal",
+      "counter": 1,
+      "stars": 117136,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "multica-ai/andrej-karpathy-skills",
+      "url": "https://github.com/multica-ai/andrej-karpathy-skills",
+      "descriptionZhtw": "一個用於優化 Claude Code 行為的單一 CLAUDE.md 檔案，源自 Andrej Karpathy 對 LLM 程式設計陷阱的觀察。",
+      "descriptionEn": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "counter": 1,
+      "stars": 206564,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "makeplane/plane",
+      "url": "https://github.com/makeplane/plane",
+      "descriptionZhtw": "🔥 開源的 Jira、Linear、Monday 和 ClickUp 替代方案。Plane 是一個現代化的專案管理平台，用於管理任務、Sprint、文件與分類。",
+      "descriptionEn": "🔥🔥🔥 Open-source Jira, Linear, Monday, and ClickUp alternative. Plane is a modern project management platform to manage tasks, sprints, docs, and triage.",
+      "counter": 1,
+      "stars": 57963,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "anthropics/claude-plugins-community",
+      "url": "https://github.com/anthropics/claude-plugins-community",
+      "descriptionZhtw": "Claude Cowork 與 Claude Code 的社群插件市集。唯讀鏡像，請至 clau.de/plugin-directory-submission 提交插件。",
+      "descriptionEn": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
+      "counter": 1,
+      "stars": 1375,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "apache/maka",
+      "url": "https://github.com/apache/maka",
+      "descriptionZhtw": "Apache Maka (孵化中) 是一個「本地優先」的 AI 代理工作空間。訊息、工具調用、工具結果、權限決策與終止事件都被記錄為一個僅供附加的日誌。",
+      "descriptionEn": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
+      "counter": 1,
+      "stars": 2935,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "PostHog/posthog",
+      "url": "https://github.com/PostHog/posthog",
+      "descriptionZhtw": "🦔 PostHog 是開發自動駕駛產品的領先平台。其開發者工具（AI 可觀測性、分析、會話重播、實驗等）捕獲代理所需的上下文，以診斷問題、發現機會並推送修復。可透過 Slack、Web、桌面或 MCP 進行操作。",
+      "descriptionEn": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
+      "counter": 1,
+      "stars": 39010,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "AgriciDaniel/claude-obsidian",
+      "url": "https://github.com/AgriciDaniel/claude-obsidian",
+      "descriptionZhtw": "適用於 Obsidian + Claude Code 的自我組織 AI 第二大腦。丟入任何資源，Claude 就會讀取、連結並將其歸檔進一個你自己擁有的 Markdown 連接知識圖譜中。基於 Karpathy 的 LLM Wiki 模式。",
+      "descriptionEn": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
+      "counter": 1,
+      "stars": 11943,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "basecamp/omarchy",
+      "url": "https://github.com/basecamp/omarchy",
+      "descriptionZhtw": "美麗、現代且帶有獨特風格的 Linux。",
+      "descriptionEn": "Beautiful, Modern & Opinionated Linux",
+      "counter": 1,
+      "stars": 30207,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "tashfeenahmed/freellmapi",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "descriptionZhtw": "每月 74 億 Token。包含 34 個免費 LLM 提供商、635 個免費模型端點。全部整合在一個 /v1 端點下，並支援任何自定義 OpenAI 相容端點。具備智慧路由、自動故障轉移與加密金鑰功能，僅供個人實驗使用。",
+      "descriptionEn": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "counter": 1,
+      "stars": 19810,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "descriptionZhtw": "提示詞即程式碼 | GPT-Image2 工業級提示詞引擎與模板庫，包含 530+ 個案例逆向工程、20+ 套工業級模板，並提煉出 Skills，持續更新中。",
+      "descriptionEn": "Prompt as Code | GPT-Image2 工業級提示詞引擎與模板庫，530+ 個案例逆向工程，20+ 套工業級模板，並提煉出Skills，持續更新中",
+      "counter": 1,
+      "stars": 15639,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    {
+      "name": "tinyhumansai/openhuman",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "descriptionZhtw": "你的個人 AI 超級智慧。一個為你的生活建立「本地優先」記憶的大腦，同時是代理艦隊與工作流的絕佳協調者，也是一位深度研究員。",
+      "descriptionEn": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "counter": 1,
+      "stars": 37293,
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
     }
   ]
 }
