@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-25T02:00:11.839Z",
+  "lastUpdate": "2026-08-26T02:00:10.886Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -36,20 +36,20 @@
       "url": "https://github.com/openai/codex",
       "descriptionZhtw": "輕量級的程式開發代理，直接在你的終端機中運行。",
       "descriptionEn": "Lightweight coding agent that runs in your terminal",
-      "counter": 1,
-      "stars": 117136,
+      "counter": 2,
+      "stars": 118161,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
     },
     {
       "name": "multica-ai/andrej-karpathy-skills",
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "descriptionZhtw": "一個用於優化 Claude Code 行為的單一 CLAUDE.md 檔案，源自 Andrej Karpathy 對 LLM 程式設計陷阱的觀察。",
       "descriptionEn": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "counter": 1,
-      "stars": 206564,
+      "counter": 2,
+      "stars": 207247,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
     },
     {
       "name": "makeplane/plane",
@@ -66,20 +66,20 @@
       "url": "https://github.com/anthropics/claude-plugins-community",
       "descriptionZhtw": "Claude Cowork 與 Claude Code 的社群插件市集。唯讀鏡像，請至 clau.de/plugin-directory-submission 提交插件。",
       "descriptionEn": "Community plugin marketplace for Claude Cowork and Claude Code. Read-only mirror — submit plugins at clau.de/plugin-directory-submission.",
-      "counter": 1,
-      "stars": 1375,
+      "counter": 2,
+      "stars": 1787,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
     },
     {
       "name": "apache/maka",
       "url": "https://github.com/apache/maka",
       "descriptionZhtw": "Apache Maka (孵化中) 是一個「本地優先」的 AI 代理工作空間。訊息、工具調用、工具結果、權限決策與終止事件都被記錄為一個僅供附加的日誌。",
       "descriptionEn": "Apache Maka (Incubating) is a local-first AI agent workspace. Model messages, tool calls, tool results, permission decisions, and termination events are recorded as an append-only log.",
-      "counter": 1,
-      "stars": 2935,
+      "counter": 2,
+      "stars": 3366,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
     },
     {
       "name": "PostHog/posthog",
@@ -96,20 +96,20 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "descriptionZhtw": "適用於 Obsidian + Claude Code 的自我組織 AI 第二大腦。丟入任何資源，Claude 就會讀取、連結並將其歸檔進一個你自己擁有的 Markdown 連接知識圖譜中。基於 Karpathy 的 LLM Wiki 模式。",
       "descriptionEn": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "counter": 1,
-      "stars": 11943,
+      "counter": 2,
+      "stars": 12763,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
     },
     {
       "name": "basecamp/omarchy",
       "url": "https://github.com/basecamp/omarchy",
       "descriptionZhtw": "美麗、現代且帶有獨特風格的 Linux。",
       "descriptionEn": "Beautiful, Modern & Opinionated Linux",
-      "counter": 1,
-      "stars": 30207,
+      "counter": 2,
+      "stars": 31321,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
     },
     {
       "name": "tashfeenahmed/freellmapi",
@@ -125,21 +125,61 @@
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "descriptionZhtw": "提示詞即程式碼 | GPT-Image2 工業級提示詞引擎與模板庫，包含 530+ 個案例逆向工程、20+ 套工業級模板，並提煉出 Skills，持續更新中。",
-      "descriptionEn": "Prompt as Code | GPT-Image2 工業級提示詞引擎與模板庫，530+ 個案例逆向工程，20+ 套工業級模板，並提煉出Skills，持續更新中",
-      "counter": 1,
-      "stars": 15639,
+      "descriptionEn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
+      "counter": 2,
+      "stars": 18133,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
     },
     {
       "name": "tinyhumansai/openhuman",
       "url": "https://github.com/tinyhumansai/openhuman",
       "descriptionZhtw": "你的個人 AI 超級智慧。一個為你的生活建立「本地優先」記憶的大腦，同時是代理艦隊與工作流的絕佳協調者，也是一位深度研究員。",
       "descriptionEn": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
-      "counter": 1,
-      "stars": 37293,
+      "counter": 2,
+      "stars": 37798,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-26"
+    },
+    {
+      "name": "TauricResearch/TradingAgents",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "descriptionZhtw": "一個用於金融交易的多智能體 LLM 框架。利用多個專門的 AI 代理進行市場分析、策略制定與執行，旨在優化交易決策過程。",
+      "descriptionEn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "counter": 1,
+      "stars": 100295,
+      "firstSeen": "2026-08-26",
+      "lastSeen": "2026-08-26"
+    },
+    {
+      "name": "Shubhamsaboo/awesome-llm-apps",
+      "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
+      "descriptionZhtw": "精選 100 多個 AI 代理、代理技能 (Agent Skills) 與 RAG 應用程式的開源資源清單，適合開發者快速查找靈感。",
+      "descriptionEn": "100+ AI Agents, Agent Skills and RAG Apps - Free and Open Source.",
+      "counter": 1,
+      "stars": 134250,
+      "firstSeen": "2026-08-26",
+      "lastSeen": "2026-08-26"
+    },
+    {
+      "name": "marin-community/marin",
+      "url": "https://github.com/marin-community/marin",
+      "descriptionZhtw": "一個用於基礎模型 (Foundation Models) 研究與開發的開源框架，旨在降低大規模模型實驗的門檻。",
+      "descriptionEn": "Open-source framework for the research and development of foundation models.",
+      "counter": 1,
+      "stars": 2127,
+      "firstSeen": "2026-08-26",
+      "lastSeen": "2026-08-26"
+    },
+    {
+      "name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "descriptionZhtw": "由 Anthropic 官方管理的高品質 Claude Code 插件目錄，確保插件的安全性與穩定性。",
+      "descriptionEn": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "counter": 1,
+      "stars": 34104,
+      "firstSeen": "2026-08-26",
+      "lastSeen": "2026-08-26"
     }
   ]
 }
