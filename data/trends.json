@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-27T02:00:10.880Z",
+  "lastUpdate": "2026-08-28T02:00:12.835Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -96,10 +96,10 @@
       "url": "https://github.com/AgriciDaniel/claude-obsidian",
       "descriptionZhtw": "適用於 Obsidian + Claude Code 的自我組織 AI 第二大腦。丟入任何資源，Claude 就會讀取、連結並將其歸檔進一個你自己擁有的 Markdown 連接知識圖譜中。基於 Karpathy 的 LLM Wiki 模式。",
       "descriptionEn": "Self-organizing AI second brain for Obsidian + Claude Code. Drop any source and Claude reads, links, and files it into one connected knowledge graph of plain Markdown you own. AI note-taking, personal knowledge management (PKM), and an open-source Notion alternative. Based on Karpathy's LLM Wiki pattern.",
-      "counter": 3,
-      "stars": 13467,
+      "counter": 4,
+      "stars": 14039,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-28"
     },
     {
       "name": "basecamp/omarchy",
@@ -126,10 +126,10 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "descriptionZhtw": "提示詞即程式碼 | GPT-Image2 工業級提示詞引擎與模板庫，包含 530+ 個案例逆向工程、20+ 套工業級模板，並提煉出 Skills，持續更新中。",
       "descriptionEn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "counter": 3,
-      "stars": 21469,
+      "counter": 4,
+      "stars": 23105,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-28"
     },
     {
       "name": "tinyhumansai/openhuman",
@@ -146,10 +146,10 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "descriptionZhtw": "一個用於金融交易的多智能體 LLM 框架。利用多個專門的 AI 代理進行市場分析、策略制定與執行，旨在優化交易決策過程。",
       "descriptionEn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "counter": 1,
-      "stars": 100295,
+      "counter": 2,
+      "stars": 101252,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-26"
+      "lastSeen": "2026-08-28"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -166,40 +166,40 @@
       "url": "https://github.com/marin-community/marin",
       "descriptionZhtw": "一個用於基礎模型 (Foundation Models) 研究與開發的開源框架，旨在降低大規模模型實驗的門檻。",
       "descriptionEn": "Open-source framework for the research and development of foundation models.",
-      "counter": 2,
-      "stars": 2477,
+      "counter": 3,
+      "stars": 2703,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-28"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "descriptionZhtw": "由 Anthropic 官方管理的高品質 Claude Code 插件目錄，確保插件的安全性與穩定性。",
       "descriptionEn": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "counter": 2,
-      "stars": 34372,
+      "counter": 3,
+      "stars": 34704,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-28"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "descriptionZhtw": "用於建立美觀、可驗證的架構、工作流、時序、資料流與生命週期圖表的 Agent 技能，可匯出為內含動態效果的 HTML。",
       "descriptionEn": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "counter": 1,
-      "stars": 18089,
+      "counter": 2,
+      "stars": 23533,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-28"
     },
     {
       "name": "ConardLi/garden-skills",
       "url": "https://github.com/ConardLi/garden-skills",
       "descriptionZhtw": "ConardLi 的開源技能集，涵蓋網頁設計、知識檢索、影像生成等領域。",
       "descriptionEn": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
-      "counter": 1,
-      "stars": 10947,
+      "counter": 2,
+      "stars": 11343,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-28"
     },
     {
       "name": "browser-use/browser-use",
@@ -216,10 +216,60 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "descriptionZhtw": "將任何 AI 代理轉變為 AI 科學家。這是全球 17 萬多名科學家使用的 Agent Skills 庫，包含 163 個經過驗證的科學技能及 100 多個涵蓋生物、化學、醫學與藥物發現的科學資料庫。",
       "descriptionEn": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "counter": 1,
-      "stars": 34753,
+      "counter": 2,
+      "stars": 35344,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-08-28"
+    },
+    {
+      "name": "bilawalsidhu/gods-eye-view",
+      "url": "https://github.com/bilawalsidhu/gods-eye-view",
+      "descriptionZhtw": "在瀏覽器中模擬間諜衛星，使用真實數據。即時開源空間情報，呈現於照片級真實的 3D 地球上。",
+      "descriptionEn": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
+      "counter": 1,
+      "stars": 8243,
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    {
+      "name": "JetBrains/go-modern-guidelines",
+      "url": "https://github.com/JetBrains/go-modern-guidelines",
+      "descriptionZhtw": "幫助 AI 程式開發代理編寫現代化的 Go 語言程式碼。",
+      "descriptionEn": "Help AI coding agents write modern Go",
+      "counter": 1,
+      "stars": 2130,
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    {
+      "name": "google/googletest",
+      "url": "https://github.com/google/googletest",
+      "descriptionZhtw": "Google 的 C++ 測試與模擬框架。",
+      "descriptionEn": "GoogleTest - Google Testing and Mocking Framework",
+      "counter": 1,
+      "stars": 39050,
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    {
+      "name": "ComposioHQ/awesome-claude-skills",
+      "url": "https://github.com/ComposioHQ/awesome-claude-skills",
+      "descriptionZhtw": "精選 Claude Skills、資源與工具清單，用於客製化 Claude AI 工作流。",
+      "descriptionEn": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
+      "counter": 1,
+      "stars": 73623,
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    {
+      "name": "actions/checkout",
+      "url": "https://github.com/actions/checkout",
+      "descriptionZhtw": "用於簽出（checkout）儲存庫的 GitHub Action。",
+      "descriptionEn": "Action for checking out a repo",
+      "counter": 1,
+      "stars": 8731,
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
     }
   ]
 }
