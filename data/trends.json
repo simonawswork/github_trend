@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-28T02:00:12.835Z",
+  "lastUpdate": "2026-08-29T02:00:11.903Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -116,20 +116,20 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "descriptionZhtw": "每月 74 億 Token。包含 34 個免費 LLM 提供商、635 個免費模型端點。全部整合在一個 /v1 端點下，並支援任何自定義 OpenAI 相容端點。具備智慧路由、自動故障轉移與加密金鑰功能，僅供個人實驗使用。",
       "descriptionEn": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "counter": 1,
-      "stars": 19810,
+      "counter": 2,
+      "stars": 21639,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-25"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "descriptionZhtw": "提示詞即程式碼 | GPT-Image2 工業級提示詞引擎與模板庫，包含 530+ 個案例逆向工程、20+ 套工業級模板，並提煉出 Skills，持續更新中。",
       "descriptionEn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "counter": 4,
-      "stars": 23105,
+      "counter": 5,
+      "stars": 24283,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "tinyhumansai/openhuman",
@@ -166,30 +166,30 @@
       "url": "https://github.com/marin-community/marin",
       "descriptionZhtw": "一個用於基礎模型 (Foundation Models) 研究與開發的開源框架，旨在降低大規模模型實驗的門檻。",
       "descriptionEn": "Open-source framework for the research and development of foundation models.",
-      "counter": 3,
-      "stars": 2703,
+      "counter": 4,
+      "stars": 2905,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "anthropics/claude-plugins-official",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "descriptionZhtw": "由 Anthropic 官方管理的高品質 Claude Code 插件目錄，確保插件的安全性與穩定性。",
       "descriptionEn": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "counter": 3,
-      "stars": 34704,
+      "counter": 4,
+      "stars": 35047,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "tt-a1i/archify",
       "url": "https://github.com/tt-a1i/archify",
       "descriptionZhtw": "用於建立美觀、可驗證的架構、工作流、時序、資料流與生命週期圖表的 Agent 技能，可匯出為內含動態效果的 HTML。",
       "descriptionEn": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "counter": 2,
-      "stars": 23533,
+      "counter": 3,
+      "stars": 27595,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "ConardLi/garden-skills",
@@ -216,40 +216,40 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "descriptionZhtw": "將任何 AI 代理轉變為 AI 科學家。這是全球 17 萬多名科學家使用的 Agent Skills 庫，包含 163 個經過驗證的科學技能及 100 多個涵蓋生物、化學、醫學與藥物發現的科學資料庫。",
       "descriptionEn": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 175,000+ scientists worldwide. 163 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "counter": 2,
-      "stars": 35344,
+      "counter": 3,
+      "stars": 36660,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "descriptionZhtw": "在瀏覽器中模擬間諜衛星，使用真實數據。即時開源空間情報，呈現於照片級真實的 3D 地球上。",
       "descriptionEn": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "counter": 1,
-      "stars": 8243,
+      "counter": 2,
+      "stars": 11137,
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "JetBrains/go-modern-guidelines",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "descriptionZhtw": "幫助 AI 程式開發代理編寫現代化的 Go 語言程式碼。",
       "descriptionEn": "Help AI coding agents write modern Go",
-      "counter": 1,
-      "stars": 2130,
+      "counter": 2,
+      "stars": 2615,
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "google/googletest",
       "url": "https://github.com/google/googletest",
       "descriptionZhtw": "Google 的 C++ 測試與模擬框架。",
       "descriptionEn": "GoogleTest - Google Testing and Mocking Framework",
-      "counter": 1,
-      "stars": 39050,
+      "counter": 2,
+      "stars": 39182,
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-08-29"
     },
     {
       "name": "ComposioHQ/awesome-claude-skills",
@@ -270,6 +270,56 @@
       "stars": 8731,
       "firstSeen": "2026-08-28",
       "lastSeen": "2026-08-28"
+    },
+    {
+      "name": "cursor/plugins",
+      "url": "https://github.com/cursor/plugins",
+      "descriptionZhtw": "Cursor 外掛程式規格與官方外掛程式",
+      "descriptionEn": "Cursor plugin specification and official plugins",
+      "counter": 1,
+      "stars": 5973,
+      "firstSeen": "2026-08-29",
+      "lastSeen": "2026-08-29"
+    },
+    {
+      "name": "tailscale/tailcat",
+      "url": "https://github.com/tailscale/tailcat",
+      "descriptionZhtw": "像 netcat 一樣，但在 Tailscale 的數據平面上運行，且無需 Tailscale 的控制平面",
+      "descriptionEn": "like netcat, but over Tailscale's data plane, without Tailscale's control plane",
+      "counter": 1,
+      "stars": 2746,
+      "firstSeen": "2026-08-29",
+      "lastSeen": "2026-08-29"
+    },
+    {
+      "name": "NationalSecurityAgency/ghidra",
+      "url": "https://github.com/NationalSecurityAgency/ghidra",
+      "descriptionZhtw": "Ghidra 是一個軟體逆向工程 (SRE) 框架",
+      "descriptionEn": "Ghidra is a software reverse engineering (SRE) framework",
+      "counter": 1,
+      "stars": 73350,
+      "firstSeen": "2026-08-29",
+      "lastSeen": "2026-08-29"
+    },
+    {
+      "name": "ChromeDevTools/chrome-devtools-mcp",
+      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+      "descriptionZhtw": "給 AI 編碼代理使用的 Chrome DevTools",
+      "descriptionEn": "Chrome DevTools for coding agents",
+      "counter": 1,
+      "stars": 49980,
+      "firstSeen": "2026-08-29",
+      "lastSeen": "2026-08-29"
+    },
+    {
+      "name": "livekit/agents",
+      "url": "https://github.com/livekit/agents",
+      "descriptionZhtw": "一個用於構建即時語音 AI 代理的框架 🤖🎙️📹",
+      "descriptionEn": "A framework for building realtime voice AI agents 🤖🎙️📹",
+      "counter": 1,
+      "stars": 13346,
+      "firstSeen": "2026-08-29",
+      "lastSeen": "2026-08-29"
     }
   ]
 }
