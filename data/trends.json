@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-30T02:00:14.965Z",
+  "lastUpdate": "2026-08-31T02:00:14.831Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -116,10 +116,10 @@
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "descriptionZhtw": "每月 74 億 Token。包含 34 個免費 LLM 提供商、635 個免費模型端點。全部整合在一個 /v1 端點下，並支援任何自定義 OpenAI 相容端點。具備智慧路由、自動故障轉移與加密金鑰功能，僅供個人實驗使用。",
       "descriptionEn": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
-      "counter": 2,
-      "stars": 21639,
+      "counter": 3,
+      "stars": 22831,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "freestylefly/awesome-gpt-image-2",
@@ -186,10 +186,10 @@
       "url": "https://github.com/tt-a1i/archify",
       "descriptionZhtw": "用於建立美觀、可驗證的架構、工作流、時序、資料流與生命週期圖表的 Agent 技能，可匯出為內含動態效果的 HTML。",
       "descriptionEn": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "counter": 4,
-      "stars": 31238,
+      "counter": 5,
+      "stars": 34859,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "ConardLi/garden-skills",
@@ -216,10 +216,10 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "descriptionZhtw": "將任何 AI 代理轉變為 AI 科學家。這是全球 17 萬多名科學家使用的 Agent Skills 庫，包含 163 個經過驗證的科學技能及 100 多個涵蓋生物、化學、醫學與藥物發現的科學資料庫。",
       "descriptionEn": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "counter": 4,
-      "stars": 37980,
+      "counter": 5,
+      "stars": 39362,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
@@ -296,10 +296,10 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "descriptionZhtw": "Ghidra 是一個軟體逆向工程 (SRE) 框架",
       "descriptionEn": "Ghidra is a software reverse engineering (SRE) framework",
-      "counter": 1,
-      "stars": 73350,
+      "counter": 2,
+      "stars": 73918,
       "firstSeen": "2026-08-29",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -316,40 +316,40 @@
       "url": "https://github.com/livekit/agents",
       "descriptionZhtw": "一個用於構建即時語音 AI 代理的框架 🤖🎙️📹",
       "descriptionEn": "A framework for building realtime voice AI agents 🤖🎙️📹",
-      "counter": 1,
-      "stars": 13346,
+      "counter": 2,
+      "stars": 13769,
       "firstSeen": "2026-08-29",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "THU-MAIC/OpenMAIC",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "descriptionZhtw": "一個互動式多代理教室，只需點擊一下即可獲得沉浸式的多代理學習體驗。",
       "descriptionEn": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "counter": 1,
-      "stars": 22329,
+      "counter": 2,
+      "stars": 24212,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "descriptionZhtw": "完全自動移除大型語言模型的審查機制。",
       "descriptionEn": "Fully automatic censorship removal for language models",
-      "counter": 1,
-      "stars": 28717,
+      "counter": 2,
+      "stars": 29200,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "descriptionZhtw": "Semrush 與 Ahrefs 的開源替代方案。",
       "descriptionEn": "Open source alternative to Semrush and Ahrefs",
-      "counter": 1,
-      "stars": 14670,
+      "counter": 2,
+      "stars": 15194,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     {
       "name": "Osmantic/ODS",
@@ -380,6 +380,76 @@
       "stars": 2759,
       "firstSeen": "2026-08-30",
       "lastSeen": "2026-08-30"
+    },
+    {
+      "name": "mvanhorn/last30days-skill",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "descriptionZhtw": "AI 代理技能，可跨 Reddit、X、YouTube、HN、Polymarket 與網頁搜尋任何主題，並合成總結。",
+      "descriptionEn": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "counter": 1,
+      "stars": 60524,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "name": "majd/ipatool",
+      "url": "https://github.com/majd/ipatool",
+      "descriptionZhtw": "命令列工具，用於搜尋與下載 iOS、iPadOS、tvOS 與 visionOS 的 App 套件（ipa 檔案）。",
+      "descriptionEn": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "counter": 1,
+      "stars": 10234,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "name": "punkpeye/awesome-mcp-servers",
+      "url": "https://github.com/punkpeye/awesome-mcp-servers",
+      "descriptionZhtw": "MCP (Model Context Protocol) 伺服器集合。",
+      "descriptionEn": "A collection of MCP servers.",
+      "counter": 1,
+      "stars": 93351,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "name": "checkstyle/checkstyle",
+      "url": "https://github.com/checkstyle/checkstyle",
+      "descriptionZhtw": "Java 程式碼標準檢查工具。預設支援 Google Java Style Guide 與 Sun Code Conventions，高度可自定義。",
+      "descriptionEn": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
+      "counter": 1,
+      "stars": 9217,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "name": "pollen-robotics/microduck_rl",
+      "url": "https://github.com/pollen-robotics/microduck_rl",
+      "descriptionZhtw": "Microduck (mjlab) 的強化學習訓練環境。",
+      "descriptionEn": "RL training environments for Microduck (mjlab)",
+      "counter": 1,
+      "stars": 810,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "name": "handsomestWei/patent-disclosure-skill",
+      "url": "https://github.com/handsomestWei/patent-disclosure-skill",
+      "descriptionZhtw": "中國專利.skill：專利點挖掘與交底書（發明/實用/外觀）編寫，通俗解讀專利，嗅探政策動向，輔助審查答覆。",
+      "descriptionEn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
+      "counter": 1,
+      "stars": 5711,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
+    },
+    {
+      "name": "corsairdev/corsair",
+      "url": "https://github.com/corsairdev/corsair",
+      "descriptionZhtw": "連結你的使用者與他們的應用程式。",
+      "descriptionEn": "Connect your users to their apps",
+      "counter": 1,
+      "stars": 10969,
+      "firstSeen": "2026-08-31",
+      "lastSeen": "2026-08-31"
     }
   ]
 }
