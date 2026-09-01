@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-08-31T02:00:14.831Z",
+  "lastUpdate": "2026-09-01T02:00:14.602Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -186,10 +186,10 @@
       "url": "https://github.com/tt-a1i/archify",
       "descriptionZhtw": "用於建立美觀、可驗證的架構、工作流、時序、資料流與生命週期圖表的 Agent 技能，可匯出為內含動態效果的 HTML。",
       "descriptionEn": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "counter": 5,
-      "stars": 34859,
+      "counter": 6,
+      "stars": 38931,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "ConardLi/garden-skills",
@@ -216,10 +216,10 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "descriptionZhtw": "將任何 AI 代理轉變為 AI 科學家。這是全球 17 萬多名科學家使用的 Agent Skills 庫，包含 163 個經過驗證的科學技能及 100 多個涵蓋生物、化學、醫學與藥物發現的科學資料庫。",
       "descriptionEn": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "counter": 5,
-      "stars": 39362,
+      "counter": 6,
+      "stars": 40779,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
@@ -326,40 +326,40 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "descriptionZhtw": "一個互動式多代理教室，只需點擊一下即可獲得沉浸式的多代理學習體驗。",
       "descriptionEn": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "counter": 2,
-      "stars": 24212,
+      "counter": 3,
+      "stars": 27254,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "p-e-w/heretic",
       "url": "https://github.com/p-e-w/heretic",
       "descriptionZhtw": "完全自動移除大型語言模型的審查機制。",
       "descriptionEn": "Fully automatic censorship removal for language models",
-      "counter": 2,
-      "stars": 29200,
+      "counter": 3,
+      "stars": 29679,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "every-app/open-seo",
       "url": "https://github.com/every-app/open-seo",
       "descriptionZhtw": "Semrush 與 Ahrefs 的開源替代方案。",
       "descriptionEn": "Open source alternative to Semrush and Ahrefs",
-      "counter": 2,
-      "stars": 15194,
+      "counter": 3,
+      "stars": 15784,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "Osmantic/ODS",
       "url": "https://github.com/Osmantic/ODS",
       "descriptionZhtw": "將你的 PC、Mac 或 Linux 電腦變成 AI 伺服器，提供 LLM 推論、聊天介面、語音、代理、工作流、RAG 與影像生成功能。",
       "descriptionEn": "Turn your PC, Mac, or Linux box into an AI server. LLM inference, chat UI, voice, agents, workflows, RAG, and image generation.",
-      "counter": 1,
-      "stars": 4941,
+      "counter": 2,
+      "stars": 5527,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "addyosmani/agent-skills",
@@ -396,10 +396,10 @@
       "url": "https://github.com/majd/ipatool",
       "descriptionZhtw": "命令列工具，用於搜尋與下載 iOS、iPadOS、tvOS 與 visionOS 的 App 套件（ipa 檔案）。",
       "descriptionEn": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "counter": 1,
-      "stars": 10234,
+      "counter": 2,
+      "stars": 10562,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "punkpeye/awesome-mcp-servers",
@@ -416,30 +416,30 @@
       "url": "https://github.com/checkstyle/checkstyle",
       "descriptionZhtw": "Java 程式碼標準檢查工具。預設支援 Google Java Style Guide 與 Sun Code Conventions，高度可自定義。",
       "descriptionEn": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
-      "counter": 1,
-      "stars": 9217,
+      "counter": 2,
+      "stars": 9423,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "pollen-robotics/microduck_rl",
       "url": "https://github.com/pollen-robotics/microduck_rl",
       "descriptionZhtw": "Microduck (mjlab) 的強化學習訓練環境。",
       "descriptionEn": "RL training environments for Microduck (mjlab)",
-      "counter": 1,
-      "stars": 810,
+      "counter": 2,
+      "stars": 1159,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "handsomestWei/patent-disclosure-skill",
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
       "descriptionZhtw": "中國專利.skill：專利點挖掘與交底書（發明/實用/外觀）編寫，通俗解讀專利，嗅探政策動向，輔助審查答覆。",
       "descriptionEn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "counter": 1,
-      "stars": 5711,
+      "counter": 2,
+      "stars": 6267,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-01"
     },
     {
       "name": "corsairdev/corsair",
@@ -450,6 +450,46 @@
       "stars": 10969,
       "firstSeen": "2026-08-31",
       "lastSeen": "2026-08-31"
+    },
+    {
+      "name": "k1tbyte/Wand-Enhancer",
+      "url": "https://github.com/k1tbyte/Wand-Enhancer",
+      "descriptionZhtw": "Wand (WeMod) 應用程式的進階 UX 與互操作性擴充套件，優化用戶體驗。",
+      "descriptionEn": "Advanced UX and interoperability extension for Wand (WeMod) app",
+      "counter": 1,
+      "stars": 23401,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    {
+      "name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "descriptionZhtw": "🧠 在短短 2 小時內從零開始訓練一個 64M 參數的 LLM！",
+      "descriptionEn": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
+      "counter": 1,
+      "stars": 56187,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    {
+      "name": "zhaoxuya520/reverse-skill",
+      "url": "https://github.com/zhaoxuya520/reverse-skill",
+      "descriptionZhtw": "逆向工程/滲透測試/安全研究技能路由包：AI 自動路由 + 按需自舉工具鏈 + 自動進化經驗庫。支援 Claude Code、Kiro、Cursor、Cline 等 AI 代碼客戶端。",
+      "descriptionEn": "Reverse Engineering / Authorized Penetration Testing / Security Research Skill Router Pack AI-powered routing + On-demand toolchain bootstrapping + Self-evolving knowledge base Supports Claude Code, Kiro, Cursor, Cline, and other AI coding clients 逆向/渗透/安全技能路由包 - AI 自动路由 + 按需自举工具链 + 自动进化经验库 | 支持 Claude Code / Kiro / Cursor / Cline 等代码 AI 客户端",
+      "counter": 1,
+      "stars": 33191,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    {
+      "name": "firecrawl/pdf-inspector",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "descriptionZhtw": "快速的 PDF 檢查、分類與文字提取 Rust 函式庫。智慧檢測掃描版與文字版 PDF，以實現智慧路由決策。",
+      "descriptionEn": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "counter": 1,
+      "stars": 17393,
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
     }
   ]
 }
