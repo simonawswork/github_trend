@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-01T02:00:14.602Z",
+  "lastUpdate": "2026-09-02T02:00:12.436Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -216,10 +216,10 @@
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "descriptionZhtw": "將任何 AI 代理轉變為 AI 科學家。這是全球 17 萬多名科學家使用的 Agent Skills 庫，包含 163 個經過驗證的科學技能及 100 多個涵蓋生物、化學、醫學與藥物發現的科學資料庫。",
       "descriptionEn": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
-      "counter": 6,
-      "stars": 40779,
+      "counter": 7,
+      "stars": 41571,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-09-01"
+      "lastSeen": "2026-09-02"
     },
     {
       "name": "bilawalsidhu/gods-eye-view",
@@ -326,10 +326,10 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "descriptionZhtw": "一個互動式多代理教室，只需點擊一下即可獲得沉浸式的多代理學習體驗。",
       "descriptionEn": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "counter": 3,
-      "stars": 27254,
+      "counter": 4,
+      "stars": 29569,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-01"
+      "lastSeen": "2026-09-02"
     },
     {
       "name": "p-e-w/heretic",
@@ -436,10 +436,10 @@
       "url": "https://github.com/handsomestWei/patent-disclosure-skill",
       "descriptionZhtw": "中國專利.skill：專利點挖掘與交底書（發明/實用/外觀）編寫，通俗解讀專利，嗅探政策動向，輔助審查答覆。",
       "descriptionEn": "中国专利.skill：专利点挖掘与交底书（发明/实用/外观）编写，通俗解读专利，嗅探政策动向，辅助审查答复。",
-      "counter": 2,
-      "stars": 6267,
+      "counter": 3,
+      "stars": 6751,
       "firstSeen": "2026-08-31",
-      "lastSeen": "2026-09-01"
+      "lastSeen": "2026-09-02"
     },
     {
       "name": "corsairdev/corsair",
@@ -466,10 +466,10 @@
       "url": "https://github.com/jingyaogong/minimind",
       "descriptionZhtw": "🧠 在短短 2 小時內從零開始訓練一個 64M 參數的 LLM！",
       "descriptionEn": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
-      "counter": 1,
-      "stars": 56187,
+      "counter": 2,
+      "stars": 57133,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-01"
+      "lastSeen": "2026-09-02"
     },
     {
       "name": "zhaoxuya520/reverse-skill",
@@ -486,10 +486,70 @@
       "url": "https://github.com/firecrawl/pdf-inspector",
       "descriptionZhtw": "快速的 PDF 檢查、分類與文字提取 Rust 函式庫。智慧檢測掃描版與文字版 PDF，以實現智慧路由決策。",
       "descriptionEn": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "counter": 1,
-      "stars": 17393,
+      "counter": 2,
+      "stars": 17963,
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-01"
+      "lastSeen": "2026-09-02"
+    },
+    {
+      "name": "Gitlawb/openclaude",
+      "url": "https://github.com/Gitlawb/openclaude",
+      "descriptionZhtw": "在任何地方運行。使用任何東西。",
+      "descriptionEn": "runs anywhere. uses anything",
+      "counter": 1,
+      "stars": 31349,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    {
+      "name": "Imbad0202/academic-research-skills",
+      "url": "https://github.com/Imbad0202/academic-research-skills",
+      "descriptionZhtw": "Claude Code 的學術研究技能：研究 → 寫作 → 審閱 → 修改 → 定稿。",
+      "descriptionEn": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
+      "counter": 1,
+      "stars": 44937,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    {
+      "name": "iv-org/invidious",
+      "url": "https://github.com/iv-org/invidious",
+      "descriptionZhtw": "Invidious 是 YouTube 的替代前端。",
+      "descriptionEn": "Invidious is an alternative front-end to YouTube",
+      "counter": 1,
+      "stars": 23781,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    {
+      "name": "3b1b/manim",
+      "url": "https://github.com/3b1b/manim",
+      "descriptionZhtw": "用於製作解釋性數學影片的動畫引擎。",
+      "descriptionEn": "Animation engine for explanatory math videos",
+      "counter": 1,
+      "stars": 92583,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    {
+      "name": "browser-use/video-use",
+      "url": "https://github.com/browser-use/video-use",
+      "descriptionZhtw": "使用程式設計代理編輯影片。",
+      "descriptionEn": "Edit videos with coding agents",
+      "counter": 1,
+      "stars": 22987,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    {
+      "name": "averygan/reclip",
+      "url": "https://github.com/averygan/reclip",
+      "descriptionZhtw": "從幾乎任何網站下載影片。輕量級、自託管的媒體下載器，具有乾淨的網頁介面。",
+      "descriptionEn": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
+      "counter": 1,
+      "stars": 7696,
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
     }
   ]
 }
