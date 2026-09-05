@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2026-09-04T02:00:12.965Z",
+  "lastUpdate": "2026-09-05T02:00:12.583Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "descriptionZhtw": "與你一同成長的 AI Agent",
       "descriptionEn": "The agent that grows with you",
-      "counter": 6,
-      "stars": 240878,
+      "counter": 7,
+      "stars": 241505,
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -556,30 +556,30 @@
       "url": "https://github.com/fmtlib/fmt",
       "descriptionZhtw": "現代化格式庫",
       "descriptionEn": "A modern formatting library",
-      "counter": 2,
-      "stars": 25114,
+      "counter": 3,
+      "stars": 25473,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
     },
     {
       "name": "google-research/timesfm",
       "url": "https://github.com/google-research/timesfm",
       "descriptionZhtw": "時間序列預測基礎模型",
       "descriptionEn": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "counter": 2,
-      "stars": 30718,
+      "counter": 3,
+      "stars": 31064,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
     },
     {
       "name": "debpalash/VoiceStudio",
       "url": "https://github.com/debpalash/VoiceStudio",
       "descriptionZhtw": "開源、完全本地的 ElevenLabs 替代方案 — 支援 646 種語言的語音克隆、設計、配音、聽寫、轉錄與有聲書創作。",
       "descriptionEn": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "counter": 2,
-      "stars": 16329,
+      "counter": 3,
+      "stars": 18036,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
     },
     {
       "name": "sngyai/Sequoia-X",
@@ -646,30 +646,30 @@
       "url": "https://github.com/blader/humanizer",
       "descriptionZhtw": "移除文字中 AI 生成痕跡的 Agent 技能。",
       "descriptionEn": "Agent skill that removes signs of AI-generated writing from text",
-      "counter": 2,
-      "stars": 41545,
+      "counter": 3,
+      "stars": 42741,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
     },
     {
       "name": "anthropics/skills",
       "url": "https://github.com/anthropics/skills",
       "descriptionZhtw": "Agent Skills 公開儲存庫。",
       "descriptionEn": "Public repository for Agent Skills",
-      "counter": 1,
-      "stars": 173684,
+      "counter": 2,
+      "stars": 174143,
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
     },
     {
       "name": "bannedbook/fanqiang",
       "url": "https://github.com/bannedbook/fanqiang",
       "descriptionZhtw": "翻牆-科學上網。",
       "descriptionEn": "翻墙-科学上网",
-      "counter": 1,
-      "stars": 52217,
+      "counter": 2,
+      "stars": 52791,
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
     },
     {
       "name": "ByteByteGoHq/system-design-101",
@@ -686,10 +686,50 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "descriptionZhtw": "開源推論伺服器，能在你的硬體上運行最優秀的本地模型，並連接到你正在使用的代理。",
       "descriptionEn": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "counter": 1,
-      "stars": 1970,
+      "counter": 2,
+      "stars": 2512,
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-05"
+    },
+    {
+      "name": "bikini/exploitarium",
+      "url": "https://github.com/bikini/exploitarium",
+      "descriptionZhtw": "公開的漏洞 PoC 和漏洞研究報告的單一檔案庫。在發布時，這些漏洞皆未被報告。請不要濫用它們，我這樣做是為了吸引人們進入該領域。",
+      "descriptionEn": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+      "counter": 1,
+      "stars": 4520,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    {
+      "name": "radixark/miles",
+      "url": "https://github.com/radixark/miles",
+      "descriptionZhtw": "企業級強化學習框架，用於 LLM 和 VLM 的訓練後優化。",
+      "descriptionEn": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
+      "counter": 1,
+      "stars": 2558,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    {
+      "name": "clshortfuse/renodx",
+      "url": "https://github.com/clshortfuse/renodx",
+      "descriptionZhtw": "DirectX 遊戲的更新引擎，用於提升舊遊戲畫質。",
+      "descriptionEn": "Renovation Engine for DirectX Games",
+      "counter": 1,
+      "stars": 3538,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    {
+      "name": "cathrynlavery/diagram-design",
+      "url": "https://github.com/cathrynlavery/diagram-design",
+      "descriptionZhtw": "為 Claude Code、Codex 和 Pi 設計的 38 種編輯用圖表類型。包含獨立的 HTML + SVG，無陰影。",
+      "descriptionEn": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
+      "counter": 1,
+      "stars": 30962,
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
     }
   ]
 }
