@@ -1,15 +1,15 @@
 {
-  "lastUpdate": "2026-09-06T02:00:12.147Z",
+  "lastUpdate": "2026-09-07T02:00:14.011Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
       "url": "https://github.com/NousResearch/hermes-agent",
       "descriptionZhtw": "與你一同成長的 AI Agent",
       "descriptionEn": "The agent that grows with you",
-      "counter": 8,
-      "stars": 242037,
+      "counter": 9,
+      "stars": 242577,
       "firstSeen": "2026-06-24",
-      "lastSeen": "2026-09-06"
+      "lastSeen": "2026-09-07"
     },
     {
       "name": "ripienaar/free-for-dev",
@@ -646,10 +646,10 @@
       "url": "https://github.com/blader/humanizer",
       "descriptionZhtw": "移除文字中 AI 生成痕跡的 Agent 技能。",
       "descriptionEn": "Agent skill that removes signs of AI-generated writing from text",
-      "counter": 4,
-      "stars": 43506,
+      "counter": 5,
+      "stars": 44312,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-06"
+      "lastSeen": "2026-09-07"
     },
     {
       "name": "anthropics/skills",
@@ -686,10 +686,10 @@
       "url": "https://github.com/magnitudedev/magnitude",
       "descriptionZhtw": "開源推論伺服器，能在你的硬體上運行最優秀的本地模型，並連接到你正在使用的代理。",
       "descriptionEn": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
-      "counter": 3,
-      "stars": 3232,
+      "counter": 4,
+      "stars": 3700,
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-06"
+      "lastSeen": "2026-09-07"
     },
     {
       "name": "bikini/exploitarium",
@@ -726,40 +726,40 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "descriptionZhtw": "為 Claude Code、Codex 和 Pi 設計的 38 種編輯用圖表類型。包含獨立的 HTML + SVG，無陰影。",
       "descriptionEn": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "counter": 2,
-      "stars": 31714,
+      "counter": 3,
+      "stars": 32439,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-06"
+      "lastSeen": "2026-09-07"
     },
     {
       "name": "ruvnet/ruflo",
       "url": "https://github.com/ruvnet/ruflo",
       "descriptionZhtw": "🌊 原始的代理元載體 (meta-harness)。部署智慧多代理群體、協調自動化工作流並建構對話式 AI 系統。具備自適應記憶、自我學習智慧、RAG 整合，並原生整合 Claude Code / Codex / Hermes 等多種代理。",
       "descriptionEn": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "counter": 1,
-      "stars": 70706,
+      "counter": 2,
+      "stars": 71001,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-06"
+      "lastSeen": "2026-09-07"
     },
     {
       "name": "humanlayer/skills",
       "url": "https://github.com/humanlayer/skills",
       "descriptionZhtw": "HumanLayer 的代理技能庫，用於增強 AI 的操作與執行能力。",
       "descriptionEn": "",
-      "counter": 1,
-      "stars": 2725,
+      "counter": 2,
+      "stars": 3170,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-06"
+      "lastSeen": "2026-09-07"
     },
     {
       "name": "BraveOPotato/FckSignups",
       "url": "https://github.com/BraveOPotato/FckSignups",
       "descriptionZhtw": "一個精選的開源、瀏覽器內執行且無需註冊的工具列表。",
       "descriptionEn": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "counter": 1,
-      "stars": 2907,
+      "counter": 2,
+      "stars": 3339,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-06"
+      "lastSeen": "2026-09-07"
     },
     {
       "name": "WorldFlowAI/everything-claude-code",
@@ -780,6 +780,56 @@
       "stars": 94924,
       "firstSeen": "2026-09-06",
       "lastSeen": "2026-09-06"
+    },
+    {
+      "name": "openai/skills",
+      "url": "https://github.com/openai/skills",
+      "descriptionZhtw": "",
+      "descriptionEn": "Skills Catalog for Codex",
+      "counter": 1,
+      "stars": 25638,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07"
+    },
+    {
+      "name": "aipoch/open-science",
+      "url": "https://github.com/aipoch/open-science",
+      "descriptionZhtw": "",
+      "descriptionEn": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
+      "counter": 1,
+      "stars": 3884,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07"
+    },
+    {
+      "name": "OpenWhispr/openwhispr",
+      "url": "https://github.com/OpenWhispr/openwhispr",
+      "descriptionZhtw": "",
+      "descriptionEn": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
+      "counter": 1,
+      "stars": 7410,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07"
+    },
+    {
+      "name": "The-Swarm-Corporation/AutoHedge",
+      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
+      "descriptionZhtw": "",
+      "descriptionEn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
+      "counter": 1,
+      "stars": 4758,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07"
+    },
+    {
+      "name": "Stremio/stremio-web",
+      "url": "https://github.com/Stremio/stremio-web",
+      "descriptionZhtw": "",
+      "descriptionEn": "Stremio - Freedom to Stream",
+      "counter": 1,
+      "stars": 13498,
+      "firstSeen": "2026-09-07",
+      "lastSeen": "2026-09-07"
     }
   ]
 }
