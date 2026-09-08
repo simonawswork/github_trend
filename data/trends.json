@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-07T02:00:14.011Z",
+  "lastUpdate": "2026-09-08T02:00:13.796Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -736,10 +736,10 @@
       "url": "https://github.com/ruvnet/ruflo",
       "descriptionZhtw": "🌊 原始的代理元載體 (meta-harness)。部署智慧多代理群體、協調自動化工作流並建構對話式 AI 系統。具備自適應記憶、自我學習智慧、RAG 整合，並原生整合 Claude Code / Codex / Hermes 等多種代理。",
       "descriptionEn": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
-      "counter": 2,
-      "stars": 71001,
+      "counter": 3,
+      "stars": 71415,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-07"
+      "lastSeen": "2026-09-08"
     },
     {
       "name": "humanlayer/skills",
@@ -756,10 +756,10 @@
       "url": "https://github.com/BraveOPotato/FckSignups",
       "descriptionZhtw": "一個精選的開源、瀏覽器內執行且無需註冊的工具列表。",
       "descriptionEn": "A list of tools that are open-source, in-browser, and require no-signups!",
-      "counter": 2,
-      "stars": 3339,
+      "counter": 3,
+      "stars": 3849,
       "firstSeen": "2026-09-06",
-      "lastSeen": "2026-09-07"
+      "lastSeen": "2026-09-08"
     },
     {
       "name": "WorldFlowAI/everything-claude-code",
@@ -786,10 +786,10 @@
       "url": "https://github.com/openai/skills",
       "descriptionZhtw": "",
       "descriptionEn": "Skills Catalog for Codex",
-      "counter": 1,
-      "stars": 25638,
+      "counter": 2,
+      "stars": 26058,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-07"
+      "lastSeen": "2026-09-08"
     },
     {
       "name": "aipoch/open-science",
@@ -816,10 +816,10 @@
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "descriptionZhtw": "",
       "descriptionEn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "counter": 1,
-      "stars": 4758,
+      "counter": 2,
+      "stars": 5280,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-07"
+      "lastSeen": "2026-09-08"
     },
     {
       "name": "Stremio/stremio-web",
@@ -830,6 +830,76 @@
       "stars": 13498,
       "firstSeen": "2026-09-07",
       "lastSeen": "2026-09-07"
+    },
+    {
+      "name": "heygen-com/hyperframes",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "descriptionZhtw": "",
+      "descriptionEn": "Write HTML. Render video. Built for agents.",
+      "counter": 1,
+      "stars": 46067,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "name": "microsoft/markitdown",
+      "url": "https://github.com/microsoft/markitdown",
+      "descriptionZhtw": "",
+      "descriptionEn": "Python tool for converting files and office documents to Markdown.",
+      "counter": 1,
+      "stars": 180351,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "name": "jo-inc/camofox-browser",
+      "url": "https://github.com/jo-inc/camofox-browser",
+      "descriptionZhtw": "",
+      "descriptionEn": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
+      "counter": 1,
+      "stars": 9760,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "name": "MoonTechLab/LunaTV",
+      "url": "https://github.com/MoonTechLab/LunaTV",
+      "descriptionZhtw": "",
+      "descriptionEn": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
+      "counter": 1,
+      "stars": 9766,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "name": "bytedance/deer-flow",
+      "url": "https://github.com/bytedance/deer-flow",
+      "descriptionZhtw": "",
+      "descriptionEn": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "counter": 1,
+      "stars": 81869,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "name": "lightpanda-io/browser",
+      "url": "https://github.com/lightpanda-io/browser",
+      "descriptionZhtw": "",
+      "descriptionEn": "Lightpanda: the headless browser designed for AI and automation",
+      "counter": 1,
+      "stars": 34884,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
+    },
+    {
+      "name": "pascalorg/editor",
+      "url": "https://github.com/pascalorg/editor",
+      "descriptionZhtw": "",
+      "descriptionEn": "Create and share 3D architectural projects.",
+      "counter": 1,
+      "stars": 22359,
+      "firstSeen": "2026-09-08",
+      "lastSeen": "2026-09-08"
     }
   ]
 }
