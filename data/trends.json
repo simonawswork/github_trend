@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-08T02:00:13.796Z",
+  "lastUpdate": "2026-09-09T02:00:13.241Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -46,10 +46,10 @@
       "url": "https://github.com/multica-ai/andrej-karpathy-skills",
       "descriptionZhtw": "一個用於優化 Claude Code 行為的單一 CLAUDE.md 檔案，源自 Andrej Karpathy 對 LLM 程式設計陷阱的觀察。",
       "descriptionEn": "A single CLAUDE.md file to improve Claude Code behavior, derived from Andrej Karpathy's observations on LLM coding pitfalls.",
-      "counter": 2,
-      "stars": 207247,
+      "counter": 3,
+      "stars": 211484,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-26"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "makeplane/plane",
@@ -205,11 +205,11 @@
       "name": "browser-use/browser-use",
       "url": "https://github.com/browser-use/browser-use",
       "descriptionZhtw": "🌐 讓 AI 代理能夠存取網站，輕鬆自動化線上任務。",
-      "descriptionEn": "🌐 Make websites accessible for AI agents. Automate tasks online with ease.",
-      "counter": 1,
-      "stars": 111019,
+      "descriptionEn": "Agents that use the browser.",
+      "counter": 2,
+      "stars": 113544,
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-27"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "K-Dense-AI/scientific-agent-skills",
@@ -726,10 +726,10 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "descriptionZhtw": "為 Claude Code、Codex 和 Pi 設計的 38 種編輯用圖表類型。包含獨立的 HTML + SVG，無陰影。",
       "descriptionEn": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "counter": 3,
-      "stars": 32439,
+      "counter": 4,
+      "stars": 34924,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-07"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "ruvnet/ruflo",
@@ -786,10 +786,10 @@
       "url": "https://github.com/openai/skills",
       "descriptionZhtw": "",
       "descriptionEn": "Skills Catalog for Codex",
-      "counter": 2,
-      "stars": 26058,
+      "counter": 3,
+      "stars": 26535,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "aipoch/open-science",
@@ -816,10 +816,10 @@
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "descriptionZhtw": "",
       "descriptionEn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "counter": 2,
-      "stars": 5280,
+      "counter": 3,
+      "stars": 5726,
       "firstSeen": "2026-09-07",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "Stremio/stremio-web",
@@ -836,40 +836,40 @@
       "url": "https://github.com/heygen-com/hyperframes",
       "descriptionZhtw": "",
       "descriptionEn": "Write HTML. Render video. Built for agents.",
-      "counter": 1,
-      "stars": 46067,
+      "counter": 2,
+      "stars": 47801,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
       "descriptionZhtw": "",
       "descriptionEn": "Python tool for converting files and office documents to Markdown.",
-      "counter": 1,
-      "stars": 180351,
+      "counter": 2,
+      "stars": 181732,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
       "descriptionZhtw": "",
       "descriptionEn": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "counter": 1,
-      "stars": 9760,
+      "counter": 2,
+      "stars": 10534,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "MoonTechLab/LunaTV",
       "url": "https://github.com/MoonTechLab/LunaTV",
       "descriptionZhtw": "",
       "descriptionEn": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
-      "counter": 1,
-      "stars": 9766,
+      "counter": 2,
+      "stars": 10192,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-09"
     },
     {
       "name": "bytedance/deer-flow",
@@ -900,6 +900,36 @@
       "stars": 22359,
       "firstSeen": "2026-09-08",
       "lastSeen": "2026-09-08"
+    },
+    {
+      "name": "ayghri/i-have-adhd",
+      "url": "https://github.com/ayghri/i-have-adhd",
+      "descriptionZhtw": "",
+      "descriptionEn": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
+      "counter": 1,
+      "stars": 30664,
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09"
+    },
+    {
+      "name": "viarotel-org/escrcpy",
+      "url": "https://github.com/viarotel-org/escrcpy",
+      "descriptionZhtw": "",
+      "descriptionEn": "📱 Display and control your Android device graphically with scrcpy.",
+      "counter": 1,
+      "stars": 11413,
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09"
+    },
+    {
+      "name": "openai/plugins",
+      "url": "https://github.com/openai/plugins",
+      "descriptionZhtw": "",
+      "descriptionEn": "OpenAI Plugins",
+      "counter": 1,
+      "stars": 5818,
+      "firstSeen": "2026-09-09",
+      "lastSeen": "2026-09-09"
     }
   ]
 }
