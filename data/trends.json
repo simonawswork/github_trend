@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-09T02:00:13.241Z",
+  "lastUpdate": "2026-09-10T02:00:11.872Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -126,10 +126,10 @@
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "descriptionZhtw": "提示詞即程式碼 | GPT-Image2 工業級提示詞引擎與模板庫，包含 530+ 個案例逆向工程、20+ 套工業級模板，並提煉出 Skills，持續更新中。",
       "descriptionEn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "counter": 5,
-      "stars": 24283,
+      "counter": 6,
+      "stars": 30093,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-09-10"
     },
     {
       "name": "tinyhumansai/openhuman",
@@ -146,10 +146,10 @@
       "url": "https://github.com/TauricResearch/TradingAgents",
       "descriptionZhtw": "一個用於金融交易的多智能體 LLM 框架。利用多個專門的 AI 代理進行市場分析、策略制定與執行，旨在優化交易決策過程。",
       "descriptionEn": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "counter": 2,
-      "stars": 101252,
+      "counter": 3,
+      "stars": 103987,
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-28"
+      "lastSeen": "2026-09-10"
     },
     {
       "name": "Shubhamsaboo/awesome-llm-apps",
@@ -726,10 +726,10 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "descriptionZhtw": "為 Claude Code、Codex 和 Pi 設計的 38 種編輯用圖表類型。包含獨立的 HTML + SVG，無陰影。",
       "descriptionEn": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "counter": 4,
-      "stars": 34924,
+      "counter": 5,
+      "stars": 36659,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "name": "ruvnet/ruflo",
@@ -895,21 +895,21 @@
       "name": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
       "descriptionZhtw": "",
-      "descriptionEn": "Create and share 3D architectural projects.",
-      "counter": 1,
-      "stars": 22359,
+      "descriptionEn": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
+      "counter": 2,
+      "stars": 22960,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-08"
+      "lastSeen": "2026-09-10"
     },
     {
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
       "descriptionZhtw": "",
       "descriptionEn": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "counter": 1,
-      "stars": 30664,
+      "counter": 2,
+      "stars": 34773,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
     },
     {
       "name": "viarotel-org/escrcpy",
@@ -926,10 +926,50 @@
       "url": "https://github.com/openai/plugins",
       "descriptionZhtw": "",
       "descriptionEn": "OpenAI Plugins",
-      "counter": 1,
-      "stars": 5818,
+      "counter": 2,
+      "stars": 6213,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-09"
+      "lastSeen": "2026-09-10"
+    },
+    {
+      "name": "Tencent/teamai-cli",
+      "url": "https://github.com/Tencent/teamai-cli",
+      "descriptionZhtw": "",
+      "descriptionEn": "Make Every Team AI Native",
+      "counter": 1,
+      "stars": 3040,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    {
+      "name": "earthtojake/text-to-cad",
+      "url": "https://github.com/earthtojake/text-to-cad",
+      "descriptionZhtw": "",
+      "descriptionEn": "A library of agent skills for CAD, CAE and CAM",
+      "counter": 1,
+      "stars": 15052,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    {
+      "name": "liquidslr/system-design-notes",
+      "url": "https://github.com/liquidslr/system-design-notes",
+      "descriptionZhtw": "",
+      "descriptionEn": "Notes of the book System Desgin Interview - An Insider's Guide",
+      "counter": 1,
+      "stars": 18033,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    {
+      "name": "vastsa/PI-Desktop",
+      "url": "https://github.com/vastsa/PI-Desktop",
+      "descriptionZhtw": "",
+      "descriptionEn": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
+      "counter": 1,
+      "stars": 1694,
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
     }
   ]
 }
