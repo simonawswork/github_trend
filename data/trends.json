@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-10T02:00:11.872Z",
+  "lastUpdate": "2026-09-11T02:00:14.287Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -125,11 +125,11 @@
       "name": "freestylefly/awesome-gpt-image-2",
       "url": "https://github.com/freestylefly/awesome-gpt-image-2",
       "descriptionZhtw": "提示詞即程式碼 | GPT-Image2 工業級提示詞引擎與模板庫，包含 530+ 個案例逆向工程、20+ 套工業級模板，並提煉出 Skills，持續更新中。",
-      "descriptionEn": "Prompt as Code | GPT-Image2 工业级提示词引擎与模板库，530+ 个案例逆向工程，20+ 套工业级模板，并提炼出Skills，持续更新中",
-      "counter": 6,
-      "stars": 30093,
+      "descriptionEn": "Prompt as Code | GPT Image 2 / 2.5 提示词与案例库，530+ 个案例、20+ 套工业级模板与可复用 Skills，新增 2.5 同提示词对比专区，附完整提示词与生成记录，持续更新。",
+      "counter": 7,
+      "stars": 30882,
       "firstSeen": "2026-08-25",
-      "lastSeen": "2026-09-10"
+      "lastSeen": "2026-09-11"
     },
     {
       "name": "tinyhumansai/openhuman",
@@ -226,10 +226,10 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "descriptionZhtw": "在瀏覽器中模擬間諜衛星，使用真實數據。即時開源空間情報，呈現於照片級真實的 3D 地球上。",
       "descriptionEn": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "counter": 3,
-      "stars": 12676,
+      "counter": 4,
+      "stars": 24429,
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-09-11"
     },
     {
       "name": "JetBrains/go-modern-guidelines",
@@ -326,10 +326,10 @@
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "descriptionZhtw": "一個互動式多代理教室，只需點擊一下即可獲得沉浸式的多代理學習體驗。",
       "descriptionEn": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
-      "counter": 4,
-      "stars": 29569,
+      "counter": 5,
+      "stars": 35361,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-02"
+      "lastSeen": "2026-09-11"
     },
     {
       "name": "p-e-w/heretic",
@@ -726,10 +726,10 @@
       "url": "https://github.com/cathrynlavery/diagram-design",
       "descriptionZhtw": "為 Claude Code、Codex 和 Pi 設計的 38 種編輯用圖表類型。包含獨立的 HTML + SVG，無陰影。",
       "descriptionEn": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "counter": 5,
-      "stars": 36659,
+      "counter": 6,
+      "stars": 37800,
       "firstSeen": "2026-09-05",
-      "lastSeen": "2026-09-10"
+      "lastSeen": "2026-09-11"
     },
     {
       "name": "ruvnet/ruflo",
@@ -906,10 +906,10 @@
       "url": "https://github.com/ayghri/i-have-adhd",
       "descriptionZhtw": "",
       "descriptionEn": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "counter": 2,
-      "stars": 34773,
+      "counter": 3,
+      "stars": 38467,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-10"
+      "lastSeen": "2026-09-11"
     },
     {
       "name": "viarotel-org/escrcpy",
@@ -936,10 +936,10 @@
       "url": "https://github.com/Tencent/teamai-cli",
       "descriptionZhtw": "",
       "descriptionEn": "Make Every Team AI Native",
-      "counter": 1,
-      "stars": 3040,
+      "counter": 2,
+      "stars": 3829,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-10"
+      "lastSeen": "2026-09-11"
     },
     {
       "name": "earthtojake/text-to-cad",
@@ -956,20 +956,70 @@
       "url": "https://github.com/liquidslr/system-design-notes",
       "descriptionZhtw": "",
       "descriptionEn": "Notes of the book System Desgin Interview - An Insider's Guide",
-      "counter": 1,
-      "stars": 18033,
+      "counter": 2,
+      "stars": 18824,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-10"
+      "lastSeen": "2026-09-11"
     },
     {
       "name": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
       "descriptionZhtw": "",
       "descriptionEn": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "counter": 1,
-      "stars": 1694,
+      "counter": 2,
+      "stars": 2329,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-10"
+      "lastSeen": "2026-09-11"
+    },
+    {
+      "name": "alsk1992/CloddsBot",
+      "url": "https://github.com/alsk1992/CloddsBot",
+      "descriptionZhtw": "",
+      "descriptionEn": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
+      "counter": 1,
+      "stars": 1685,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    {
+      "name": "armory3d/armorpaint",
+      "url": "https://github.com/armory3d/armorpaint",
+      "descriptionZhtw": "",
+      "descriptionEn": "Graphics Creation Tools",
+      "counter": 1,
+      "stars": 4431,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    {
+      "name": "JustVugg/colibri",
+      "url": "https://github.com/JustVugg/colibri",
+      "descriptionZhtw": "",
+      "descriptionEn": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
+      "counter": 1,
+      "stars": 27484,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    {
+      "name": "nashsu/llm_wiki",
+      "url": "https://github.com/nashsu/llm_wiki",
+      "descriptionZhtw": "",
+      "descriptionEn": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
+      "counter": 1,
+      "stars": 18149,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    {
+      "name": "vercel-labs/skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "descriptionZhtw": "",
+      "descriptionEn": "The open agent skills tool - npx skills",
+      "counter": 1,
+      "stars": 31169,
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
     }
   ]
 }
