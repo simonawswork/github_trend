@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-11T02:00:14.287Z",
+  "lastUpdate": "2026-09-12T02:00:14.821Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -226,10 +226,10 @@
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "descriptionZhtw": "在瀏覽器中模擬間諜衛星，使用真實數據。即時開源空間情報，呈現於照片級真實的 3D 地球上。",
       "descriptionEn": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
-      "counter": 4,
-      "stars": 24429,
+      "counter": 5,
+      "stars": 27190,
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-12"
     },
     {
       "name": "JetBrains/go-modern-guidelines",
@@ -784,7 +784,7 @@
     {
       "name": "openai/skills",
       "url": "https://github.com/openai/skills",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "Codex 技能目錄。",
       "descriptionEn": "Skills Catalog for Codex",
       "counter": 3,
       "stars": 26535,
@@ -794,7 +794,7 @@
     {
       "name": "aipoch/open-science",
       "url": "https://github.com/aipoch/open-science",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "AIPOCH 的科學研究平台，是一個開源、本地優先、與模型無關的 AI 研究工作台，適用於 macOS、Windows 與 Linux，包含科學代理、Python/R 筆記本、資料連接器與可重複的來源。",
       "descriptionEn": "Open Science by AIPOCH is an open-source, local-first, model-agnostic AI research workbench for macOS, Windows, and Linux, with scientific agents, Python/R notebooks, data connectors, and reproducible provenance.",
       "counter": 1,
       "stars": 3884,
@@ -804,7 +804,7 @@
     {
       "name": "OpenWhispr/openwhispr",
       "url": "https://github.com/OpenWhispr/openwhispr",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "語音轉文字聽寫 App，支援本地 (Nvidia Parakeet/Whisper) 與雲端模型 (BYOK)。隱私優先，且跨平台可用。",
       "descriptionEn": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "counter": 1,
       "stars": 7410,
@@ -814,7 +814,7 @@
     {
       "name": "The-Swarm-Corporation/AutoHedge",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "在幾分鐘內建立你的自動化對沖基金。AutoHedge 利用群體智慧與 AI 代理的力量，自動進行市場分析、風險管理與交易執行。",
       "descriptionEn": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "counter": 3,
       "stars": 5726,
@@ -824,7 +824,7 @@
     {
       "name": "Stremio/stremio-web",
       "url": "https://github.com/Stremio/stremio-web",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "Stremio - 自由串流。",
       "descriptionEn": "Stremio - Freedom to Stream",
       "counter": 1,
       "stars": 13498,
@@ -834,7 +834,7 @@
     {
       "name": "heygen-com/hyperframes",
       "url": "https://github.com/heygen-com/hyperframes",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "編寫 HTML。渲染影片。專為 AI 代理打造。",
       "descriptionEn": "Write HTML. Render video. Built for agents.",
       "counter": 2,
       "stars": 47801,
@@ -844,7 +844,7 @@
     {
       "name": "microsoft/markitdown",
       "url": "https://github.com/microsoft/markitdown",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "用於將檔案與辦公室文件轉換為 Markdown 的 Python 工具。",
       "descriptionEn": "Python tool for converting files and office documents to Markdown.",
       "counter": 2,
       "stars": 181732,
@@ -854,7 +854,7 @@
     {
       "name": "jo-inc/camofox-browser",
       "url": "https://github.com/jo-inc/camofox-browser",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "專為 AI 代理設計的隱形無頭瀏覽器 — 可繞過 Cloudflare、機器人偵測與反爬蟲機制。可作為 Puppeteer/Playwright 的直接替代品。",
       "descriptionEn": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "counter": 2,
       "stars": 10534,
@@ -874,7 +874,7 @@
     {
       "name": "bytedance/deer-flow",
       "url": "https://github.com/bytedance/deer-flow",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "一個開源的長期超級代理機制，負責研究、編碼與創造。在沙盒、記憶、工具、技能、子代理與訊息網關的幫助下，它能處理從幾分鐘到幾小時的不同層級任務。",
       "descriptionEn": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "counter": 1,
       "stars": 81869,
@@ -884,7 +884,7 @@
     {
       "name": "lightpanda-io/browser",
       "url": "https://github.com/lightpanda-io/browser",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "Lightpanda：專為 AI 與自動化設計的無頭瀏覽器。",
       "descriptionEn": "Lightpanda: the headless browser designed for AI and automation",
       "counter": 1,
       "stars": 34884,
@@ -894,27 +894,27 @@
     {
       "name": "pascalorg/editor",
       "url": "https://github.com/pascalorg/editor",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "開源 3D 架構編輯器，具備本地 CLI、MCP 工具，以及適用於人類與 AI 代理的實用工作流。",
       "descriptionEn": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
-      "counter": 2,
-      "stars": 22960,
+      "counter": 3,
+      "stars": 23626,
       "firstSeen": "2026-09-08",
-      "lastSeen": "2026-09-10"
+      "lastSeen": "2026-09-12"
     },
     {
       "name": "ayghri/i-have-adhd",
       "url": "https://github.com/ayghri/i-have-adhd",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "防止你的程式設計代理掩蓋答案的技能，輸出格式適合 ADHD 用戶。",
       "descriptionEn": "A skill to stop your coding agent from burying the answer. ADHD-friendly output.",
-      "counter": 3,
-      "stars": 38467,
+      "counter": 4,
+      "stars": 41928,
       "firstSeen": "2026-09-09",
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-12"
     },
     {
       "name": "viarotel-org/escrcpy",
       "url": "https://github.com/viarotel-org/escrcpy",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "📱 以圖形化方式顯示並控制你的 Android 裝置 (scrcpy)。",
       "descriptionEn": "📱 Display and control your Android device graphically with scrcpy.",
       "counter": 1,
       "stars": 11413,
@@ -924,7 +924,7 @@
     {
       "name": "openai/plugins",
       "url": "https://github.com/openai/plugins",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "OpenAI 插件。",
       "descriptionEn": "OpenAI Plugins",
       "counter": 2,
       "stars": 6213,
@@ -934,7 +934,7 @@
     {
       "name": "Tencent/teamai-cli",
       "url": "https://github.com/Tencent/teamai-cli",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "讓每個團隊都具備 AI 原生能力。",
       "descriptionEn": "Make Every Team AI Native",
       "counter": 2,
       "stars": 3829,
@@ -944,7 +944,7 @@
     {
       "name": "earthtojake/text-to-cad",
       "url": "https://github.com/earthtojake/text-to-cad",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "用於 CAD、CAE 與 CAM 的代理技能庫。",
       "descriptionEn": "A library of agent skills for CAD, CAE and CAM",
       "counter": 1,
       "stars": 15052,
@@ -954,7 +954,7 @@
     {
       "name": "liquidslr/system-design-notes",
       "url": "https://github.com/liquidslr/system-design-notes",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "《系統設計面試 - 內幕指南》書籍筆記。",
       "descriptionEn": "Notes of the book System Desgin Interview - An Insider's Guide",
       "counter": 2,
       "stars": 18824,
@@ -964,37 +964,37 @@
     {
       "name": "vastsa/PI-Desktop",
       "url": "https://github.com/vastsa/PI-Desktop",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "本地優先的 AI 程式設計代理桌面應用：Electron + Rust 核心 + pi 代理機制 + 用戶可安裝插件。",
       "descriptionEn": "Local-first AI coding agent desktop: Electron + Rust host core + pi Agent Harness + user-installable plugins",
-      "counter": 2,
-      "stars": 2329,
+      "counter": 3,
+      "stars": 2792,
       "firstSeen": "2026-09-10",
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-12"
     },
     {
       "name": "alsk1992/CloddsBot",
       "url": "https://github.com/alsk1992/CloddsBot",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "開源 AI 交易代理，可在 1000 多個市場自動運行 — Polymarket、Kalshi、Binance、Hyperliquid、Solana DEXs、5 個 EVM 鏈。自動掃描機會、即時執行、管理風險。具備機器對機器支付的代理商業協定，可自託管。基於 Claude 构建。",
       "descriptionEn": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
-      "counter": 1,
-      "stars": 1685,
+      "counter": 2,
+      "stars": 2162,
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-12"
     },
     {
       "name": "armory3d/armorpaint",
       "url": "https://github.com/armory3d/armorpaint",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "圖形創作工具。",
       "descriptionEn": "Graphics Creation Tools",
-      "counter": 1,
-      "stars": 4431,
+      "counter": 2,
+      "stars": 4734,
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-12"
     },
     {
       "name": "JustVugg/colibri",
       "url": "https://github.com/JustVugg/colibri",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "在你的硬體上運行尖端 MoE 模型 — 純 C 語言、零依賴、從磁碟串流專家資料。輕量級引擎，強大的模型。🐦",
       "descriptionEn": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "counter": 1,
       "stars": 27484,
@@ -1004,22 +1004,102 @@
     {
       "name": "nashsu/llm_wiki",
       "url": "https://github.com/nashsu/llm_wiki",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "LLM Wiki 是一款跨平台桌面應用，能自動將你的文件轉換為一個組織化、相互連結的知識庫。取代傳統的 RAG（每次都重新擷取與回答），LLM 能從你的來源中增量建立並維護一個持久化的 Wiki。",
       "descriptionEn": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
-      "counter": 1,
-      "stars": 18149,
+      "counter": 2,
+      "stars": 18757,
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-11"
+      "lastSeen": "2026-09-12"
     },
     {
       "name": "vercel-labs/skills",
       "url": "https://github.com/vercel-labs/skills",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "開源代理技能工具 - npx skills",
       "descriptionEn": "The open agent skills tool - npx skills",
       "counter": 1,
       "stars": 31169,
       "firstSeen": "2026-09-11",
       "lastSeen": "2026-09-11"
+    },
+    {
+      "name": "nab138/iloader",
+      "url": "https://github.com/nab138/iloader",
+      "descriptionZhtw": "用戶友好的側載工具。",
+      "descriptionEn": "User friendly sideloader",
+      "counter": 1,
+      "stars": 2917,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "name": "melgarafael/DeskcommCRM",
+      "url": "https://github.com/melgarafael/DeskcommCRM",
+      "descriptionZhtw": "開源 AI 銷售作業系統 — 自託管 CRM，內建 AI 代理 + WhatsApp (WAHA)。適用於所有透過聊天銷售的業務，是 Kommo、Octadesk 與 Intercom 的開源替代品。支援 MCP、多租戶、LGPD。",
+      "descriptionEn": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
+      "counter": 1,
+      "stars": 1368,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "name": "Sonarr/Sonarr",
+      "url": "https://github.com/Sonarr/Sonarr",
+      "descriptionZhtw": "適用於新聞群組與 BitTorrent 用戶的智慧 PVR。",
+      "descriptionEn": "Smart PVR for newsgroup and bittorrent users.",
+      "counter": 1,
+      "stars": 15744,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "name": "jihe520/MathModelAgent",
+      "url": "https://github.com/jihe520/MathModelAgent",
+      "descriptionZhtw": "🤖📐專為數學建模設計的 Agent 與技能，自動完成數學建模並生成一份可直接提交的完整論文。",
+      "descriptionEn": "🤖📐专为数学建模设计的 Agent & skills ,自动完成数学建模，生成一份完整的可以直接提交的论文。 An Agent Designed for Mathematical Modeling ,Automatically complete mathmodel and generate a complete paper ready for submission.",
+      "counter": 1,
+      "stars": 4869,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "name": "p1neappleXpress/OpenFlux",
+      "url": "https://github.com/p1neappleXpress/OpenFlux",
+      "descriptionZhtw": "網路堆疊研究工具。具備可插拔傳輸功能的 TCP 隧道。",
+      "descriptionEn": "Network stack research tool. TCP tunnel with pluggable transports.",
+      "counter": 1,
+      "stars": 1160,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "name": "jordan-gibbs/hyperresearch",
+      "url": "https://github.com/jordan-gibbs/hyperresearch",
+      "descriptionZhtw": "代理驅動的研究知識庫。代理會收集、搜尋並合成網路研究結果，形成一個持久且可搜尋的 Wiki。",
+      "descriptionEn": "Agent-driven research knowledge base. Agents collect, search, and synthesize web research into a persistent, searchable wiki.",
+      "counter": 1,
+      "stars": 2637,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "name": "alphaXiv/OpenResearch",
+      "url": "https://github.com/alphaXiv/OpenResearch",
+      "descriptionZhtw": "使用任何模型運行並行研究代理。",
+      "descriptionEn": "Run parallel research agents with any model",
+      "counter": 1,
+      "stars": 1300,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
+    },
+    {
+      "name": "github/spec-kit",
+      "url": "https://github.com/github/spec-kit",
+      "descriptionZhtw": "💫 幫助你開始「規格驅動開發」的工具包。",
+      "descriptionEn": "💫 Toolkit to help you get started with Spec-Driven Development",
+      "counter": 1,
+      "stars": 135781,
+      "firstSeen": "2026-09-12",
+      "lastSeen": "2026-09-12"
     }
   ]
 }
