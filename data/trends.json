@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-15T02:00:15.886Z",
+  "lastUpdate": "2026-09-16T02:00:10.428Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -296,10 +296,10 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "descriptionZhtw": "Ghidra 是一個軟體逆向工程 (SRE) 框架",
       "descriptionEn": "Ghidra is a software reverse engineering (SRE) framework",
-      "counter": 2,
-      "stars": 73918,
+      "counter": 3,
+      "stars": 76747,
       "firstSeen": "2026-08-29",
-      "lastSeen": "2026-08-31"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -366,10 +366,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式開發代理提供生產等級的工程技能集。",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 2,
-      "stars": 92046,
+      "counter": 3,
+      "stars": 94836,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-04"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "workweave/router",
@@ -576,10 +576,10 @@
       "url": "https://github.com/debpalash/VoiceStudio",
       "descriptionZhtw": "開源、完全本地的 ElevenLabs 替代方案 — 支援 646 種語言的語音克隆、設計、配音、聽寫、轉錄與有聲書創作。",
       "descriptionEn": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription & audiobook creation in 646 languages.",
-      "counter": 5,
-      "stars": 29283,
+      "counter": 6,
+      "stars": 31053,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "sngyai/Sequoia-X",
@@ -606,10 +606,10 @@
       "url": "https://github.com/pacifio/atlas",
       "descriptionZhtw": "代理專用的原始碼控制。整合多個編碼代理，追蹤其變更並在同一處進行查詢。",
       "descriptionEn": "Source control for agents. Use multiple coding agents, track their changes and query them in one place",
-      "counter": 1,
-      "stars": 2911,
+      "counter": 2,
+      "stars": 4647,
       "firstSeen": "2026-09-03",
-      "lastSeen": "2026-09-03"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "zyronon/TypeWords",
@@ -745,7 +745,7 @@
       "name": "humanlayer/skills",
       "url": "https://github.com/humanlayer/skills",
       "descriptionZhtw": "HumanLayer 的代理技能庫，用於增強 AI 的操作與執行能力。",
-      "descriptionEn": "",
+      "descriptionEn": "HumanLayer Agent Skills Library for enhancing AI capabilities.",
       "counter": 2,
       "stars": 3170,
       "firstSeen": "2026-09-06",
@@ -864,7 +864,7 @@
     {
       "name": "MoonTechLab/LunaTV",
       "url": "https://github.com/MoonTechLab/LunaTV",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "LunaTV 是一個非商業化項目，需遵守 CC BY-NC-SA 協議，禁止商業用途。",
       "descriptionEn": "本项目采用 CC BY-NC-SA 协议，禁止任何商业化行为，任何衍生项目必须保留本项目地址并以相同协议开源",
       "counter": 2,
       "stars": 10192,
@@ -996,10 +996,10 @@
       "url": "https://github.com/JustVugg/colibri",
       "descriptionZhtw": "在你的硬體上運行尖端 MoE 模型 — 純 C 語言、零依賴、從磁碟串流專家資料。輕量級引擎，強大的模型。🐦",
       "descriptionEn": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "counter": 3,
-      "stars": 32157,
+      "counter": 4,
+      "stars": 33908,
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "nashsu/llm_wiki",
@@ -1036,10 +1036,10 @@
       "url": "https://github.com/melgarafael/DeskcommCRM",
       "descriptionZhtw": "開源 AI 銷售作業系統 — 自託管 CRM，內建 AI 代理 + WhatsApp (WAHA)。適用於所有透過聊天銷售的業務，是 Kommo、Octadesk 與 Intercom 的開源替代品。支援 MCP、多租戶、LGPD。",
       "descriptionEn": "Open-source AI sales OS — self-hosted CRM with native AI agents + WhatsApp (WAHA). Open alternative to Kommo, Octadesk & Intercom for any business that sells by chat. MCP-ready, multi-tenant, LGPD.",
-      "counter": 3,
-      "stars": 2218,
+      "counter": 4,
+      "stars": 2861,
       "firstSeen": "2026-09-12",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "Sonarr/Sonarr",
@@ -1063,6 +1063,7 @@
     },
     {
       "name": "p1neappleXpress/OpenFlux",
+
       "url": "https://github.com/p1neappleXpress/OpenFlux",
       "descriptionZhtw": "網路堆疊研究工具。具備可插拔傳輸功能的 TCP 隧道。",
       "descriptionEn": "Network stack research tool. TCP tunnel with pluggable transports.",
@@ -1085,11 +1086,11 @@
       "name": "alphaXiv/OpenResearch",
       "url": "https://github.com/alphaXiv/OpenResearch",
       "descriptionZhtw": "使用任何模型運行並行研究代理。",
-      "descriptionEn": "Run parallel research agents with any model",
-      "counter": 2,
-      "stars": 2103,
+      "descriptionEn": "Turn your coding agents into research agents",
+      "counter": 3,
+      "stars": 3406,
       "firstSeen": "2026-09-12",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "github/spec-kit",
@@ -1105,7 +1106,7 @@
       "name": "Flowseal/zapret-discord-youtube",
       "url": "https://github.com/Flowseal/zapret-discord-youtube",
       "descriptionZhtw": "為了規避網路封鎖（特別是 Discord 與 YouTube）的配置工具，用於提升對封鎖服務的連線能力。",
-      "descriptionEn": "",
+      "descriptionEn": "Tool for bypassing network blocks for Discord/YouTube.",
       "counter": 1,
       "stars": 33212,
       "firstSeen": "2026-09-13",
@@ -1164,7 +1165,7 @@
     {
       "name": "tech-leads-club/agent-skills",
       "url": "https://github.com/tech-leads-club/agent-skills",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "專業 AI 編碼代理的安全、驗證技能註冊表。自信地擴展 Antigravity、Claude Code、Cursor、Copilot 等工具。",
       "descriptionEn": "The secure, validated skill registry for professional AI coding agents. Extend Antigravity, Claude Code, Cursor, Copilot and more with absolute confidence.",
       "counter": 2,
       "stars": 6074,
@@ -1174,17 +1175,17 @@
     {
       "name": "alibaba/open-code-review",
       "url": "https://github.com/alibaba/open-code-review",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "高效、快速且經過阿里巴巴大規模實戰驗證的程式碼審查工具：確定性流水線 + LLM 代理，支援精確的行級評論，內建多語言規則集（NPE、執行緒安全、XSS、SQL 注入），相容 OpenAI 與 Anthropic。",
       "descriptionEn": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "counter": 2,
-      "stars": 25878,
+      "counter": 3,
+      "stars": 28740,
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-16"
     },
     {
       "name": "jiji262/douyin-downloader",
       "url": "https://github.com/jiji262/douyin-downloader",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "實用的抖音下載工具，支援單一項目與個人檔案批量下載，具備進度顯示、重試、SQLite 去重以及瀏覽器回退支援。",
       "descriptionEn": "A practical Douyin downloader for both single-item and profile batch downloads, with progress display, retries, SQLite deduplication, and browser fallback support. 抖音批量下载工具，去水印，支持视频、图集、合集、音乐(原声)。",
       "counter": 1,
       "stars": 11394,
@@ -1194,7 +1195,7 @@
     {
       "name": "Swordfish90/cool-retro-term",
       "url": "https://github.com/Swordfish90/cool-retro-term",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "模擬舊式陰極射線管螢幕顯示效果的美觀終端機模擬器。",
       "descriptionEn": "A good looking terminal emulator which mimics the old cathode display...",
       "counter": 1,
       "stars": 26235,
@@ -1204,7 +1205,7 @@
     {
       "name": "huggingface/transformers",
       "url": "https://github.com/huggingface/transformers",
-      "descriptionZhtw": "",
+      "descriptionZhtw": "🤗 Transformers：用於文字、視覺、音訊與多模態模型定義的框架，適用於推理與訓練。",
       "descriptionEn": "🤗 Transformers: the model-definition framework for state-of-the-art machine learning models in text, vision, audio, and multimodal models, for both inference and training.",
       "counter": 2,
       "stars": 165984,
@@ -1214,7 +1215,7 @@
     {
       "name": "666ghj/MiroFish",
       "url": "https://github.com/666ghj/MiroFish",
-      "descriptionZhtw": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 簡潔通用的群體智慧引擎，預測萬物。",
+      "descriptionZhtw": "簡潔通用的群體智慧引擎，預測萬物。",
       "descriptionEn": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "counter": 1,
       "stars": 73190,
@@ -1290,6 +1291,26 @@
       "stars": 8359,
       "firstSeen": "2026-09-15",
       "lastSeen": "2026-09-15"
+    },
+    {
+      "name": "MG1937/ASC",
+      "url": "https://github.com/MG1937/ASC",
+      "descriptionZhtw": "一款專為代理/行動研究人員設計的超快速 Android 反編譯前端工具。",
+      "descriptionEn": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
+      "counter": 1,
+      "stars": 1202,
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    {
+      "name": "earendil-works/pi",
+      "url": "https://github.com/earendil-works/pi",
+      "descriptionZhtw": "AI 代理工具包：統一 LLM API、代理循環、TUI，以及編碼代理 CLI。",
+      "descriptionEn": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "counter": 1,
+      "stars": 105759,
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
     }
   ]
 }
