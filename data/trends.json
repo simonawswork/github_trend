@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-16T02:00:10.428Z",
+  "lastUpdate": "2026-09-17T02:00:15.377Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -296,10 +296,10 @@
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "descriptionZhtw": "Ghidra 是一個軟體逆向工程 (SRE) 框架",
       "descriptionEn": "Ghidra is a software reverse engineering (SRE) framework",
-      "counter": 3,
-      "stars": 76747,
+      "counter": 4,
+      "stars": 77851,
       "firstSeen": "2026-08-29",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "ChromeDevTools/chrome-devtools-mcp",
@@ -366,10 +366,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式開發代理提供生產等級的工程技能集。",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 3,
-      "stars": 94836,
+      "counter": 4,
+      "stars": 95477,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "workweave/router",
@@ -996,10 +996,10 @@
       "url": "https://github.com/JustVugg/colibri",
       "descriptionZhtw": "在你的硬體上運行尖端 MoE 模型 — 純 C 語言、零依賴、從磁碟串流專家資料。輕量級引擎，強大的模型。🐦",
       "descriptionEn": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
-      "counter": 4,
-      "stars": 33908,
+      "counter": 5,
+      "stars": 35067,
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "nashsu/llm_wiki",
@@ -1063,7 +1063,6 @@
     },
     {
       "name": "p1neappleXpress/OpenFlux",
-
       "url": "https://github.com/p1neappleXpress/OpenFlux",
       "descriptionZhtw": "網路堆疊研究工具。具備可插拔傳輸功能的 TCP 隧道。",
       "descriptionEn": "Network stack research tool. TCP tunnel with pluggable transports.",
@@ -1087,10 +1086,10 @@
       "url": "https://github.com/alphaXiv/OpenResearch",
       "descriptionZhtw": "使用任何模型運行並行研究代理。",
       "descriptionEn": "Turn your coding agents into research agents",
-      "counter": 3,
-      "stars": 3406,
+      "counter": 4,
+      "stars": 4448,
       "firstSeen": "2026-09-12",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "github/spec-kit",
@@ -1127,20 +1126,20 @@
       "url": "https://github.com/SnailSploit/Claude-Red",
       "descriptionZhtw": "一套專為 Claude 技能系統設計的進階滲透測試與安全研究技能庫，涵蓋從 SQL 注入、Shellcode 編寫到 EDR 規避等專業方法論。",
       "descriptionEn": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
-      "counter": 3,
-      "stars": 4759,
+      "counter": 4,
+      "stars": 5786,
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "multimodal-art-projection/YuE",
       "url": "https://github.com/multimodal-art-projection/YuE",
       "descriptionZhtw": "前沿音樂生成模型，支援符號規劃、零樣本音樂翻唱，以及基於代理的音樂編輯功能。",
       "descriptionEn": "YuE2: frontier music generation with symbolic planning, zero-shot covers, and agentic music editing.",
-      "counter": 3,
-      "stars": 8374,
+      "counter": 4,
+      "stars": 9389,
       "firstSeen": "2026-09-13",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "max-sixty/worktrunk",
@@ -1177,10 +1176,10 @@
       "url": "https://github.com/alibaba/open-code-review",
       "descriptionZhtw": "高效、快速且經過阿里巴巴大規模實戰驗證的程式碼審查工具：確定性流水線 + LLM 代理，支援精確的行級評論，內建多語言規則集（NPE、執行緒安全、XSS、SQL 注入），相容 OpenAI 與 Anthropic。",
       "descriptionEn": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI & Anthropic compatible.",
-      "counter": 3,
-      "stars": 28740,
+      "counter": 4,
+      "stars": 32044,
       "firstSeen": "2026-09-14",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "jiji262/douyin-downloader",
@@ -1237,10 +1236,10 @@
       "url": "https://github.com/rlaope/oh-my-hermes",
       "descriptionZhtw": "Hermes Agent 的一體化插件 ⚚ 包含編碼智慧、長期記憶系統與模型優化工作流包。",
       "descriptionEn": "All in one plugin for Hermes Agent ⚚ the coding intelligence, a long-term memory system and model optimized workflow packages",
-      "counter": 1,
-      "stars": 2071,
+      "counter": 2,
+      "stars": 2565,
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-17"
     },
     {
       "name": "localsend/localsend",
@@ -1311,6 +1310,96 @@
       "stars": 105759,
       "firstSeen": "2026-09-16",
       "lastSeen": "2026-09-16"
+    },
+    {
+      "name": "cloudflare/security-audit-skill",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "descriptionZhtw": "Cloudflare 的安全審計技能：一個用於多階段安全審計的編碼代理技能，提供獨立驗證的機器可讀調查結果。",
+      "descriptionEn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "counter": 1,
+      "stars": 7377,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "abue-ammar/tinycast",
+      "url": "https://github.com/abue-ammar/tinycast",
+      "descriptionZhtw": "Tinycast — 一個極其輕量、完全原生的 macOS 啟動器、快速鍵與剪貼簿歷史記錄工具。",
+      "descriptionEn": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
+      "counter": 1,
+      "stars": 5626,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "jamiepine/voicebox",
+      "url": "https://github.com/jamiepine/voicebox",
+      "descriptionZhtw": "開源 AI 語音工作室。用於語音克隆、聽寫與創作。",
+      "descriptionEn": "The open-source AI voice studio. Clone, dictate, create.",
+      "counter": 1,
+      "stars": 54415,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "anthropics/knowledge-work-plugins",
+      "url": "https://github.com/anthropics/knowledge-work-plugins",
+      "descriptionZhtw": "開源插件儲存庫，主要提供給知識工作者在 Claude Cowork 中使用。",
+      "descriptionEn": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "counter": 1,
+      "stars": 24307,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "ankitects/anki",
+      "url": "https://github.com/ankitects/anki",
+      "descriptionZhtw": "Anki 是一款智慧間隔重複記憶卡程式。",
+      "descriptionEn": "Anki is a smart spaced repetition flashcard program",
+      "counter": 1,
+      "stars": 30888,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "anthropics/claude-code",
+      "url": "https://github.com/anthropics/claude-code",
+      "descriptionZhtw": "Claude Code 是一款運行在終端機中的代理式程式開發工具，它能理解你的程式碼庫，並透過自然語言命令執行常規任務、解釋複雜程式碼並處理 Git 工作流，協助你更快地開發。",
+      "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
+      "counter": 1,
+      "stars": 145539,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "roboflow/supervision",
+      "url": "https://github.com/roboflow/supervision",
+      "descriptionZhtw": "這是一個提供可重複使用電腦視覺工具的儲存庫。💜",
+      "descriptionEn": "We write your reusable computer vision tools. 💜",
+      "counter": 1,
+      "stars": 50612,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "Tencent/WeKnora",
+      "url": "https://github.com/Tencent/WeKnora",
+      "descriptionZhtw": "開源 LLM 知識平台：將原始文件轉變為可查詢的 RAG、自動化推理代理以及自我維護的 Wiki。",
+      "descriptionEn": "Open-source LLM knowledge platform: turn raw documents into a queryable RAG, an autonomous reasoning agent, and a self-maintaining Wiki.",
+      "counter": 1,
+      "stars": 25377,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
+    },
+    {
+      "name": "cline/cline",
+      "url": "https://github.com/cline/cline",
+      "descriptionZhtw": "作為 SDK、IDE 擴充或終端機助理的自動化編碼代理。",
+      "descriptionEn": "Autonomous coding agent as an SDK, IDE extension, or CLI assistant.",
+      "counter": 1,
+      "stars": 68393,
+      "firstSeen": "2026-09-17",
+      "lastSeen": "2026-09-17"
     }
   ]
 }
