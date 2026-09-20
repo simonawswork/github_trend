@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-19T02:00:15.720Z",
+  "lastUpdate": "2026-09-20T02:00:14.201Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -366,10 +366,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式開發代理提供生產等級的工程技能集。",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 6,
-      "stars": 96423,
+      "counter": 7,
+      "stars": 97067,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     {
       "name": "workweave/router",
@@ -1316,10 +1316,10 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "descriptionZhtw": "Cloudflare 的安全審計技能：一個用於多階段安全審計的編碼代理技能，提供獨立驗證的機器可讀調查結果。",
       "descriptionEn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "counter": 3,
-      "stars": 13799,
+      "counter": 4,
+      "stars": 16449,
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     {
       "name": "abue-ammar/tinycast",
@@ -1346,10 +1346,10 @@
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "descriptionZhtw": "開源插件儲存庫，主要提供給知識工作者在 Claude Cowork 中使用。",
       "descriptionEn": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
-      "counter": 3,
-      "stars": 24893,
+      "counter": 4,
+      "stars": 25139,
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     {
       "name": "ankitects/anki",
@@ -1366,10 +1366,10 @@
       "url": "https://github.com/anthropics/claude-code",
       "descriptionZhtw": "Claude Code 是一款運行在終端機中的代理式程式開發工具，它能理解你的程式碼庫，並透過自然語言命令執行常規任務、解釋複雜程式碼並處理 Git 工作流，協助你更快地開發。",
       "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "counter": 3,
-      "stars": 146321,
+      "counter": 4,
+      "stars": 146730,
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     {
       "name": "roboflow/supervision",
@@ -1436,10 +1436,10 @@
       "url": "https://github.com/coder/coder",
       "descriptionZhtw": "為開發者及其代理提供的安全開發環境。",
       "descriptionEn": "Secure environments for developers and their agents",
-      "counter": 2,
-      "stars": 15306,
+      "counter": 3,
+      "stars": 15636,
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     {
       "name": "n8n-io/n8n",
@@ -1500,6 +1500,86 @@
       "stars": 16476,
       "firstSeen": "2026-09-19",
       "lastSeen": "2026-09-19"
+    },
+    {
+      "name": "Open-Dev-Society/OpenStock",
+      "url": "https://github.com/Open-Dev-Society/OpenStock",
+      "descriptionZhtw": "OpenStock 是昂貴市場平台的開源替代方案。追蹤即時價格、設定個人化警報並探索詳細的公司見解——永遠免費、開放。",
+      "descriptionEn": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
+      "counter": 1,
+      "stars": 16085,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "higgsfield-ai/higgsfield",
+      "url": "https://github.com/higgsfield-ai/higgsfield",
+      "descriptionZhtw": "具備容錯能力、高擴充性的 GPU 編排與機器學習框架，專為訓練數十億至數萬億參數的模型而設計。",
+      "descriptionEn": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
+      "counter": 1,
+      "stars": 4975,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "docling-project/docling",
+      "url": "https://github.com/docling-project/docling",
+      "descriptionZhtw": "為生成式 AI 做好文件準備的工具。",
+      "descriptionEn": "Get your documents ready for gen AI",
+      "counter": 1,
+      "stars": 67087,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "cloudflare/quiche",
+      "url": "https://github.com/cloudflare/quiche",
+      "descriptionZhtw": "QUIC 傳輸協定與 HTTP/3 的美味實現。",
+      "descriptionEn": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
+      "counter": 1,
+      "stars": 12027,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "ruanyf/weekly",
+      "url": "https://github.com/ruanyf/weekly",
+      "descriptionZhtw": "科技愛好者周刊，每周五發布。",
+      "descriptionEn": "科技爱好者周刊，每周五发布",
+      "counter": 1,
+      "stars": 103189,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "ZuodaoTech/everyone-can-use-english",
+      "url": "https://github.com/ZuodaoTech/everyone-can-use-english",
+      "descriptionZhtw": "人人都能用英語。",
+      "descriptionEn": "人人都能用英语",
+      "counter": 1,
+      "stars": 37835,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "cactus-compute/needle",
+      "url": "https://github.com/cactus-compute/needle",
+      "descriptionZhtw": "用於微型設備的自動化基礎模型：2-bit、8-29 MB，可在手機、穿戴設備、智慧家庭、機器人、汽車與微控制器上執行工具呼叫、結構化提取與嵌入。",
+      "descriptionEn": "Automation foundation model for tiny devices: 2-bit, 8-29 MB, tool calls, structured extraction and embeddings on phones, wearables, smart homes, robots, cars and microcontrollers.",
+      "counter": 1,
+      "stars": 11620,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "yynxxxxx/Codex-X",
+      "url": "https://github.com/yynxxxxx/Codex-X",
+      "descriptionZhtw": "OpenAI Codex 桌面端/CLI 的視覺化管理工具，具有 Provider/API 切換、會話同步、提示詞注入、Skills/MCP 管理、TOML 設定視覺化等功能的跨平台工具。",
+      "descriptionEn": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
+      "counter": 1,
+      "stars": 3410,
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
     }
   ]
 }
