@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-20T02:00:14.201Z",
+  "lastUpdate": "2026-09-21T02:00:12.603Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -366,10 +366,10 @@
       "url": "https://github.com/addyosmani/agent-skills",
       "descriptionZhtw": "為 AI 程式開發代理提供生產等級的工程技能集。",
       "descriptionEn": "Production-grade engineering skills for AI coding agents.",
-      "counter": 7,
-      "stars": 97067,
+      "counter": 8,
+      "stars": 97723,
       "firstSeen": "2026-08-30",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-21"
     },
     {
       "name": "workweave/router",
@@ -1316,10 +1316,10 @@
       "url": "https://github.com/cloudflare/security-audit-skill",
       "descriptionZhtw": "Cloudflare 的安全審計技能：一個用於多階段安全審計的編碼代理技能，提供獨立驗證的機器可讀調查結果。",
       "descriptionEn": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
-      "counter": 4,
-      "stars": 16449,
+      "counter": 5,
+      "stars": 18082,
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-21"
     },
     {
       "name": "abue-ammar/tinycast",
@@ -1366,10 +1366,10 @@
       "url": "https://github.com/anthropics/claude-code",
       "descriptionZhtw": "Claude Code 是一款運行在終端機中的代理式程式開發工具，它能理解你的程式碼庫，並透過自然語言命令執行常規任務、解釋複雜程式碼並處理 Git 工作流，協助你更快地開發。",
       "descriptionEn": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
-      "counter": 4,
-      "stars": 146730,
+      "counter": 5,
+      "stars": 147159,
       "firstSeen": "2026-09-17",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-21"
     },
     {
       "name": "roboflow/supervision",
@@ -1436,10 +1436,10 @@
       "url": "https://github.com/coder/coder",
       "descriptionZhtw": "為開發者及其代理提供的安全開發環境。",
       "descriptionEn": "Secure environments for developers and their agents",
-      "counter": 3,
-      "stars": 15636,
+      "counter": 4,
+      "stars": 16079,
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-21"
     },
     {
       "name": "n8n-io/n8n",
@@ -1506,20 +1506,20 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "descriptionZhtw": "OpenStock 是昂貴市場平台的開源替代方案。追蹤即時價格、設定個人化警報並探索詳細的公司見解——永遠免費、開放。",
       "descriptionEn": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "counter": 1,
-      "stars": 16085,
+      "counter": 2,
+      "stars": 16871,
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-21"
     },
     {
       "name": "higgsfield-ai/higgsfield",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "descriptionZhtw": "具備容錯能力、高擴充性的 GPU 編排與機器學習框架，專為訓練數十億至數萬億參數的模型而設計。",
       "descriptionEn": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
-      "counter": 1,
-      "stars": 4975,
+      "counter": 2,
+      "stars": 5402,
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-21"
     },
     {
       "name": "docling-project/docling",
@@ -1580,6 +1580,56 @@
       "stars": 3410,
       "firstSeen": "2026-09-20",
       "lastSeen": "2026-09-20"
+    },
+    {
+      "name": "BuilderIO/agent-native",
+      "url": "https://github.com/BuilderIO/agent-native",
+      "descriptionZhtw": "一個用於建構代理原生應用程式的框架，專注於提供流暢的 AI 互動體驗。",
+      "descriptionEn": "A framework for building agentic apps",
+      "counter": 1,
+      "stars": 5247,
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21"
+    },
+    {
+      "name": "anthropics/financial-services",
+      "url": "https://github.com/anthropics/financial-services",
+      "descriptionZhtw": "Anthropic 針對金融服務業開發的 AI 解決方案與框架，協助企業進行風險評估與合規性分析。",
+      "descriptionEn": "",
+      "counter": 1,
+      "stars": 35393,
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21"
+    },
+    {
+      "name": "paperless-ngx/paperless-ngx",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "descriptionZhtw": "開源的文件管理系統，協助你掃描、索引並封存所有文件，是數位辦公的強大工具。",
+      "descriptionEn": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "counter": 1,
+      "stars": 45595,
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21"
+    },
+    {
+      "name": "mihail911/modern-software-dev-assignments",
+      "url": "https://github.com/mihail911/modern-software-dev-assignments",
+      "descriptionZhtw": "史丹佛大學 2026 年秋季課程 CS146S：現代軟體開發的作業與專案練習。",
+      "descriptionEn": "Assignments for CS146S: The Modern Software Dev (Stanford University Fall 2026/2025)",
+      "counter": 1,
+      "stars": 4575,
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21"
+    },
+    {
+      "name": "vercel-labs/json-render",
+      "url": "https://github.com/vercel-labs/json-render",
+      "descriptionZhtw": "生成式 UI (Generative UI) 框架，協助開發者輕鬆將結構化數據渲染為互動式的 UI 元件。",
+      "descriptionEn": "The Generative UI framework",
+      "counter": 1,
+      "stars": 17359,
+      "firstSeen": "2026-09-21",
+      "lastSeen": "2026-09-21"
     }
   ]
 }
