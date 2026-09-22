@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-21T02:00:12.603Z",
+  "lastUpdate": "2026-09-22T02:00:12.782Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -1276,10 +1276,10 @@
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "descriptionZhtw": "Project NOMAD 是一個離線優先的知識與教育伺服器。維基百科、數千本書籍、課程、地圖與選配的本地 AI，全部都在你自己的硬體上運行，完全不需要網路。",
       "descriptionEn": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
-      "counter": 1,
-      "stars": 36921,
+      "counter": 2,
+      "stars": 37888,
       "firstSeen": "2026-09-15",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "reconurge/flowsint",
@@ -1436,10 +1436,10 @@
       "url": "https://github.com/coder/coder",
       "descriptionZhtw": "為開發者及其代理提供的安全開發環境。",
       "descriptionEn": "Secure environments for developers and their agents",
-      "counter": 4,
-      "stars": 16079,
+      "counter": 5,
+      "stars": 16444,
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "n8n-io/n8n",
@@ -1506,10 +1506,10 @@
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "descriptionZhtw": "OpenStock 是昂貴市場平台的開源替代方案。追蹤即時價格、設定個人化警報並探索詳細的公司見解——永遠免費、開放。",
       "descriptionEn": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
-      "counter": 2,
-      "stars": 16871,
+      "counter": 3,
+      "stars": 17794,
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "higgsfield-ai/higgsfield",
@@ -1536,20 +1536,20 @@
       "url": "https://github.com/cloudflare/quiche",
       "descriptionZhtw": "QUIC 傳輸協定與 HTTP/3 的美味實現。",
       "descriptionEn": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
-      "counter": 1,
-      "stars": 12027,
+      "counter": 2,
+      "stars": 12370,
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "ruanyf/weekly",
       "url": "https://github.com/ruanyf/weekly",
       "descriptionZhtw": "科技愛好者周刊，每周五發布。",
       "descriptionEn": "科技爱好者周刊，每周五发布",
-      "counter": 1,
-      "stars": 103189,
+      "counter": 2,
+      "stars": 104002,
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "ZuodaoTech/everyone-can-use-english",
@@ -1576,30 +1576,30 @@
       "url": "https://github.com/yynxxxxx/Codex-X",
       "descriptionZhtw": "OpenAI Codex 桌面端/CLI 的視覺化管理工具，具有 Provider/API 切換、會話同步、提示詞注入、Skills/MCP 管理、TOML 設定視覺化等功能的跨平台工具。",
       "descriptionEn": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
-      "counter": 1,
-      "stars": 3410,
+      "counter": 2,
+      "stars": 3707,
       "firstSeen": "2026-09-20",
-      "lastSeen": "2026-09-20"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "BuilderIO/agent-native",
       "url": "https://github.com/BuilderIO/agent-native",
       "descriptionZhtw": "一個用於建構代理原生應用程式的框架，專注於提供流暢的 AI 互動體驗。",
       "descriptionEn": "A framework for building agentic apps",
-      "counter": 1,
-      "stars": 5247,
+      "counter": 2,
+      "stars": 5945,
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "anthropics/financial-services",
       "url": "https://github.com/anthropics/financial-services",
       "descriptionZhtw": "Anthropic 針對金融服務業開發的 AI 解決方案與框架，協助企業進行風險評估與合規性分析。",
       "descriptionEn": "",
-      "counter": 1,
-      "stars": 35393,
+      "counter": 2,
+      "stars": 35854,
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-21"
+      "lastSeen": "2026-09-22"
     },
     {
       "name": "paperless-ngx/paperless-ngx",
@@ -1630,6 +1630,36 @@
       "stars": 17359,
       "firstSeen": "2026-09-21",
       "lastSeen": "2026-09-21"
+    },
+    {
+      "name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "descriptionZhtw": "為 AI 代理提供長期記憶解決方案，解決不同代理商之間的任務交接問題。",
+      "descriptionEn": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
+      "counter": 1,
+      "stars": 7718,
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    {
+      "name": "mvt-project/mvt",
+      "url": "https://github.com/mvt-project/mvt",
+      "descriptionZhtw": "行動驗證工具包 (MVT)，協助進行行動裝置鑑識以尋找潛在入侵跡象。",
+      "descriptionEn": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
+      "counter": 1,
+      "stars": 13618,
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22"
+    },
+    {
+      "name": "zhouxiaoka/autoclip",
+      "url": "https://github.com/zhouxiaoka/autoclip",
+      "descriptionZhtw": "AutoClip：AI 驅動的影片高光提取與剪輯工具，專為二創設計。",
+      "descriptionEn": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
+      "counter": 1,
+      "stars": 8290,
+      "firstSeen": "2026-09-22",
+      "lastSeen": "2026-09-22"
     }
   ]
 }
