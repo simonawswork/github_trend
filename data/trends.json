@@ -1,5 +1,5 @@
 {
-  "lastUpdate": "2026-09-22T02:00:12.782Z",
+  "lastUpdate": "2026-09-23T02:00:11.177Z",
   "repos": [
     {
       "name": "NousResearch/hermes-agent",
@@ -536,10 +536,10 @@
       "url": "https://github.com/browser-use/video-use",
       "descriptionZhtw": "使用程式設計代理編輯影片。",
       "descriptionEn": "Edit videos with coding agents",
-      "counter": 1,
-      "stars": 22987,
+      "counter": 2,
+      "stars": 25872,
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-02"
+      "lastSeen": "2026-09-23"
     },
     {
       "name": "averygan/reclip",
@@ -1596,10 +1596,10 @@
       "url": "https://github.com/anthropics/financial-services",
       "descriptionZhtw": "Anthropic 針對金融服務業開發的 AI 解決方案與框架，協助企業進行風險評估與合規性分析。",
       "descriptionEn": "",
-      "counter": 2,
-      "stars": 35854,
+      "counter": 3,
+      "stars": 36372,
       "firstSeen": "2026-09-21",
-      "lastSeen": "2026-09-22"
+      "lastSeen": "2026-09-23"
     },
     {
       "name": "paperless-ngx/paperless-ngx",
@@ -1646,10 +1646,10 @@
       "url": "https://github.com/mvt-project/mvt",
       "descriptionZhtw": "行動驗證工具包 (MVT)，協助進行行動裝置鑑識以尋找潛在入侵跡象。",
       "descriptionEn": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
-      "counter": 1,
-      "stars": 13618,
+      "counter": 2,
+      "stars": 14132,
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-22"
+      "lastSeen": "2026-09-23"
     },
     {
       "name": "zhouxiaoka/autoclip",
@@ -1660,6 +1660,46 @@
       "stars": 8290,
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-09-22"
+    },
+    {
+      "name": "agent-substrate/substrate",
+      "url": "https://github.com/agent-substrate/substrate",
+      "descriptionZhtw": "代理基礎層：核心系統。",
+      "descriptionEn": "Agent Substrate: the core system",
+      "counter": 1,
+      "stars": 2997,
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    {
+      "name": "dream-num/univer",
+      "url": "https://github.com/dream-num/univer",
+      "descriptionZhtw": "AI 代理的辦公套件 — 在同一個執行環境中整合試算表、文件、簡報、畫布、關聯式表格與 PDF。",
+      "descriptionEn": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "counter": 1,
+      "stars": 15487,
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    {
+      "name": "google/ax",
+      "url": "https://github.com/google/ax",
+      "descriptionZhtw": "Google 開源的代理編排執行環境。",
+      "descriptionEn": "Google's open agentic orchestration runtime",
+      "counter": 1,
+      "stars": 7674,
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    {
+      "name": "superdesigndev/treg",
+      "url": "https://github.com/superdesigndev/treg",
+      "descriptionZhtw": "代理工具的 OpenRouter。歡迎加入社群：https://discord.gg/6mQYYfFMAn",
+      "descriptionEn": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
+      "counter": 1,
+      "stars": 2248,
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
     }
   ]
 }
